@@ -1,7 +1,7 @@
 QuizBowl Coreference Tool
 =============
 
-This tool currently functions independently from the rest of the repository and is used to tag coreferences in quiz bowl questions.
+This tool is used to tag coreferences in quiz bowl questions.
 
 System Requirements
 -------
