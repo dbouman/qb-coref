@@ -1,0 +1,7 @@
+# ignore eclipse
+.buildpath
+.project
+.settings/
+
+# ignore coref config
+includes/config.php

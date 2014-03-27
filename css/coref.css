@@ -1,0 +1,170 @@
+body {
+	padding-top: 60px;
+	padding-bottom: 40px;
+}
+
+.container {
+	width: 970px;
+	max-width: none !important;
+}
+
+.row1 {
+	height: 400px;
+}
+
+#points {
+	font-weight: bold;
+}
+
+#answer_container {
+	display: none;
+	margin-top: 15px;
+	margin-left: 5px;
+	width: 630px;
+}
+
+
+#question {
+	position: absolute;
+	width: 675px;
+	height: 350px;
+	background: none;
+	z-index: 10;
+	margin: 0;
+	padding: 4px;
+	resize: none;
+	color: #000000;
+}
+
+textarea#question[readonly] {
+	cursor: auto;
+	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    border: none; 
+    -moz-padding-end: 0;  
+	-moz-padding-start: 3px; 
+}
+
+.question-overlay {
+	position: absolute;
+	width: 675px;
+	height: 350px;
+	margin: 0;
+	padding: 4px;
+	color: rgba(0, 0, 0, 0); /* Transparent text */
+	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 14px;
+	z-index: 5;
+}
+
+#results {
+	height: 400px;
+	overflow: visible;
+}
+
+#results div {
+	margin-top: 2px;
+}
+
+#undo {
+	margin-right: 110px;
+}
+
+#answer {
+	margin-left: 145px;
+}
+
+#saved-state {
+	display: none;
+	font-size: 12px;
+	font-weight: normal;
+	font-family: "Courier New", Courier, monospace";
+	color: #999999;
+	margin-left: 5px;
+}
+
+#clear_all {
+	display: none;
+	margin-bottom: 7px;
+}
+
+#legend-title {
+	text-align: center;
+	margin-top: 20px;
+}
+
+#legend {
+	font-size: 11px;
+}
+
+#legend .col-md-1 {
+	width: 75px;
+}
+
+#legend .box {
+	width: 20px;
+	height: 20px;
+	margin: 0 auto;
+	border: none;
+	border-radius: 0;
+}
+
+#legend .coref-key {
+	text-align: center;
+}
+
+/* Coreference Colors */
+
+.coref1 {
+	background-color: rgba(102, 141, 186, 0.5);
+	border: 1px solid;
+	border-radius: 5px;
+}
+
+.coref2 {
+	background-color: rgba(102, 141, 60, 0.5);
+	border: 1px solid;
+	border-radius: 5px;
+}
+
+.coref3 {
+	background-color: rgba(213, 117, 0, 0.5);
+	border: 1px solid;
+	border-radius: 5px;
+}
+
+.coref4 {
+	background-color: rgba(219, 202, 105, 0.5);
+	border: 1px solid;
+	border-radius: 5px;
+}
+
+.coref5 {
+	background-color: rgba(143, 59, 27, 0.5);
+	border: 1px solid;
+	border-radius: 5px;
+}
+
+.coref6 {
+	background-color: rgba(159, 131, 146, 0.5);
+	border: 1px solid;
+	border-radius: 5px;
+}
+
+.coref7 {
+	background-color: rgba(186, 147, 102, 0.5);
+	border: 1px solid;
+	border-radius: 5px;
+}
+
+.coref8 {
+	background-color: rgba(169, 161, 140, 0.5);
+	border: 1px solid;
+	border-radius: 5px;
+}
+
+.coref9 {
+	background-color: rgba(73, 56, 41, 0.5);
+	border: 1px solid;
+	border-radius: 5px;
+}
