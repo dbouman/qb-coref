@@ -387,10 +387,10 @@ $leaderboard = $qbc->getLeaderboard($limit);
 					each case, we will verify that the annotations are correct before
 					awarding prizes.</span>
 			</p>
+			<p>&nbsp;</p>
 			<p class="c2">
 				<span>If you encounter any mistakes or would like to report any bugs,
-					please contact </span><span>&lt;do we have a group email or should
-					people contact me directly?&gt;</span>
+					please create a <a href="http://github.com/dbouman/qb-coref/issues" target="_blank">new issue</a>.</span>
 			</p>
 		</div>
 		<br />
