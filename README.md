@@ -12,11 +12,11 @@ System Requirements
 
 Installation
 -------
-1. Clone this repository in to your webserver htdocs folder (`git clone https://github.com/miyyer/qblearn.git`) 
+1. Clone this repository in to your webserver htdocs folder (`git clone https://github.com/dbouman/qb-coref.git`) 
 2. Create a MySQL database
-3. Import the MySQL database file (`mysql -p -u username database-name < coref/install/qbcoref.sql`)
-4. Copy coref/includes/config.default.php to coref/includes/config.php and fill in database information
-5. Open your web browser and go to http://yourhost/qblearn/coref/
+3. Import the MySQL database file (`mysql -p -u username database-name < install/qbcoref.sql`)
+4. Copy includes/config.default.php to includes/config.php and fill in database information
+5. Open your web browser and go to http://yourhost/qb-coref/
 
 How to Use
 -------
@@ -30,5 +30,4 @@ Shortcut Keys
 * P = Go to the previous question
 * N = Go to the next question
 * A = View the question's answer
-* S = Save all of your coreferences
 * Select Text + 1-9 = Create a new coreference group based on selected text 
