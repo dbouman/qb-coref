@@ -93,6 +93,24 @@ $nextqid = $qbc->getNextQuestion($qid);
 					<div id="clear_all" style="text-align: center;">
 						<button id="clear" class="btn btn-xs btn-danger" type="button" onclick="clearAll();">Clear All</button>
 	  				</div>
+	  				<div id="group1-header" class="group-header">GROUP 1</div>
+	  				<div id="group1-results" class="group-results"></div>
+	  				<div id="group2-header" class="group-header">GROUP 2</div>
+	  				<div id="group2-results" class="group-results"></div>
+	  				<div id="group3-header" class="group-header">GROUP 3</div>
+	  				<div id="group3-results" class="group-results"></div>
+	  				<div id="group4-header" class="group-header">GROUP 4</div>
+	  				<div id="group4-results" class="group-results"></div>
+	  				<div id="group5-header" class="group-header">GROUP 5</div>
+	  				<div id="group5-results" class="group-results"></div>
+	  				<div id="group6-header" class="group-header">GROUP 6</div>
+	  				<div id="group6-results" class="group-results"></div>
+	  				<div id="group7-header" class="group-header">GROUP 7</div>
+	  				<div id="group7-results" class="group-results"></div>
+	  				<div id="group8-header" class="group-header">GROUP 8</div>
+	  				<div id="group8-results" class="group-results"></div>
+	  				<div id="group9-header" class="group-header">GROUP 9</div>
+	  				<div id="group9-results" class="group-results"></div>
 				</div>
 			</div>
 		</div>

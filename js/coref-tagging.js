@@ -123,10 +123,11 @@ function createExistingTag(tag_id, annotation, pos, type) {
 }
 
 function appendAnnotation (type, tag_id, annotation) {
-	$(annotation_container).append(
+	$('#group'+type+'-results').append(
 			'<div id="anno' + tag_id + '" class="coref' + type
 					+ '"><a href="#" onclick="deleteTag(' + tag_id
-					+ ',false)">[X]</a> ' + annotation + '</div>');
+					+ ',false)">[X]</a> ' + annotation + '</div>').show();
+	$('#group'+type+'-header').show();
 }
 
 // helper function to create color overlay
@@ -163,6 +164,11 @@ function undoLastTag() {
 
 	var tag = history.pop(); // removes from history
 	$('#anno' + tag + ',#tag' + tag).remove();
+	var type = tags[tag]['type'];
+	if ($('#group'+type+'-results').is(':empty')) {
+		$('#group'+type+'-results').hide();
+		$('#group'+type+'-header').hide();
+	}
 	delete tags[tag]; // remove from tags array
 	tags.length--;
 	
@@ -175,6 +181,11 @@ function undoLastTag() {
 // delete a specific tag
 function deleteTag(tag, ignore_save) {
 	$('#anno' + tag + ',#tag' + tag).remove();
+	var type = tags[tag]['type'];
+	if ($('#group'+type+'-results').is(':empty')) {
+		$('#group'+type+'-results').hide();
+		$('#group'+type+'-header').hide();
+	}
 	delete tags[tag]; // remove from tags array
 	tags.length--;
 	history.splice(history.indexOf(tag), 1); // removes from history
@@ -193,7 +204,6 @@ function clearAll() {
 		var i = history.length;
 		while(history.length > 0) {
 		    tag = history[i-1];
-		    console.log(tag);
 		    deleteTag(tag,true);
 		    i--;
 		}
