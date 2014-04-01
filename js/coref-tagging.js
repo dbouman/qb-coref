@@ -7,41 +7,15 @@ var history = new Array();
 // initialize shortcut keys
 function initShortcuts() {
 	// coref hotkeys
-	$('#question').bind('keydown', '1', function(e) {
-		createNewTag('1');
-	});
-	
-	$('#question').bind('keydown', '2', function(e) {
-		createNewTag('2');
-	});
-	
-	$('#question').bind('keydown', '3', function(e) {
-		createNewTag('3');
-	});
-	
-	$('#question').bind('keydown', '4', function(e) {
-		createNewTag('4');
-	});
-	
-	$('#question').bind('keydown', '5', function(e) {
-		createNewTag('5');
-	});
-	
-	$('#question').bind('keydown', '6', function(e) {
-		createNewTag('6');
-	});
-	
-	$('#question').bind('keydown', '7', function(e) {
-		createNewTag('7');
-	});
-	
-	$('#question').bind('keydown', '8', function(e) {
-		createNewTag('8');
-	});
-	
-	$('#question').bind('keydown', '9', function(e) {
-		createNewTag('9');
-	});
+	createHotkey('1');
+	createHotkey('2');
+	createHotkey('3');
+	createHotkey('4');
+	createHotkey('5');
+	createHotkey('6');
+	createHotkey('7');
+	createHotkey('8');
+	createHotkey('9');
 	
 	// prev hotkey and button
 	if (prevqid != 2147483647) {
@@ -75,9 +49,55 @@ function qbAutoSave() {
 	});
 }
 
+function changeLastTag(type) {
+	if (tags.length == 0)
+		return;
+	
+	// Remove previous tag
+	var tag = history.pop(); // removes from history
+	var annotation = tags[tag]['description'];
+	var pos = tags[tag]['pos'];
+	var old_type = tags[tag]['type'];
+	$('#anno' + tag + ',#tag' + tag).remove();
+	if ($('#group'+old_type+'-results').is(':empty')) {
+		$('#group'+old_type+'-results').hide();
+		$('#group'+old_type+'-header').hide();
+	}
+	delete tags[tag]; // remove from tags array
+	tags.length--;
+	
+	// Add new tag groupping
+	var tag_id = tag_counter;
+	tag_counter++;
+	
+	appendAnnotation (type, tag_id, annotation);
+	highlightText(type, tag_id, pos);
+	
+	// add to tags array
+	tags[tag_id] = new Object();
+	tags[tag_id]['id'] = tag_id;
+	tags[tag_id]['description'] = annotation;
+	tags[tag_id]['pos'] = pos;
+	tags[tag_id]['type'] = type;
+	tags.length++;
+	
+	// add to history
+	history.push(tag_id);
+	
+	toggleClearButton();
+	
+	// Auto save
+	qbAutoSave();
+}
+
 // create a new coreference tag
 function createNewTag(type) {
 	var annotation = $(question_id).selection('get');
+	// If selection is empty, change last selection to new tag
+	if (!annotation) {
+		changeLastTag(type);
+		return;
+	}
 	var tag_id = tag_counter;
 	tag_counter++;
 	var pos = $(question_id).selection('getPos');
@@ -220,6 +240,15 @@ function toggleClearButton() {
 	else if (!element.is(':visible')) {
 		element.show();
 	}
+}
+
+function createHotkey(key) {
+	$(document).bind('keydown', key, function(e) {
+		changeLastTag(key);
+	});
+	$('#question').bind('keydown', key, function(e) {
+		createNewTag(key);
+	});
 }
 
 function createButtonAndHotkey(element, key, action) {
