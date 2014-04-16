@@ -111,6 +111,24 @@ $nextqid = $qbc->getNextQuestion($qid);
 	  				<div id="group8-results" class="group-results"></div>
 	  				<div id="group9-header" class="group-header">GROUP 9</div>
 	  				<div id="group9-results" class="group-results"></div>
+	  				<div id="groupq-header" class="group-header">GROUP Q</div>
+	  				<div id="groupq-results" class="group-results"></div>
+	  				<div id="groupw-header" class="group-header">GROUP W</div>
+	  				<div id="groupw-results" class="group-results"></div>
+	  				<div id="groupe-header" class="group-header">GROUP E</div>
+	  				<div id="groupe-results" class="group-results"></div>
+	  				<div id="groupr-header" class="group-header">GROUP R</div>
+	  				<div id="groupr-results" class="group-results"></div>
+	  				<div id="groupt-header" class="group-header">GROUP T</div>
+	  				<div id="groupt-results" class="group-results"></div>
+	  				<div id="groupy-header" class="group-header">GROUP Y</div>
+	  				<div id="groupy-results" class="group-results"></div>
+	  				<div id="groupu-header" class="group-header">GROUP U</div>
+	  				<div id="groupu-results" class="group-results"></div>
+	  				<div id="groupi-header" class="group-header">GROUP I</div>
+	  				<div id="groupi-results" class="group-results"></div>
+	  				<div id="groupo-header" class="group-header">GROUP O</div>
+	  				<div id="groupo-results" class="group-results"></div>
 				</div>
 			</div>
 		</div>
@@ -127,17 +145,32 @@ $nextqid = $qbc->getNextQuestion($qid);
 				<h5 id="legend-title">Coreference Group Hotkeys</h5>
 			</div>
 		</div>
-		<div id="legend" class="row">
-			<div class="col-md-1"><div class="coref1 box"></div><div class="coref-key">1<span style="color: red;">**</span></div></div>
-			<div class="col-md-1"><div class="coref2 box"></div><div class="coref-key">2</div></div>
-			<div class="col-md-1"><div class="coref3 box"></div><div class="coref-key">3</div></div>
-			<div class="col-md-1"><div class="coref4 box"></div><div class="coref-key">4</div></div>
-			<div class="col-md-1"><div class="coref5 box"></div><div class="coref-key">5</div></div>
-			<div class="col-md-1"><div class="coref6 box"></div><div class="coref-key">6</div></div>
-			<div class="col-md-1"><div class="coref7 box"></div><div class="coref-key">7</div></div>
-			<div class="col-md-1"><div class="coref8 box"></div><div class="coref-key">8</div></div>
-			<div class="col-md-1"><div class="coref9 box"></div><div class="coref-key">9</div></div>
-			<div class="col-md-9" style="text-align: left; margin-top: 10px; margin-left: 20px;"><span style="color: red;">**</span> - Use 1 when coreference relates to answer</div>
+		<div id="legend">
+			<div class="row">
+				<div class="col-md-1"><div class="coref1 box"></div><div class="coref-key">1<span style="color: red;">**</span></div></div>
+				<div class="col-md-1"><div class="coref2 box"></div><div class="coref-key">2</div></div>
+				<div class="col-md-1"><div class="coref3 box"></div><div class="coref-key">3</div></div>
+				<div class="col-md-1"><div class="coref4 box"></div><div class="coref-key">4</div></div>
+				<div class="col-md-1"><div class="coref5 box"></div><div class="coref-key">5</div></div>
+				<div class="col-md-1"><div class="coref6 box"></div><div class="coref-key">6</div></div>
+				<div class="col-md-1"><div class="coref7 box"></div><div class="coref-key">7</div></div>
+				<div class="col-md-1"><div class="coref8 box"></div><div class="coref-key">8</div></div>
+				<div class="col-md-1"><div class="coref9 box"></div><div class="coref-key">9</div></div>
+			</div>
+			<div class="row" style="margin-top: 5px;">
+				<div class="col-md-1"><div class="corefq box"></div><div class="coref-key">Q</div></div>
+				<div class="col-md-1"><div class="corefw box"></div><div class="coref-key">W</div></div>
+				<div class="col-md-1"><div class="corefe box"></div><div class="coref-key">E</div></div>
+				<div class="col-md-1"><div class="corefr box"></div><div class="coref-key">R</div></div>
+				<div class="col-md-1"><div class="coreft box"></div><div class="coref-key">T</div></div>
+				<div class="col-md-1"><div class="corefy box"></div><div class="coref-key">Y</div></div>
+				<div class="col-md-1"><div class="corefu box"></div><div class="coref-key">U</div></div>
+				<div class="col-md-1"><div class="corefi box"></div><div class="coref-key">I</div></div>
+				<div class="col-md-1"><div class="corefo box"></div><div class="coref-key">O</div></div>
+			</div>
+			<div class="row">
+				<div class="col-md-9" style="text-align: left; margin-top: 10px; margin-left: 20px;"><span style="color: red;">**</span> - Use 1 when coreference relates to answer</div>
+			</div>
 		</div>
 		<div id="answer_container" class="row alert alert-success">
 			<div class="col-md-9">

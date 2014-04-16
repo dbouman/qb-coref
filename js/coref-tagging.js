@@ -16,6 +16,16 @@ function initShortcuts() {
 	createHotkey('7');
 	createHotkey('8');
 	createHotkey('9');
+	createHotkey('q');
+	createHotkey('w');
+	createHotkey('e');
+	createHotkey('r');
+	createHotkey('t');
+	createHotkey('y');
+	createHotkey('u');
+	createHotkey('i');
+	createHotkey('o');
+	
 	
 	// prev hotkey and button
 	if (prevqid != 2147483647) {
@@ -244,7 +254,9 @@ function toggleClearButton() {
 
 function createHotkey(key) {
 	$(document).bind('keydown', key, function(e) {
-		changeLastTag(key);
+		if (e.which < 90) { // Special exception to ignore F keys that have same ascii values
+			changeLastTag(key);
+		}
 	});
 	$('#question').bind('keydown', key, function(e) {
 		createNewTag(key);

@@ -127,10 +127,11 @@ class QBCoref
 	}
 	
 	public function saveCoref($qid, $author, $pos_start, $pos_end, $description, $coref_group) {
+		$translated_group = $this->translateCorefGroup($coref_group);
 		$this->db->Execute("INSERT INTO coreferences 
 							(`qid`,`pos_start`,`pos_end`,`description`,`coref_group`,`author`) 
 							VALUES 
-							('$qid',$pos_start,$pos_end,'$description',$coref_group,'$author')
+							('$qid',$pos_start,$pos_end,'$description',$translated_group,'$author')
 							");
 	}
 	
@@ -150,7 +151,8 @@ class QBCoref
 					$tags[$i]['id'] = $i;
 					$tags[$i]['annotation'] = $coref['description'];
 					$tags[$i]['pos'] = array('start' => $coref['pos_start'], 'end' => $coref['pos_end']);
-					$tags[$i]['type'] = $coref['coref_group'];
+					$translated_group = $this->translateCorefGroup($coref['coref_group']);
+					$tags[$i]['type'] = $translated_group;
 					$i++;
 				}
 				
@@ -159,6 +161,32 @@ class QBCoref
 		}
 	
 		return $json_output;
+	}
+	
+	public function translateCorefGroup($group) {
+		$translations = array();
+		$translations['q'] = '10';
+		$translations['w'] = '11';
+		$translations['e'] = '12';
+		$translations['r'] = '13';
+		$translations['t'] = '14';
+		$translations['y'] = '15';
+		$translations['u'] = '16';
+		$translations['i'] = '17';
+		$translations['o'] = '18';
+		$result = $group;
+		if (array_key_exists($group,$translations)) {
+			$result = $translations[$group];
+			
+		}
+		else {
+			$inverse = array_flip($translations);
+			if (array_key_exists($group,$inverse)) {
+				$result = $inverse[$group];
+			}
+		}
+		
+		return $result;
 	}
 	
 	public function getQuestion($qid) {
