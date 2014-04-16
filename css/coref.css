@@ -24,6 +24,10 @@ body {
 	font-weight: bold;
 }
 
+#accuracy-alert {
+	display: none;
+}
+
 #points {
 	font-weight: bold;
 }
@@ -78,12 +82,21 @@ textarea#question[readonly] {
 	margin-top: 2px;
 }
 
+.accuracy {
+	display: none;
+	font-style: italic;	
+}
+
 #undo {
-	margin-right: 110px;
+	margin-right: 120px;
+}
+
+#check_accuracy {
+	margin-left: 60px;
 }
 
 #answer {
-	margin-left: 145px;
+	margin-left: 5px;
 }
 
 #saved-state {

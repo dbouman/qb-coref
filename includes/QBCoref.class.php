@@ -127,6 +127,7 @@ class QBCoref
 	}
 	
 	public function saveCoref($qid, $author, $pos_start, $pos_end, $description, $coref_group) {
+		// TODO: Prevent duplicate corefs from same author, and trim whitespace 
 		$translated_group = $this->translateCorefGroup($coref_group);
 		$this->db->Execute("INSERT INTO coreferences 
 							(`qid`,`pos_start`,`pos_end`,`description`,`coref_group`,`author`) 
@@ -187,6 +188,33 @@ class QBCoref
 		}
 		
 		return $result;
+	}
+	
+	public function getAccuracy($qid, $description, $pos_start, $pos_end) {
+		$author = $_SESSION['username'];
+		
+		$count = $this->db->GetOne("SELECT count(cid) FROM coreferences 
+									WHERE qid = '". $qid . "' 
+										AND author != '" . $author . "' 
+										AND pos_start = '" . $pos_start . "'
+										AND pos_end = '" . $pos_end . "'");
+		
+		if (!$count)
+			$count = 0;
+		
+		return $count;
+	}
+	
+	/*
+	 * Counts number of unique users to tag question. Used in computing accuracy
+	 */
+	public function getTimesTaggedByOthers($qid) {
+		$author = $_SESSION['username'];
+		$count = $this->db->GetOne("SELECT count(DISTINCT author) FROM coreferences
+				WHERE qid = '". $qid . "'
+				AND author != '" . $author . "' ");
+		
+		return $count;
 	}
 	
 	public function getQuestion($qid) {

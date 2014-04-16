@@ -3,6 +3,7 @@ var tag_counter = 0;
 var tags = new Object();
 tags.length = 0;
 var history = new Array();
+var accuracy_shown = 0;
 
 // initialize shortcut keys
 function initShortcuts() {
@@ -44,6 +45,11 @@ function initShortcuts() {
 	// undo hotkey and button
 	createButtonAndHotkey('#undo', 'ctrl+z', function(e) {
 		undoLastTag();
+	});
+	
+	// check accuracy hotkey and button
+	createButtonAndHotkey('#check_accuracy', 'c', function(e) {
+		toggleAccuracy();
 	});
 	
 	// show answer hotkey and button
@@ -132,6 +138,9 @@ function createNewTag(type) {
 	
 	// Auto save
 	qbAutoSave();
+	
+	// Lookup accuracy
+	getAccuracy(tag_id, annotation, pos);
 }
 
 // create coreference from existing tag
@@ -150,14 +159,46 @@ function createExistingTag(tag_id, annotation, pos, type) {
 	tag_counter++;
 	
 	toggleClearButton()
+	
+	// Lookup accuracy
+	getAccuracy(tag_id, annotation, pos);
 }
 
 function appendAnnotation (type, tag_id, annotation) {
 	$('#group'+type+'-results').append(
 			'<div id="anno' + tag_id + '" class="coref' + type
 					+ '"><a href="#" onclick="deleteTag(' + tag_id
-					+ ',false)">[X]</a> ' + annotation + '</div>').show();
+					+ ',false)">[X]</a> ' + annotation + '<div id="accuracy' + tag_id + '" class="accuracy small"></div></div>').show();
 	$('#group'+type+'-header').show();
+}
+
+function getAccuracy(tag_id, annotation, pos) {
+	// Ignore if this is the first time a question has been tagged
+	if (times_tagged > 0) {
+		$.post( "ajax.php?action=accuracy", {'qid': qid, 'description': annotation, 'pos': pos, 'times_tagged': times_tagged}, function( data ) {
+			$('#accuracy'+tag_id).text(data);
+		});
+		
+		if (accuracy_shown == 1) {
+			$('#accuracy'+tag_id).show();
+		}
+	}
+}
+
+function toggleAccuracy() {
+	if (times_tagged > 0) {
+		if (accuracy_shown == 1) {
+			$(".accuracy").hide();
+			accuracy_shown = 0;
+		}
+		else {
+			$(".accuracy").show();
+			accuracy_shown = 1;
+		}
+	}
+	else {
+		$('#accuracy-alert').fadeIn().delay(5000).fadeOut();
+	}
 }
 
 // helper function to create color overlay

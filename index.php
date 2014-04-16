@@ -17,6 +17,7 @@ $qbc->updateLastQuestion($qid);
 $question = $qbc->getQuestion($qid);
 $answer = $qbc->getAnswer($qid);
 $corefs = $qbc->getCorefsAsJSON($qid, $_SESSION['username']);
+$times_tagged = $qbc->getTimesTaggedByOthers($qid);
 
 $prevqid = $qbc->getPrevQuestion($qid);
 $nextqid = $qbc->getNextQuestion($qid);
@@ -44,6 +45,7 @@ $nextqid = $qbc->getNextQuestion($qid);
 	  var prevqid = <?php print $prevqid; ?>;
 	  var nextqid = <?php print $nextqid; ?>;
 	  var total_questions = <?php print $qbc->getTotalQuestions(); ?>;
+	  var times_tagged = <?php print $times_tagged; ?>;
 	  
 	  $(document).ready(function(){
 		  <?php 
@@ -81,6 +83,10 @@ $nextqid = $qbc->getNextQuestion($qid);
 			  here. If you're not sure what to do, please visit our <a href="help.php">getting started</a> page.
 			</div>
 		<?php } ?>
+		<div id="accuracy-alert" class="alert alert-info alert-dismissable">
+		  <button type="button" class="close" data-dismiss="alert" aria-hidden="true">&times;</button>
+		  You are the first person to tag this question. Please check accuracy at a later time.
+		</div>
     	<div class="row row1">
 			<div class="col-md-9">
 				<h4>Question #<?php print $qid; ?> <span id="saved-state">Saved...</span></h4>
@@ -134,10 +140,11 @@ $nextqid = $qbc->getNextQuestion($qid);
 		</div>
 		<div class="row">
 			<div class="col-md-9">
-				<input type="button" value="Undo [ctrl+z]" name="undo" id="undo" class="btn btn-default"> 
-				<input type="button" value="Previous [p]" name="prev" id="prev" class="btn btn-default"<?php if ($prevqid == PHP_INT_MAX) print " disabled=disabled"; ?>>
-				<input type="button" value="Next [n]" name="next" id="next" class="btn btn-default"<?php if ($nextqid == PHP_INT_MAX) print " disabled=disabled"; ?>>
-				<input type="button" value="Answer [a]" name="answer" id="answer" class="btn btn-default">
+				<input type="button" value="Undo [ctrl+z]" name="undo" id="undo" class="btn btn-default btn-sm"> 
+				<input type="button" value="Previous [p]" name="prev" id="prev" class="btn btn-default btn-sm"<?php if ($prevqid == PHP_INT_MAX) print " disabled=disabled"; ?>>
+				<input type="button" value="Next [n]" name="next" id="next" class="btn btn-default btn-sm"<?php if ($nextqid == PHP_INT_MAX) print " disabled=disabled"; ?>>
+				<input type="button" value="Check Accuracy [c]" name="check_accuracy" id="check_accuracy" class="btn btn-default btn-sm">
+				<input type="button" value="Answer [a]" name="answer" id="answer" class="btn btn-default btn-sm">
 			</div>
 		</div>
 		<div class="row">
