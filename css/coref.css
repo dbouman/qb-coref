@@ -92,6 +92,7 @@ textarea#question[readonly] {
 }
 
 #check_accuracy {
+	visibility: hidden;
 	margin-left: 60px;
 }
 
