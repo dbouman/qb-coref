@@ -59,6 +59,7 @@ if (!empty($_POST['action']) && $_POST['action'] == "register") {
 <title>Coreference Tool - Register</title>
 <link href="css/bootstrap.min.css" rel="stylesheet" media="screen">
 <link href="css/bootstrap-theme.min.css" rel="stylesheet" media="screen">
+<link href="css/coref.css" rel="stylesheet">
 <script src="js/jquery-1.10.2.js"></script>
 <script src="js/bootstrap.min.js"></script>
 <style type="text/css">
@@ -150,5 +151,8 @@ button#cancel {
 			</div>
 		</div>
 	</div>
+	<?php 
+		require_once 'views/footer.php';
+	?>
 </body>
 </html>

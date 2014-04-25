@@ -24,6 +24,7 @@ if (!empty($_POST['username']) && !empty($_POST['password'])) {
 <title>Coreference Tool - Login</title>
 <link href="css/bootstrap.min.css" rel="stylesheet" media="screen">
 <link href="css/bootstrap-theme.min.css" rel="stylesheet" media="screen">
+<link href="css/coref.css" rel="stylesheet">
 <script src="js/jquery-1.10.2.js"></script>
 <script src="js/bootstrap.min.js"></script>
 <style type="text/css">
@@ -93,5 +94,8 @@ body {
 			</div>
 		</div>
 	</div>
+	<?php 
+		require_once 'views/footer.php';
+	?>
 </body>
 </html>

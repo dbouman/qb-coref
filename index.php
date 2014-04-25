@@ -87,11 +87,60 @@ $nextqid = $qbc->getNextQuestion($qid);
 		  <button type="button" class="close" data-dismiss="alert" aria-hidden="true">&times;</button>
 		  You are the first person to tag this question. Please check accuracy at a later time.
 		</div>
-    	<div class="row row1">
+    	<div class="row">
 			<div class="col-md-9">
-				<h4>Question #<?php print $qid; ?> <span id="saved-state">Saved...</span></h4>
-				<textarea id="question" readonly="readonly" ><?php print $question; ?>
-				</textarea>
+				<div class="row row1">
+					<h4>Question #<?php print $qid; ?> <span id="saved-state">Saved...</span></h4>
+					<textarea id="question" readonly="readonly" ><?php print $question; ?>
+					</textarea>
+				</div>
+				<div class="row">
+					<div class="col-md-12">
+						<input type="button" value="Undo [ctrl+z]" name="undo" id="undo" class="btn btn-default btn-sm"> 
+						<input type="button" value="Previous [p]" name="prev" id="prev" class="btn btn-default btn-sm"<?php if ($prevqid == PHP_INT_MAX) print " disabled=disabled"; ?>>
+						<input type="button" value="Next [n]" name="next" id="next" class="btn btn-default btn-sm"<?php if ($nextqid == PHP_INT_MAX) print " disabled=disabled"; ?>>
+						<input type="button" value="Check Accuracy [c]" name="check_accuracy" id="check_accuracy" class="btn btn-default btn-sm">
+						<input type="button" value="Answer [a]" name="answer" id="answer" class="btn btn-default btn-sm">
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-md-12" style="width: 675px;">
+						<h5 id="legend-title">Coreference Group Hotkeys</h5>
+					</div>
+				</div>
+				<div id="legend">
+					<div class="row">
+						<div class="col-md-1"><div class="coref1 box"></div><div class="coref-key">1<span style="color: red;">**</span></div></div>
+						<div class="col-md-1"><div class="coref2 box"></div><div class="coref-key">2</div></div>
+						<div class="col-md-1"><div class="coref3 box"></div><div class="coref-key">3</div></div>
+						<div class="col-md-1"><div class="coref4 box"></div><div class="coref-key">4</div></div>
+						<div class="col-md-1"><div class="coref5 box"></div><div class="coref-key">5</div></div>
+						<div class="col-md-1"><div class="coref6 box"></div><div class="coref-key">6</div></div>
+						<div class="col-md-1"><div class="coref7 box"></div><div class="coref-key">7</div></div>
+						<div class="col-md-1"><div class="coref8 box"></div><div class="coref-key">8</div></div>
+						<div class="col-md-1"><div class="coref9 box"></div><div class="coref-key">9</div></div>
+					</div>
+					<div class="row" style="margin-top: 5px;">
+						<div class="col-md-1"><div class="corefq box"></div><div class="coref-key">Q</div></div>
+						<div class="col-md-1"><div class="corefw box"></div><div class="coref-key">W</div></div>
+						<div class="col-md-1"><div class="corefe box"></div><div class="coref-key">E</div></div>
+						<div class="col-md-1"><div class="corefr box"></div><div class="coref-key">R</div></div>
+						<div class="col-md-1"><div class="coreft box"></div><div class="coref-key">T</div></div>
+						<div class="col-md-1"><div class="corefy box"></div><div class="coref-key">Y</div></div>
+						<div class="col-md-1"><div class="corefu box"></div><div class="coref-key">U</div></div>
+						<div class="col-md-1"><div class="corefi box"></div><div class="coref-key">I</div></div>
+						<div class="col-md-1"><div class="corefo box"></div><div class="coref-key">O</div></div>
+					</div>
+					<div class="row">
+						<div class="col-md-12" style="text-align: left; margin-top: 10px; margin-left: 20px;"><span style="color: red;">**</span> - Use 1 when coreference relates to answer</div>
+					</div>
+				</div>
+				<div id="answer_container" class="row alert alert-success">
+					<div class="col-md-12">
+						<h4>Answer</h4>
+						<?php print $answer; ?>
+					</div>
+				</div>
 			</div>
 			<div class="col-md-3">
 				<div id="results">
@@ -138,53 +187,10 @@ $nextqid = $qbc->getNextQuestion($qid);
 				</div>
 			</div>
 		</div>
-		<div class="row">
-			<div class="col-md-9">
-				<input type="button" value="Undo [ctrl+z]" name="undo" id="undo" class="btn btn-default btn-sm"> 
-				<input type="button" value="Previous [p]" name="prev" id="prev" class="btn btn-default btn-sm"<?php if ($prevqid == PHP_INT_MAX) print " disabled=disabled"; ?>>
-				<input type="button" value="Next [n]" name="next" id="next" class="btn btn-default btn-sm"<?php if ($nextqid == PHP_INT_MAX) print " disabled=disabled"; ?>>
-				<input type="button" value="Check Accuracy [c]" name="check_accuracy" id="check_accuracy" class="btn btn-default btn-sm">
-				<input type="button" value="Answer [a]" name="answer" id="answer" class="btn btn-default btn-sm">
-			</div>
-		</div>
-		<div class="row">
-			<div class="col-md-9" style="width: 675px;">
-				<h5 id="legend-title">Coreference Group Hotkeys</h5>
-			</div>
-		</div>
-		<div id="legend">
-			<div class="row">
-				<div class="col-md-1"><div class="coref1 box"></div><div class="coref-key">1<span style="color: red;">**</span></div></div>
-				<div class="col-md-1"><div class="coref2 box"></div><div class="coref-key">2</div></div>
-				<div class="col-md-1"><div class="coref3 box"></div><div class="coref-key">3</div></div>
-				<div class="col-md-1"><div class="coref4 box"></div><div class="coref-key">4</div></div>
-				<div class="col-md-1"><div class="coref5 box"></div><div class="coref-key">5</div></div>
-				<div class="col-md-1"><div class="coref6 box"></div><div class="coref-key">6</div></div>
-				<div class="col-md-1"><div class="coref7 box"></div><div class="coref-key">7</div></div>
-				<div class="col-md-1"><div class="coref8 box"></div><div class="coref-key">8</div></div>
-				<div class="col-md-1"><div class="coref9 box"></div><div class="coref-key">9</div></div>
-			</div>
-			<div class="row" style="margin-top: 5px;">
-				<div class="col-md-1"><div class="corefq box"></div><div class="coref-key">Q</div></div>
-				<div class="col-md-1"><div class="corefw box"></div><div class="coref-key">W</div></div>
-				<div class="col-md-1"><div class="corefe box"></div><div class="coref-key">E</div></div>
-				<div class="col-md-1"><div class="corefr box"></div><div class="coref-key">R</div></div>
-				<div class="col-md-1"><div class="coreft box"></div><div class="coref-key">T</div></div>
-				<div class="col-md-1"><div class="corefy box"></div><div class="coref-key">Y</div></div>
-				<div class="col-md-1"><div class="corefu box"></div><div class="coref-key">U</div></div>
-				<div class="col-md-1"><div class="corefi box"></div><div class="coref-key">I</div></div>
-				<div class="col-md-1"><div class="corefo box"></div><div class="coref-key">O</div></div>
-			</div>
-			<div class="row">
-				<div class="col-md-9" style="text-align: left; margin-top: 10px; margin-left: 20px;"><span style="color: red;">**</span> - Use 1 when coreference relates to answer</div>
-			</div>
-		</div>
-		<div id="answer_container" class="row alert alert-success">
-			<div class="col-md-9">
-				<h4>Answer</h4>
-				<?php print $answer; ?>
-			</div>
-		</div>
+		
 	</div>
+	<?php 
+		require_once 'views/footer.php';
+	?>
 </body>
 </html>

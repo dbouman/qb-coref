@@ -396,6 +396,9 @@ $leaderboard = $qbc->getLeaderboard($limit);
 		<br />
 		<p><a href="index.php">&laquo; Back to Questions</a></p>
 	</div>
+	<?php 
+		require_once 'views/footer.php';
+	?>
 </body>
 </html>
 

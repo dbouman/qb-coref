@@ -1,3 +1,27 @@
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  /* Margin bottom by footer height */
+  margin-bottom: 60px;
+}
+
+#footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  border-radius: 0;
+  border-width: 1px 0 0;
+  margin-bottom: 0;
+  /* Set the fixed height of the footer here */
+  height: 50px;
+}
+/* ----------------------------------------------- */
+
 body {
 	padding-top: 60px;
 	padding-bottom: 40px;
@@ -71,11 +95,6 @@ textarea#question[readonly] {
 	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 14px;
 	z-index: 5;
-}
-
-#results {
-	height: 400px;
-	overflow: visible;
 }
 
 #results div {
