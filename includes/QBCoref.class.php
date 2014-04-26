@@ -245,6 +245,7 @@ class QBCoref
 		$uid = $this->getUserID();
 		$old_questions = $this->db->GetCol("SELECT `qid` FROM user_history WHERE uid = '$uid'");
 		$condition = "";
+		$condition_and = "";
 		if (!empty($old_questions)) {
 			$condition = " WHERE qid NOT IN (". implode(',',$old_questions) .") ";
 			$condition_and = " and qid NOT IN (". implode(',',$old_questions) .") "; 
