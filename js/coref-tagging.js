@@ -49,9 +49,11 @@ function initShortcuts() {
 	});
 	
 	// check accuracy hotkey and button
-	createButtonAndHotkey('#check_accuracy', 'c', function(e) {
-		toggleAccuracy();
-	});
+	if (show_accuracy == 1) {
+		createButtonAndHotkey('#check_accuracy', 'c', function(e) {
+			toggleAccuracy();
+		});
+	}
 	
 	// show answer hotkey and button
 	createButtonAndHotkey('#answer', 'a', function(e) {
@@ -187,10 +189,9 @@ function appendAnnotation (type, tag_id, annotation) {
 }
 
 function getAccuracy(tag_id, annotation, pos) {
-	// Ignore if this is the first time a question has been tagged
-	if (times_tagged > 0) {
-		$.post( "ajax.php?action=accuracy", {'qid': qid, 'description': annotation, 'pos': pos, 'times_tagged': times_tagged}, function( data ) {
-			$('#accuracy'+tag_id).text(data);
+	if (show_accuracy == 1) {
+		$.post( "ajax.php?action=accuracy", {'qid': qid, 'description': annotation, 'pos': pos}, function( data ) {
+			$('#accuracy'+tag_id).html(data);
 		});
 		
 		if (accuracy_shown == 1) {
@@ -200,7 +201,7 @@ function getAccuracy(tag_id, annotation, pos) {
 }
 
 function toggleAccuracy() {
-	if (times_tagged > 0) {
+	if (show_accuracy == 1) {
 		if (accuracy_shown == 1) {
 			$(".accuracy").hide();
 			accuracy_shown = 0;
@@ -209,9 +210,6 @@ function toggleAccuracy() {
 			$(".accuracy").show();
 			accuracy_shown = 1;
 		}
-	}
-	else {
-		$('#accuracy-alert').fadeIn().delay(5000).fadeOut();
 	}
 }
 

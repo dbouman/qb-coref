@@ -48,10 +48,6 @@ body {
 	font-weight: bold;
 }
 
-#accuracy-alert {
-	display: none;
-}
-
 #points {
 	font-weight: bold;
 }
@@ -104,18 +100,6 @@ textarea#question[readonly] {
 .accuracy {
 	display: none;
 	font-style: italic;	
-}
-
-#undo {
-	margin-right: 120px;
-}
-
-#check_accuracy {
-	visibility: hidden;
-	margin-left: 60px;
-}
-
-#answer {
 	margin-left: 5px;
 }
 

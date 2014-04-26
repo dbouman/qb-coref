@@ -23,11 +23,14 @@ else if ($_GET['action'] == 'accuracy') {
 	$pos_start = $_POST['pos']['start'];
 	$pos_end = $_POST['pos']['end'];
 	$description = addslashes($_POST['description']);
-	$times_tagged = $_POST['times_tagged'];
 	
 	$accuracy = $qbc->getAccuracy($qid, $description, $pos_start, $pos_end);
-	$percent = round(($accuracy / $times_tagged) * 100);
 	
-	print "Accuracy: " .$percent."% (" . $accuracy . "/" . $times_tagged . ")";
+	if ($accuracy) {
+		print "<span class=\"glyphicon glyphicon-ok\"></span> Correct";
+	}
+	else {
+		print "<span class=\"glyphicon glyphicon-remove\"></span> No match for this tag was found.";
+	}
 }
 ?>

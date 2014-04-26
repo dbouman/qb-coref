@@ -1,6 +1,9 @@
 <?php
 $config = array();
 
+/* Gold standard  - which username to check accuracy against */
+$config['gold_user'] = '';
+
 /* Database settings */
 $config['dbhost'] = 'localhost';
 $config['dbuser'] = '';

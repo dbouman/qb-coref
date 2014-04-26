@@ -191,30 +191,36 @@ class QBCoref
 	}
 	
 	public function getAccuracy($qid, $description, $pos_start, $pos_end) {
-		$author = $_SESSION['username'];
+		global $config;
 		
-		$count = $this->db->GetOne("SELECT count(cid) FROM coreferences 
+		$result = $this->db->GetOne("SELECT count(cid) FROM coreferences 
 									WHERE qid = '". $qid . "' 
-										AND author != '" . $author . "' 
+										AND author = '" . $config['gold_user'] . "' 
 										AND pos_start = '" . $pos_start . "'
 										AND pos_end = '" . $pos_end . "'");
 		
-		if (!$count)
-			$count = 0;
+		if ($result) {
+			return $result;
+		}
 		
-		return $count;
+		return false;
 	}
 	
 	/*
-	 * Counts number of unique users to tag question. Used in computing accuracy
+	 * Check if gold standard user has done this question, will display option to check accuracy
 	 */
-	public function getTimesTaggedByOthers($qid) {
-		$author = $_SESSION['username'];
-		$count = $this->db->GetOne("SELECT count(DISTINCT author) FROM coreferences
-				WHERE qid = '". $qid . "'
-				AND author != '" . $author . "' ");
+	public function isQuestionGoldStandard($qid) {
+		global $config;
 		
-		return $count;
+		$result = $this->db->GetOne("SELECT count(cid) FROM coreferences
+				WHERE qid = '". $qid . "'
+				AND author = '" . $config['gold_user'] . "' ");
+		
+		if ($result) {
+			return true;
+		}
+		
+		return false;
 	}
 	
 	public function getQuestion($qid) {
