@@ -128,7 +128,6 @@ class QBCoref
 	}
 	
 	public function saveCoref($qid, $author, $pos_start, $pos_end, $description, $coref_group) {
-		// TODO: Prevent duplicate corefs from same author, and trim whitespace 
 		$translated_group = $this->translateCorefGroup($coref_group);
 		$this->db->Execute("INSERT INTO coreferences 
 							(`qid`,`pos_start`,`pos_end`,`description`,`coref_group`,`author`) 

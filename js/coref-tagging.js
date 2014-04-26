@@ -4,6 +4,7 @@ var tags = new Object();
 tags.length = 0;
 var history = new Array();
 var accuracy_shown = 0;
+var charsToTrim = [",","."," "];
 
 // initialize shortcut keys
 function initShortcuts() {
@@ -117,6 +118,19 @@ function createNewTag(type) {
 	var tag_id = tag_counter;
 	tag_counter++;
 	var pos = $(question_id).selection('getPos');
+	// Check for whitespace
+	for (var i=0; i< charsToTrim.length; i++) {
+		if (annotation.substr(0,1) == charsToTrim[i]) {
+			pos['start'] += 1;
+			annotation = annotation.substr(1);
+		}
+	}
+	for (var i=0; i< charsToTrim.length; i++) {
+		if (annotation.substr((annotation.length-1),1) == charsToTrim[i]) {
+			pos['end'] -= 1;
+			annotation = annotation.substr(0,(annotation.length-1));
+		}
+	}
 	appendAnnotation (type, tag_id, annotation);
 	highlightText(type, tag_id, pos);
 
