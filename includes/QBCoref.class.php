@@ -9,6 +9,7 @@
 require dirname(__FILE__) . '/config.php';
 require dirname(__FILE__) . '/adodb5/adodb.inc.php';
 require dirname(__FILE__) . '/legacy/password.php';
+require dirname(__FILE__) . '/phpmailer/PHPMailerAutoload.php';
 
 class QBCoref
 {
@@ -370,6 +371,38 @@ class QBCoref
 		return $counter;
 	}
 	
-	
+	public function sendEmail($fromName, $fromEmail, $message) {
+		global $config;
+		
+		$mail = new PHPMailer;
+		
+		$mail->isSMTP();
+		$mail->Host = $config['smtp_host'];
+		$mail->Port = $config['smtp_port'];
+		$mail->SMTPAuth = true;
+		$mail->Username = $config['smtp_user'];
+		$mail->Password = $config['smtp_pass']; 
+		$mail->SMTPSecure = $config['smtp_secure'];
+		
+		$mail->From = $fromEmail;
+		$mail->FromName = $fromName;
+		$mail->addAddress($config['contact_email']);
+		
+		$mail->isHTML(false);
+		
+		$mail->Subject = 'QB-Coref Contact Us Submission';
+		$mail->Body    = "From Name: " . $fromName. "\n" .
+						 "From Email: " . $fromEmail. "\n\n" .
+						  $message;
+		
+		if(!$mail->send()) {
+			// Debug messages
+			//echo 'Message could not be sent.';
+			//echo 'Mailer Error: ' . $mail->ErrorInfo;
+			return false;
+		}
+		
+		return true;
+	}	
 	
 }
