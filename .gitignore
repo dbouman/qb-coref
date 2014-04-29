@@ -5,3 +5,6 @@
 
 # ignore coref config
 includes/config.php
+
+#ignore htaccess file
+.htaccess
