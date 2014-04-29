@@ -4,6 +4,7 @@ $qbc = new QBCoref();
 
 if (!$qbc->isUser()) {
 	header("Location: login.php");
+	exit;
 }
 
 $qid = $qbc->getLastQuestion();
@@ -21,6 +22,12 @@ $show_accuracy = $qbc->isQuestionGoldStandard($qid);
 
 $prevqid = $qbc->getPrevQuestion($qid);
 $nextqid = $qbc->getNextQuestion($qid);
+
+// Redirect if first login
+if ($qbc->first_login == true) { 
+	header("Location: tutorial.php?first=1");
+	exit;
+}
 ?>
 <!doctype html>
 <html lang="us">
@@ -76,13 +83,6 @@ $nextqid = $qbc->getNextQuestion($qid);
 	?>
 
     <div class="container">
-		<?php if ($qbc->first_login == true) { ?>
-			<div class="alert alert-info alert-dismissable">
-			  <button type="button" class="close" data-dismiss="alert" aria-hidden="true">&times;</button>
-			  <strong>Welcome <?php print $_SESSION['username']; ?>!</strong> It appears this is your first time
-			  here. If you're not sure what to do, please visit our <a href="help.php">getting started</a> page.
-			</div>
-		<?php } ?>
     	<div class="row">
 			<div class="col-md-9">
 				<div class="row row1">

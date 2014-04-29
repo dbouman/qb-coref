@@ -5,15 +5,12 @@ $qbc = new QBCoref();
 if (!$qbc->isUser()) {
 	header("Location: login.php");
 }
-
-$limit = 10;
-$leaderboard = $qbc->getLeaderboard($limit);
 ?>
 <!doctype html>
 <html lang="us">
 <head>
 	<meta charset="utf-8">
-	<title>Coreference Tool - Getting Started</title>
+	<title>Coreference Tool - FAQs</title>
 	<link href="css/smoothness/jquery-ui-1.10.4.custom.css" rel="stylesheet">
 	<link href="css/bootstrap.min.css" rel="stylesheet" media="screen">
 	<link href="css/bootstrap-theme.min.css" rel="stylesheet" media="screen">
@@ -270,7 +267,7 @@ $leaderboard = $qbc->getLeaderboard($limit);
     <div class="container">
     	<div class="row">
     		<div class="page-header">
-				<h2>Getting Started</h2>
+				<h2>Frequently Asked Questions</h2>
 			</div>
     		<p class="c2">
 				<span class="c0">What is a coreference?</span>

@@ -13,7 +13,7 @@
           	<div class="collapse navbar-collapse pull-right">
 	            <ul class="nav navbar-nav">
 	              <li><span class="navbar-text">Welcome <?php print $_SESSION['username']; ?></span></li>
-	              <li<?php if ($active_page == "help") { ?> class="active"<?php } ?>><a href="help.php">Getting Started</a>
+	              <li<?php if ($active_page == "help") { ?> class="active"<?php } ?>><a href="help.php">FAQs</a>
 	              <li<?php if ($active_page == "myaccount") { ?> class="active"<?php } ?>><a href="myaccount.php">My Account</a></li>
 	              <li><a href="login.php">Logout</a></li>
 	            </ul>
