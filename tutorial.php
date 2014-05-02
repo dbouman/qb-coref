@@ -10,7 +10,7 @@ if (!$qbc->isUser()) {
 <html lang="us">
 <head>
 	<meta charset="utf-8">
-	<title>Coreference Tool - Getting Started</title>
+	<title>Coreference Tool - Tutorial</title>
 	<link href="css/smoothness/jquery-ui-1.10.4.custom.css" rel="stylesheet">
 	<link href="css/bootstrap.min.css" rel="stylesheet" media="screen">
 	<link href="css/bootstrap-theme.min.css" rel="stylesheet" media="screen">

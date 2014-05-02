@@ -411,4 +411,18 @@ class QBCoref
 		return true;
 	}	
 	
+	public function isUsingOldIEBrowser() {
+		preg_match('/MSIE (.*?);/', $_SERVER['HTTP_USER_AGENT'], $matches);
+		
+		if (count($matches)>1){
+			//Then we're using IE
+			$version = $matches[1];
+		
+			if ($version<=9)
+				return true;
+		}
+		
+		return false;
+	}
+	
 }

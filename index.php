@@ -28,6 +28,12 @@ if ($qbc->first_login == true) {
 	header("Location: tutorial.php?first=1");
 	exit;
 }
+
+// Check for old version of IE
+if ($qbc->isUsingOldIEBrowser()) {
+	header("Location: unsupported.php");
+	exit;
+}
 ?>
 <!doctype html>
 <html lang="us">
