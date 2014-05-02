@@ -1,6 +1,9 @@
 <?php
 $config = array();
 
+/* Absolute path to web site - must end with a slash */
+$config['abs_path'] = 'http://example.com/qb-coref/';
+
 /* Gold standard  - which username to check accuracy against */
 $config['gold_user'] = '';
 
