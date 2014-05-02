@@ -365,6 +365,12 @@ if (!$qbc->isUser()) {
 					War,&rdquo; which makes complete sense.</span>
 			</p>
 			<p class="c2">
+				<span class="c0">What if I run out of group numbers?</span>
+			</p>
+			<p class="c2">
+				<span>It is possible that for several questions you may need more than the 18 group numbers currently available. If this happens please use your best judgement to highlight the most important coreferences and don't worry about the remaining coreferences that you do not have group numbers for.</span>
+			</p>
+			<p class="c2">
 				<span class="c0">What if I&rsquo;m uncertain?</span>
 			</p>
 			<p class="c2">
