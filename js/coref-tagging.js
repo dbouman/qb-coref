@@ -192,6 +192,10 @@ function getAccuracy(tag_id, annotation, pos) {
 	if (show_accuracy == 1) {
 		$.post( "ajax.php?action=accuracy", {'qid': qid, 'description': annotation, 'pos': pos}, function( data ) {
 			$('#accuracy'+tag_id).html(data);
+			if (data.indexOf("Correct") > -1) {
+				var num_correct = parseInt($('#num_correct').text());
+				$('#num_correct').text((num_correct+1));
+			}
 		});
 		
 		if (accuracy_shown == 1) {

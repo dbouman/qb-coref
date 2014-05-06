@@ -19,6 +19,10 @@ $question = $qbc->getQuestion($qid);
 $answer = $qbc->getAnswer($qid);
 $corefs = $qbc->getCorefsAsJSON($qid, $_SESSION['username']);
 $show_accuracy = $qbc->isQuestionGoldStandard($qid);
+$total_corefs = 0;
+if ($show_accuracy) {
+	$total_corefs = $qbc->getCountGoldStandardCorefs($qid);
+}
 
 $prevqid = $qbc->getPrevQuestion($qid);
 $nextqid = $qbc->getNextQuestion($qid);
@@ -222,6 +226,9 @@ if ($qbc->isUsingOldIEBrowser()) {
 					<div id="clear_all" style="text-align: center;">
 						<button id="clear" class="btn btn-xs btn-danger" type="button" onclick="clearAll();">Clear All</button>
 	  				</div>
+	  				<?php if ($show_accuracy) { ?>
+	  					<div class="accuracy text-center" style="font-style:normal;margin-left: 0;">Total Correct: <span id="num_correct">0</span>/<?php print $total_corefs; ?></div>
+	  				<?php } ?>
 	  				<div id="group1-header" class="group-header">GROUP 1</div>
 	  				<div id="group1-results" class="group-results"></div>
 	  				<div id="group2-header" class="group-header">GROUP 2</div>

@@ -226,6 +226,20 @@ class QBCoref
 		return false;
 	}
 	
+	public function getCountGoldStandardCorefs($qid) {
+		global $config;
+	
+		$result = $this->db->GetOne("SELECT count(cid) FROM coreferences
+				WHERE qid = '". $qid . "'
+				AND author = '" . $config['gold_user'] . "' ");
+	
+		if ($result) {
+			return $result;
+		}
+	
+		return 0;
+	}
+	
 	public function getQuestion($qid) {
 		$question = "";
 		if (is_numeric($qid)) {
