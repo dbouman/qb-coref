@@ -142,6 +142,7 @@ function createNewTag(type) {
 	tags[tag_id]['description'] = annotation;
 	tags[tag_id]['pos'] = pos;
 	tags[tag_id]['type'] = type;
+	tags[tag_id]['correct'] = 0;
 	tags.length++;
 
 	// add to history
@@ -169,6 +170,7 @@ function createExistingTag(tag_id, annotation, pos, type) {
 	tags[tag_id]['description'] = annotation;
 	tags[tag_id]['pos'] = pos;
 	tags[tag_id]['type'] = type;
+	tags[tag_id]['correct'] = 0;
 	tags.length++;
 
 	history.push(tag_id);
@@ -193,15 +195,26 @@ function getAccuracy(tag_id, annotation, pos) {
 		$.post( "ajax.php?action=accuracy", {'qid': qid, 'description': annotation, 'pos': pos}, function( data ) {
 			$('#accuracy'+tag_id).html(data);
 			if (data.indexOf("Correct") > -1) {
-				var num_correct = parseInt($('#num_correct').text());
-				$('#num_correct').text((num_correct+1));
+				tags[tag_id]['correct'] = 1;
 			}
+			calcTotalAccuracy();
 		});
 		
 		if (accuracy_shown == 1) {
 			$('#accuracy'+tag_id).show();
 		}
 	}
+}
+
+function calcTotalAccuracy() {
+	var num_correct = 0;
+	for (var i=0; i< history.length; i++) {
+		var tag_id = history[i];
+		if (tags[tag_id]['correct'] == 1) {
+			num_correct++;
+		}	
+	}
+	$('#num_correct').text(num_correct);
 }
 
 function toggleAccuracy() {
@@ -261,6 +274,9 @@ function undoLastTag() {
 	
 	toggleClearButton();
 	
+	// update accuracy
+	calcTotalAccuracy();
+	
 	// Auto save
 	qbAutoSave();
 }
@@ -278,6 +294,9 @@ function deleteTag(tag, ignore_save) {
 	history.splice(history.indexOf(tag), 1); // removes from history
 	
 	toggleClearButton();
+	
+	// update accuracy
+	calcTotalAccuracy();
 	
 	// Auto save
 	if (!ignore_save) {
