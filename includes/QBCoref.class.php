@@ -114,7 +114,10 @@ class QBCoref
 	}
 	
 	public function getLeaderboard($limit) {
+		global $config;
+		
 		$results = $this->db->SelectLimit("SELECT author, count(cid) FROM coreferences
+											WHERE author != '" . $config['gold_user'] . "'
 											GROUP by author
 											ORDER by count(cid) DESC",$limit);
 		
