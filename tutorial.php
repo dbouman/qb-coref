@@ -39,7 +39,7 @@ if (!$qbc->isUser()) {
     		</p>
     		<?php } ?>
     		<div align="center">
-    			<iframe width="853" height="480" src="//www.youtube.com/embed/HOwGGjqf12Q" frameborder="0" allowfullscreen></iframe>
+    			<iframe width="853" height="480" src="//www.youtube.com/embed/iIikEGvQULw" frameborder="0" allowfullscreen></iframe>
     		</div>
     		<?php if (isset($_GET['first']) && $_GET['first'] == 1) { ?>
     		<p class="text-center">
