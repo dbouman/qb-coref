@@ -1,10 +1,6 @@
 <?php 
 require_once 'includes/QBCoref.class.php';
 $qbc = new QBCoref();
-
-if (!$qbc->isUser()) {
-	header("Location: login.php");
-}
 ?>
 <!doctype html>
 <html lang="us">

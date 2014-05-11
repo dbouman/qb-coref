@@ -1,10 +1,6 @@
 <?php 
 require_once 'includes/QBCoref.class.php';
 $qbc = new QBCoref();
-
-if (!$qbc->isUser()) {
-	header("Location: login.php");
-}
 ?>
 <!doctype html>
 <html lang="us">
@@ -396,8 +392,6 @@ if (!$qbc->isUser()) {
 					please create a <a href="http://github.com/dbouman/qb-coref/issues" target="_blank">new issue</a>.</span>
 			</p>
 		</div>
-		<br />
-		<p><a href="index.php">&laquo; Back to Questions</a></p>
 	</div>
 	<?php 
 		require_once 'views/footer.php';

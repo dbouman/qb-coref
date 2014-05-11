@@ -74,11 +74,10 @@ button#cancel {
 </style>
 </head>
 <body>
-	<div class="navbar navbar-inverse navbar-fixed-top">
-		<div class="container">
-			<a class="navbar-brand" href="index.php">QB-Coref</a>
-		</div>
-	</div>
+	<?php 
+		$active_page = 'register';
+		require_once 'views/topnav.php';
+	?>
 
 	<div class="container">
 		<div class="row">
