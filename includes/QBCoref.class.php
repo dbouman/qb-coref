@@ -48,6 +48,18 @@ class QBCoref
 		return (!empty($_SESSION['username']));
 	}
 	
+	public function isAdmin() {
+		if (!empty($_SESSION['username'])) {
+			$result = $this->db->GetOne("SELECT is_admin FROM users WHERE username = '".$_SESSION['username']."'");
+			if ($result == 1) {
+				return true;
+			}
+		}
+		
+		return false;
+	}
+	
+	
 	public function getUserID($username = "") {
 		if (empty($username)){
 			$username = $_SESSION['username'];
@@ -142,6 +154,17 @@ class QBCoref
 	// delete all coreferences for specific question and user
 	public function deleteCoreferences($qid, $username) {
 		$this->db->Execute("DELETE FROM coreferences WHERE qid = $qid and author = '".$username."'");
+	}
+	
+	
+	// Used by export function
+	public function getAllCorefs() {
+		global $config;
+		
+		$this->db->SetFetchMode(ADODB_FETCH_ASSOC);
+		$results = $this->db->Execute("SELECT * FROM coreferences WHERE author != '".$config['gold_user']."'");
+		
+		return $results;
 	}
 	
 	public function getCorefsAsJSON($qid,$author) {

@@ -4,6 +4,9 @@
 			<ul class="nav navbar-nav">
 				<li><a href="help.php">FAQs</a></li>
 				<li><a href="tutorial.php">Tutorial</a></li>
+				<?php if ($qbc->isAdmin()) { ?>
+					<li><a href="export.php">Export</a></li>
+				<?php } ?>
 			</ul>
 		</div>
 		<div class="pull-right">
