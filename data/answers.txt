@@ -1,100 +1,7226 @@
-Much Ado About Nothing
-Japan 
-William Wordsworth
-War and Peace 
-Geoffrey Chaucer
-David Malouf
-Stephan Mallarm
-The Piazza Tales
-The Count of Monte Cristo or Le Comte de Monte Cristo
-Lines composed a few miles above Tintern Abbey on revisiting the banks of the Wye during a tour
-Twelfth Night
-Victor Hugos Preface to Cromwell 
-Frankenstein, or the Modern Prometheus
-Schindler's Ark 
-John Yossarian 
-angels
-Gravity's Rainbow
-Emily Dickinson
-Horace 
-Emily Dickinson
-Hlldor Laxness
-logic minimization 
-"Notes Toward a Supreme Fiction"
-Richard Wright
-Saul Bellow
-Luigi Pirandello
-The Hunting of the Snark
-Stephen Crane
-Japan 
-Leo Nikolayevich Tolstoy
-Emily Dickinson
-Kenzaburo Oe
-Samson and Delilah 
-Romeo and Juliet
-A Tale of Two Cities
-Alfred Tennyson, 1st Baron Tennyson
-Peer Gynt
-The Tin Drum 
-Arthur Asher Miller
-Mr. Biswas or Mohun Biswas
-John Maxwell Coetzee
-Richard Wright
-Quo Vadis
-A Streetcar Named Desire
-Archibald MacLeish
-Brave New World
-Nikolai Gogol
-The Naked and the Dead
-James Joyce
-Ali Baba and the 40 Thieves
-Oscar Wilde
-The Autocrat of the Breakfast Table
-Madame Bovary
-Talcott Parsons
-ode
-Luigi Pirandello
-The Imaginary Invalid or The Hypochondriac 
-One Hundred Years of Solitude 
-Walker Percy
-The Poor Christ of Bomba or Le Pauvre Christ de Bomba
-Karamazov Family 
-John Milton
-Jean-Paul Charles Aymard Sartre
-Eudora Welty
-The Rubaiyat of Omar Khayyam
-Lois Lowry 
-Ernst Theodor Amadeus Hoffman
-Jim
-The Bronze Horseman: A Petersburg Tale 
-Charles Baudelaire
-Stendhal 
-Henry Valentine Miller
-Brighton Rock
-Phyllis Wheatley
-John Updike
-Sarah Orne Jewett
-The Preface to the Lyrical Ballads 
-James I 
-John dos Passos
-Ben Jonson
-The Alexandria Quartet
-The Story of the Stone 
-Mahmoud Darwish
-Thanatopsis
-Sister Carrie
-Li Po 
-Seven Gothic Tales 
-Samuel Richardson
-Argentina
-Aeschylus
-St. Augustine of Hippo 
-The Leopard 
-Notre-Dame de Paris 
-Ode on the Death of a Favorite Cat, Drowned in a Tub of Gold Fishes
+A Rebours
+Persian Letters
+John Donne
+William Cullen Bryant
+Aleksandr Sergeyevich Pushkin
+The Awakening
+Norman Mailer
+Adams Memorial
+The Father
+E
+Siswe Banzi is Dead
+Anne Bradstreet
+Love in the Time of Cholera
+Vidiadhar Surajprasad Naipaul
+Confessions of a Mask
+Notes From The Underground
+War and Peace
+Henry Fielding
+Canzoniere
+Tom Jones
+Eugene O'Neill
+Le Citta Invisibili
+The Glass Menagerie
+The Hunchback of Notre Dame
+Marcel Proust
+Rosmersholm
+A Raisin in the Sun
+Sh?hn?mh
+Neil Simon
+Robert Louis Stevenson
+Samuel Taylor Coleridge
+the Parnassians or the Parnassus school or Parnassianism
+Gullivers Travels
+Mikhail Afanasyevich Bulgakov
+William Styron
+Ethan Frome
+White Noise
+The Iceman Cometh
+Oe Kenzaburo
+The Master Builder
+Ode on a Grecian Urn
+Benjamin Franklin Norris, Jr.
+Walt Whitman
+Edward Albee
+Paul Verlaine
+Gerard Manley Hopkins
+"The Love Song of J. Alfred Prufrock"
+Kubla Khan
+Sir Thomas "Tom" Stoppard
+Emily Elizabeth Dickinson
+Mario Vargas Llosa
+Sylvia Plath
+Honor de Balzac
+Heart of Darkness
+Don Quixote
+"The Waste Land"
+John Willoughby
+The Third Man
+A Shropshire Lad
+ghosts
+The Sandman
+Anne Bradstreet
+Joseph Rudyard Kipling
+The Raven
+Rear Window
+Memento Mori
+William Butler Yeats
+Naguib Mahfouz
+Edward Estlin Cummings
+The Sorrows of Young Werther or Die Leiden des jungen Werthers
+Ernst Junger
+"Rip Van Winkle"
+A Room with a View
+Andrew Marvell
+Santiago Nasar
+Gabriel Garca Mrquez
+Heartbreak House
+William Ewart Gladstone
+Edith Wharton
+Robinson Crusoe
+Ismailis
+Portugal
+George Bernard Shaw
+Moliere
+Arabic
+Wide Sargasso Sea
+Oedipus Tyrannos
+Gustave Flaubert
+The Wild Duck
+Yellow
+Life is a Dream or La vida es sueo
+John Greenleaf Whittier
+The Caucasian Chalk Circle or Die Kaukasische Kreidekreis
+Heinrich Boll
+Up From Slavery
+Fyodor Mikhaylovich Dostoyevsky
+Nadine Gordimer
+"The Chambered Nautilus"
+Patient Griselda
+Juventus Football Club
+Anton Pavlovich Chekhov
+Lemuel Gulliver
+Rudyard Kipling
+Gabriel Jos de la Concordia Garcia Mrquez
 The Sorrows of Young Werther
-Charles Mingus
-Toni Morrison 
-Rosencrantz and Guildenstern 
-Arrow of God
-Charles Kingsley
+Robert Frost
+The Secret Life of Walter Mitty
+Eugene O'Neill
+Henry James
+Crossing Brooklyn Ferry
+Life is a Dream
+Edward Morgan Forster
+Roland Barthes
+The Rape of the Lock
+Chile
+Abraham Bulli Yehoshua
+Tom Sawyer
+Giovanni Verga
+I, Claudius
+Karl Popper
+Virginia Woolf
+The House of Mirth
+Stphane Mallarm
+Ivan Turgenev
+India
+Washington Irving
+Robert Frost
+Arthur Koestler
+"The Overcoat"
+Moby-Dick
+Mark Twain
+William Carlos Williams
+War and Peace
+Junot Daz
+The Blithedale Romance
+toads
+The Blind Assassin
+Gerard Manley Hopkins
+The Plague
+A Season in Hell
+Isabel Allende Llona
+Vikram Seth
+Gore Vidal
+Don DeLillo
+Umberto Eco
+"Howl"
+La Fronde
+A Tale of Two Cities
+Ray Bradbury
+Self-Reliance
+The Cloud Messenger
+Rip van Winkle
+Lotte in Weimar: The Beloved Returns
+Pierre Corneille
+George Farquhar
+George Eliot
+Hymn to Intellectual Beauty
+Cat on a Hot Tin Roof
+The Unbearable Lightness of Being
+Charles Baudelaire
+John Irving
+Stephen Vincent Benet
+John Keats
+Pablo Neruda
+Alfred, Lord Tennyson
+Yukio Mishima
+The Courier's Tragedy
+Erskine Caldwell
+nausea
+Ruins of a Great House
+"The Ransom of Red Chief"
+A Far Cry from Africa
+Saul Bellow
+Hermann Hesse
+Hermann Hesse
+Langston Hughes
+Ben Jonson
+Sinclair Lewis
+India
+Robert Sherwood
+Jesus Christ
+Friedrich Durrenmatt
+apostrophe
+Rubaiyat of Omar Khayyam
+Edgar Lawrence Doctorow
+The Waste Land
+Antigone
+Stephen Crane
+Necronomicon or Al Azif
+mile douard Charles Antoine Zola
+Canzoniere
+"The Waste Land "
+The Invention of Morel
+Lord of the Flies
+Commonwealth of Australia
+Lord Byron
+Samuel Beckett
+The Prophet
+Juni'chiro Tanizaki
+Whos Afraid of Virginia Woolf?
+Thousand Cranes or Sembazuru
+Joris Karl Huysmans
+Joseph Knecht
+Hadrian or Adrian
+The Plum in the Golden Vase
+Things Fall Apart
+Quo Vadis?
+The Castle of Otranto
+A Toccata of Galuppi's
+Catch-22
+Wilfrid Owen
+Don Quixote de la Mancha
+Emily Dickinson
+Willa Cather
+The Great Gatsby
+Hansel and Gretel
+Hafez
+The Joy Luck Club
+The Overcoat
+Dream of the Red Chamber
+Sir Ahmed Salman Rushdie
+Yasunari Kawabata
+Sherlock Holmes
+Thomas de Quincey
+Henry V
+Hermann Hesse
+Count Graf Leo Lev Nikolayevich Tolstoy
+Mexico
+Treasure Island
+The House of the Spirits
+Federico Garcia Lorca
+Albany, New York
+Evelyn Waugh
+Augie March
+Betty Friedan
+A Madman's Diary or Diary of a Madman
+Anna Karenina
+The Importance of Being Earnest
+The Overcoat or Shinel
+Newland Archer
+Kate Chopin
+Percy Wyndham Lewis
+"The Road Not Taken"
+The Master and Margarita
+Oscar Fingal O'Flaherty Wills Wilde
+Repblica Argentina
+Amis
+In Memoriam A.H.H.
+Their Eyes Were Watching God
+Katherine Ann Porter
+speeches of Dr. Martin Luther King, Jr.
+Friedrich von Schiller
+Walter Scott
+"The Laugh of the Medusa"
+The Protocols of the Elders of Zion
+To His Coy Mistress
+Romeo and Juliet
+Umberto Eco
+Adam Bede
+Look Back in Anger
+mystery play cycles
+Alfred Lord Tennyson
+Bartholomew Fair: A Comedy
+Manuel Puig
+Emily Elizabeth Dickinson
+Yukio Mishima
+A Clockwork Orange
+Ben Jonson
+The Plot Against America
+Daddy
+Sonnets from the Portuguese
+Wallace Stevens
+Allen Ginsberg
+One Hundred Years of Solitude
+Franny and Zooey
+The Campaign
+Saul Bellow
+Joyce Carol Oates
+Woe from Wit or Wit Works Woe or a lot of other things,
+Eugene Gladstone O'Neill
+The Duchess of Malfi
+Amy Tan
+The Overcoat
+The Hunchback of Notre Dame
+Henry V
+West Side Story
+Herzog
+Thomas Paine
+Frankenstein
+John Berryman
+Daisy Miller
+"The Waste Land"
+Africa
+Jorge
+Malgudi
+The Winter's Tale
+William Shakespeare
+Luigi Pirandello
+Ben Jonson
+Vanity Fair
+Joseph Conrad
+Cat's Cradle
+One Hundred Years of Solitude
+Gerhart Hauptmann
+The Sunstone
+Jane Austen
+Raise High the Roof Beam, Carpenters
+The Posthumous Memoirs of Bras Cubas
+Eugene Gladstone O'Neill
+Maxim Gorky
+Margaret Atwood
+Howl
+Siddhartha
+This Be the Verse
+"The Burning Babe"
+Catch-22
+Alexander Sergeyevich Pushkin
+Don Jos
+Aleksandr Solzhenitsyn
+Thomas Ruggles Pynchon
+Nadine Gordimer
+Octavio Paz
+The Stone Raft
+The Red Badge of Courage
+Angels in America
+Hermann Hesse
+John Donne
+Hosea BA
+Hopscotch
+The Great Gatsby
+After the Quake
+Count Leo Tolstoy
+Darkness at Noon
+Arthur Miller
+Philip Larkin
+Anton Pavlovich Chekhov
+Abraham Lincoln Walks at Midnight in Springfield, Illinois
+Herman Hesse
+The Ingenious Hidalgo Don Quixote of La Mancha
+Herman Melville
+The Tempest
+Volpone or The Fox
+John Greenleaf Whittier
+Julio Cortazar
+Truman Capote
+The Lower Depths or Na dne
+Ozymandias
+The Decameron
+Diary of a Madman or A Madman's Diary or Kuangren Riji
+Beneath the Wheel
+Saint Nicholas
+The Vision of William, Concerning Piers the Plowman
+The History of Tom Jones, A Foundling
+Jack London
+Deus ex Machina
+Doctor Faustus
+Madame Bovary
+Four Books of Sentences
+A Shropshire Lad
+Anita Desai
+Vidiadhar Surajprasad Naipaul
+The Kalevala
+The Killers
+The Wild Swans at Coole
+Thomas Shadwell
+The School for Scandal
+Tonio Krger
+Tamerlane
+Henry IV
+The Odyssey
+David Foster Wallace
+The Grapes of Wrath
+The Emperor Jones
+Leo Tolstoy
+Rukhnama
+James Grover Thurber
+Volpone
+haiku
+London
+Louis Malle
+The Gospel According to Jesus Christ
+Ode to a Nightingale
+Betrayed by Rita Hayworth or La traicion de Rita Hayworth
+My Last Duchess
+Guy de Maupassant
+Brave New World
+William Carlos Williams
+The Man Who Was Thursday
+First Gulf War
+"The Garden of Forking Paths"
+The Love Song of J. Alfred Prufrock
+Yukio Mishima
+Bertolt Brecht
+France
+Republic of Poland
+Easter 1916
+Look Homeward , Angel
+The Birth-mark
+The Grapes of Wrath
+Thomas Stearns Eliot
+James Fenimore Cooper
+The Hairy Ape
+Cat's Cradle
+El Seor Presidente
+William Butler Yeats
+The Duchess of Malfi
+Leo Tolstoy
+"The Library of Babel" or La Biblioteca de Babel
+Mikhail Afanasyevich Bulgakov
+The Birthday Party
+Desiderius Erasmus
+Kurt Vonnegut Jr.
+Vikram Seth
+Horatio Alger
+War and Peace or Voyna i Mir
+Lemuel Gulliver
+George Orwell
+Fyodor Dostoyevsky
+Percy Bysshe Shelley
+The Three Sisters or Tri Sestry
+Steppenwolf
+Saki or Hector Hugh Munro
+The Violent Bear it Away
+Joseph Conrad
+Yukio Mishima
+Domenico Scarlatti
+Fahrenheit 451
+Nikolai Gogol
+Friedrich von Schiller
+The Waste Land
+"Ode to a Nightingale"
+Wilfred Edward Salter Owen
+Herman Melville
+Arthur Evelyn St. John Waugh
+The Phantom Tollbooth
+Argentina
+Edgar Allan Poe
+Jean Toomer
+Edith Wharton
+Edith Wharton
+Emily Dickinson
+Joyce Kilmer
+Eugne Ionesco
+The Trojan War
+Holden Caulfield
+John Henry
+Milan Kundera
+Death in Venice
+drowning
+Oscar Wilde
+The Dead
+dueling
+All Quiet on the Western Front
+Kawabata Yasunari
+Milan Kundera
+George Bernard Shaw
+"Mending Wall"
+Kalidasa
+"Ode on a Grecian Urn"
+Rashomon
+"Howl"
+Cuba
+haiku
+Twenty Love Poems and a Song of Despair
+Friedrich Holderlin
+The Odyssey
+Ambrose Gwinnett Bierce
+Edna Pontellier
+No Exit
+Bartholomew Fair : A Comedy
+Herbert Jeffrey  Herbie  Hancock
+Robert Browning
+Journey to the West or Hsi yu chi or Xi you ji or Monkey before it is mentioned
+Washington Irving
+The Idiot
+Moby Dick
+Republic of Poland
+Italiano
+Dyskolos or The Grouch
+John Maxwell Coetzee
+Australia
+Romance of the Three Kingdoms
+Nikolai Gogol
+Emile Zola
+Lament for the Death of a Bullfighter
+Emile Zola
+Moliere
+Sherlock Holmes
+Kate Chopin
+Edith Wharton
+Gilbert Keith Chesterton
+The House of the Seven Gables
+Akinwande Oluwole "Wole" Soyinka
+The Golden Bough
+The Song of Bernadette
+Norman Kingsley Mailer
+The Great Gatsby
+Kawabata Yasunari
+to throw
+Ralph Waldo Emerson
+A Sentimental Journey Through France and Italy
+Shylock
+Desiderius Erasmus of Rotterdam
+Martin Louis Amis
+Stendhal or
+William Cullen Bryant
+Ode to the West Wind
+Sonnets from the Portuguese
+William Wordsworth
+Sir Kay
+Satan
+Measure for Measure
+Barn Burning
+Little Women
+Harold Pinter
+The Tale of the Genji
+Walt Whitman
+Satan
+William Shakespeare
+Pygmalion
+On the Road
+Cadmus
+Jay Gatsby
+James Thurber
+Chicago
+To a Skylark
+Francis Scott Key Fitzgerald
+Livy or Titus Livius
+A Doll's House or Et dukkehjem
+Emily Elizabeth Dickinson
+Octavio Paz Lozano
+duchess
+Tale of Genji
+Tzvetan Todorov
+Winterreise
+Duino Eligies or Duineser Elegien
+If on a Winter's Night a Traveller
+Grendel
+The Trial
+Sir Gawain and the Green Knight
+Robert Louis Stevenson
+The Concept of Mind
+Ariel
+William Shakespeare
+Bertolt Brecht
+Marcus Valerius Martialis
+Nikolai Gogol
+The Tempest
+Romeo and Juliet
+the Metamorphoses
+To a Waterfowl
+Oeconomicus
+The Life and Strange Surprising Adventures of Robinson Crusoe of York, Mariner
+Sense and Sensibility
+Max Frisch
+Erich Maria Remarque
+Ambrose Gwinett Bierce
+Harry Sinclair Lewis
+Federico Garca Lorca
+Myra Breckinridge
+July's People
+Sinclair Lewis
+Culhwch and Olwen
+Hedda Gabler
+Growth of the Soil
+Joseph Rudyard Kipling
+Mikhail Bulgakov
+Adam Bede
+Our Town
+Leo Nikolayevich Tolstoy
+Matsuo Basho
+Philip Pip Pirrip
+The Swimmer
+Gone With the Wind
+Brave New World
+Bloom
+Ode to the West Wind
+Tartuffe
+anomie WD
+Robinson Crusoe
+Atalanta in Calydon
+The Marriage of Heaven and Hell
+Their Eyes Were Watching God
+The Great Gatsby
+Billy Budd
+Alfred Lord Tennyson
+Osip Emilyevich Mandelstam
+Stephen Crane
+J.R.R. Tolkien
+Ben Jonson
+Giovanni's Room
+The Tempest
+Life is a Dream or La Vida es Sueno
+Bernard Malamud
+In Praise of Folly
+ode
+Anne Bradstreet
+The Visit of the Old Lady
+Octavio Paz
+Alfred, Lord Tennyson
+John Donne
+Mario Vargas Llosa
+Sonnets from the Portugese
+The Queen of Spades or Pikovaya dama
+Stephen Dedalus
+Washington Irving
+The Prophet
+The Robber Bridegroom
+The Sound and the Fury
+King Arthur
+Yasunari Kawabata
+Thedor Wesengrund Adorno
+The Prime of Miss Jean Brodie
+Ally bank
+Henry IV
+Marquis Donatien Alphonse Francois de Sade
+Rome
+Nikos Kazantzakis
+"Childe Roland to the Dark Tower Came"
+The Tragicall History of the Life and Death of Doctor Faustus
+Dodsworth
+Thomas Stearns Eliot
+Cat on a Hot Tin Roof
+Lysistrata
+The Book of Disquietude
+"Good Country People"
+Yasunari Kawabata
+The Brothers Karamazov
+The Bacchae
+Jorge Luis Borges
+In Cold Blood
+Palestine
+The Bridge
+Poetics
+The Tragedy of Macbeth
+Henrik Ibsen
+Andre Malraux
+Billy Phelan's Greatest Game
+The White Tiger
+William Shakespeare
+People's Republic of China
+Dead Souls
+Alan Paton
+El Gaucho Martn Fierro
+Hebrew
+Graham Greene
+Robert Frost
+Mr. Wilkins Micawber
+Frodo Baggins
+John Milton
+The Good Soldier
+Pinball, 1973
+Christopher Marlowe
+After the Fall
+The Ballad of Peckham Rye
+Thomas Stearns Eliot
+The Pickwick Papers
+Luigi Pirandello
+The Amazing Adventures of Kavalier and Clay
+Maxim Gorky
+Jerome Klapka Jerome
+Chinua Achebe
+Woe from Wit
+Song of Myself
+Home to Harlem
+John Steinbeck
+Wystan Hugh Auden
+Where Angels Fear to Tread
+Nikolai Vasilievich Gogol
+The Stranger
+Brideshead Revisited
+Marcel Proust
+No Exit
+Lewis Carroll
+Aucassin and Nicolette or Aucassin et Nicolette
+Vanity Fair
+Emily Dickinson
+Pierre Corneille
+Aleksandr Isayevich Solzhenitsyn
+epic poems
+John Philip Sousa
+Joseph Conrad
+The Tin Drum
+One Hundred Years Of Solitude or Cien Aos de Soledad
+Murder in the Cathedral
+John Milton
+Dracula
+O. Henry
+To Kill a Mockingbird
+Manhattan Transfer
+The Scholar Gypsy
+The True Chronicle of the History of the Life and Death of King Lear and His Three Daughters
+Native Son
+Wystan Hugh Auden
+Benjamin or Ben Jonson
+Blood on the Forge
+Bessie Head
+Ion
+Dylan Thomas
+Faust
+Young Werther
+Gabriel Garca Mrquez
+Winesburg, Ohio
+Fathers and Sons
+Karen Blixen
+Lady Chatterley's Lover
+The Devil and Daniel Webster
+Les Miserables
+The Unbearable Lightness of Being
+Marcel Proust
+Laocoon: An Essay on the Limits of Painting and Poetry
+Emile Zola
+"Dover Beach"
+Mario Vargas Llosa
+Pride and Prejudice
+Treasure Island
+Constantine Petrou Cavafy
+Greek tragedy
+Pilgrim's Progress
+Anton Pavlovich Chekhov
+"Ars Poetica"
+Prometheus
+Ralph Waldo Emerson
+Ngugi wa Thiong'o
+Sartoris Family
+My Last Duchess
+Rabbit
+Frederic Henry
+The Parable of the Grand Inquisitor
+Yoknapatawpha
+The House of the Spirits
+Isabel Allende
+Sanskrit
+Carlos Fuentes
+The Dead
+Love in the Time of Cholera
+Italo Calvino
+The Bridge
+Daniel Defoe
+Brideshead Revisited, The Sacred and Profane Memories of Captain Charles Ryder
+The Woman From Sarajevo
+Kurt Vonnegut, Jr.
+Aristophanes
+Don Juan
+Little Women
+
+Wendy Wasserstein
+The Song of Roland
+Federative Republic of Brazil
+Jerome David Salinger
+John Robinson Jeffers
+Euripides
+Saki
+Anne Bradstreet
+Phillis Wheatley
+The Tempest
+Native Son
+Cat on a Hot Tin Roof
+Brenger
+Kate Chopin
+Robert Louis Balfour Stevenson
+prostitutes
+Lacplesis
+Junot Daz
+A Bend in the River
+Thomas Pynchon
+Adolf Hitler
+The Flies
+Philip Milton Roth
+Charles Fourier
+China
+Tom Sawyer
+A Raisin in the Sun
+William Somerset Maugham
+Don Quixote
+Lao Tzu
+The Woman Warrior
+Spain
+The Brothers Grimm
+Heart of Darkness
+A Doll's House
+The Blood Knot
+September 1, 1939
+The Duchess of Malfi
+Charles Dickens
+Oliver Goldsmith
+Chinua Achebe
+Dead Souls
+Kazuo Ishiguro
+Martha Quest
+The Decay of Lying
+John Keats
+Washington Irving
+Aristophanes
+Death Comes for the Archbishop
+The Seven-Storey Mountain
+Stephen John Fry
+Fahrenheit 451
+Dracula
+Robert Frost
+Love in the Time of Cholera
+Rosetti
+Rudyard Kipling
+Robert Burns
+"The Cask of Amontillado"
+Stephen Vincent Benet
+Faust
+Nine Stories
+All Quiet on the Western Front
+John Barth
+The Real Inspector Hound
+Dante Alighieri
+My Name is Red
+Kingsley Amis
+Nadine Gordimer
+John Dryden
+Gulliver's Travels
+As I lay with my head in your lap, Camerado
+James Baldwin
+William Gaddis
+Gustave Flaubert
+The Shakers or United Society of Believers in Christ's Second Coming
+Sigrid Undset
+The Black Cat
+Thomas Lanier Tennessee Williams
+As You Like It
+Mary Rowlandson
+The Turn of the Screw
+Ryunosuke Akutagawa
+Charles Baudelaire
+The Tin Drum
+Upton Sinclair
+Thornton Wilder
+The Moviegoer
+The Dumb Waiter
+Ren Girard
+Andre Gide
+Michael Ondaatje
+Doc
+Edgar Allan Poe
+Luigi Pirandello
+Geoffrey Chaucer
+Summer and Smoke
+Naked Lunch
+Shangri-La
+The Maids
+Seamus Heaney
+Harold Pinter
+cats
+Vladimir Nabokov
+Muriel Spark
+Pygmalion
+Identity Card
+John Greenleaf Whittier
+Hamlet And His Problems
+Nathaniel Hawthorne
+A Raisin in the Sun
+Eugene Gladstone ONeill
+Kurt Vonnegut, Jr.
+Songs and Sonnets
+D. H. Lawrence
+The Dream of the Rood
+metaphor
+The Piano Lesson
+The Life You Save May Be Your Own
+Victor Hugo
+Darkness at Noon
+Hans Christian Anderson
+F. Scott Fitzgerald
+Thomas Mann
+The Raven
+The Waste Land
+William Inge
+Wuthering Heights
+Voltaire or Francois-Marie Arouet
+Jonathan Swift
+The Murders in the Rue Morgue
+Catch-22
+Poland
+Le Rouge et Le Noir
+Madmen and Specialists
+The Persian Letters
+James Joyce
+The Lone Ranger and Tonto Fistfight in Heaven
+The Wall
+Paul Revere
+Ethan Frome
+John Crowe Ransom
+Doris Lessing
+Sherwood Anderson
+David Kepesh
+Johann Christoph Friedrich von Schiller
+Saleem Sinai
+"Civil Disobedience"
+Midnight's Children
+John Donne
+All Quiet on the Western Front
+Alexander Pope
+Dirty Hands or Les Mains Sales
+Joao Guimaraes Rosa
+The Rules of the Game
+Anna Christie
+Micromegas
+Anton Chekhov
+flowers
+The Corrections
+Thornton Wilder
+Seamus Heaney
+The Inferno
+Umberto Eco
+The Sheltering Sky
+Joseph Rudyard Kipling
+Wolfe
+Gwendolyn Brooks
+Manhattan Transfer
+Echidna
+Barry Lyndon
+Roberto Bolao
+The Trial
+Dylan Marlais Thomas
+Confessions
+Upton Beall Sinclair, Jr.
+Heinrich Bll
+The Catcher in the Rye
+The Old Man and the Sea
+Ceremony
+"The Congo"
+Waiting for Godot
+James Arthur Baldwin
+Czeslaw Milosz
+The Legend of Sleepy Hollow
+Italo Calvino
+The Pearl
+Halldr Laxness
+Manciple's Tale
+the Venerable Bede
+Oliver Cromwell
+Life: A User's Manual
+One Hundred Years of Solitude
+Cat on a Hot Tin Roof
+William Dean Howells
+Robert Bridges
+A Fable for the Critics
+The Chairs or Les Chaises
+Arthur Rimbaud
+Ben Jonson
+William Cullen Bryant
+Henry IV
+The Bacchae
+Henri Ren Albert Guy de Maupassant
+Henryk Sienkiewicz
+Amidah or Shmonah Esrei or Tfilat ha'Amidah
+Cat on a Hot Tin Roof
+On Heroes and Tombs
+comedy
+War and Peace
+Maya Angelou
+Romulus
+Upton Sinclair
+L. G. Darley
+Daniel Defoe
+Yevgeny Yevtushenko
+Catch-22 <YC>
+Count Leo Nikolayevich Tolstoy
+Sense and Sensibility
+Measure for Measure
+The Waste Land
+Uncle Remus
+As You Like It
+Saul Bellow
+A Valediction: Forbidding Mourning
+One Hundred Years of Solitude or Cien Aos de Soledad
+August Wilson
+Jane Eyre, an Autobiography
+Chronicle of a Death Foretold
+Alfred, Lord Tennyson
+Vanity Fair
+Francis Bret Harte
+Robert Frost
+Journey to the West
+The Unfortunate Traveller: or, the Life of Jack Wilton
+Seventh Circle of Hell
+Ray Bradbury
+Moby-Dick; or, The Whale
+anyone lived in a pretty how town
+Samuel Barclay Beckett
+Kill Bill
+Flatland: A Romance of Many Dimensions
+Incidents in the Life of a Slave Girl
+Edna St. Vincent Millay
+For Whom the Bell Tolls
+Thomas Mann
+The Three Musketeers
+James Thurber
+Independent People
+Seamus Heaney
+The Hedgehog and the Fox
+The Crucible
+Harry Rabbit Angstrom
+The Conservationist
+Go Down, Moses
+Where the Air is Clear or La Region Mas Transparente
+Patrick White
+Sailing to Byzantium
+Jean-Jacques Rousseau
+Rudyard Kipling
+Umberto Eco
+Bleak House
+The Knight of the Burning Pestle
+John Milton
+Things Fall Apart
+Ursula Kroeber Le Guin
+On the Genealogy of Morals or On the Genealogy of Morality
+A Bend in the River
+The Third Earl of Shaftesbury or Lord Shaftesbury
+Tom Jones
+The Tin Drum
+stigma
+The Decameron
+Lady Chatterley's Lover
+Great Expectations
+The Aviator
+The Crying of Lot 49
+The Anarchy
+Republic of Poland
+Umberto Eco
+William Blake
+Rupert Brooke
+The House of the Seven Gables
+Macbeth
+Thomas Hardy
+Heinrich Bll
+The 400 Blows
+The Tale of Genji
+Shame
+The Three Musketeers
+The Cask of Amontillado
+Thanatopsis
+The Rape of the Lock
+Huckleberry Finn
+" Locksley Hall "
+Sir Ahmed Salman Rushdie
+Horace
+Man's Fate
+Reinaldo Arenas
+Philip Roth
+Edgar Allan Poe
+Herman Melville
+Arcadia
+Amanda Wingfield
+William Makepeace Thackeray
+Gnter Wilhelm Grass
+The Taming of the Shrew
+Twelfth Night, or What You Will
+Sylvia Plath
+The Strange Case of Dr. Jekyll and Mr. Hyde
+Nigeria
+Oscar Fingal O'Flahertie Wills Wilde
+Ignatius J. Reilly
+Major Barbara
+Jorge Luis Borges
+The Sleepwalkers
+Leo Tolstoy
+Miranda
+Chinua Achebe
+All Quiet on the Western Front
+Hank Morgan
+Emily Elizabeth Dickinson
+The Robbers or Die Ruber
+Uncle Toby
+One Way to Heaven
+John Galsworthy
+Sir Giles Overreach
+Trinidad and Tobago
+The Stranger
+Gertrude Stein
+Kurt Vonnegut
+Maya Angelou
+Samuel Dashiell Hammett
+The Cherry Orchard
+"Life in the Iron-Mills"
+The Ingenious Hidalgo Don Quixote of La Mancha
+Jean-Paul Sartre
+As I Lay Dying
+Aldous Leonard Huxley
+The Birds
+Colly Cibber
+Stendhal or Marie-Henri Beyle
+Anatole France
+The Fall of the House of Usher
+Aureliano Buendia
+Leaves of Grass
+The Prince and the Pauper
+Dylan Marlais Thomas
+Crime and Punishment or Prestupleniye i Nakazaniye
+lynching
+South Africa
+Philip Kindred Dick
+Saul Bellow
+A Good Man is Hard to Find
+Peru
+Richard Wright
+Wilfred Owen
+Luigi Pirandello
+Ernest Hemingway
+Hedda Gabler
+This Side of Paradise
+Lost Illusions
+Thomas Mann
+Angels in America
+Christopher Marlowe
+Toni Morrison
+Mexico
+Arab Republic of Egypt
+Cry, the Beloved Country
+Orientalism
+Julien Sorel
+Kiran Desai
+White Fang
+Ambrose Bierce
+Gnter Wilhelm Grass
+The Art of War
+colonial America
+Ernest Hemingway
+The History of Tom Jones, a Foundling
+William Wordsworth
+Wozzeck
+Francisco Petrarca
+Hedda Gabler
+The Trial
+Edward Ashburnham
+She Stoops to Conquer
+Tom Kennerly Wolfe
+George Herbert Walker Bush
+Anna Karenina
+Derek Walcott
+The Sun Also Rises
+The Sorrows of Young Werther
+Jack London
+Count of Monte Cristo
+John Milton
+Book of Daniel
+Dead Souls
+Kingsley Amis
+Italo Calvino
+Invisible Man
+Zora Neale Hurston
+Ivanhoe
+Scarlett O'Hara
+Hickey or Theodore Hickman
+General William Booth Enters Into Heaven
+the Cantos
+Henry V
+The Remains of the Day
+Julio Cortazar
+Chinese
+The Legend of Sleepy Hollow
+Carson McCullers
+The Eighth Circle of Hell
+Bigger Thomas
+Thomas Hardy
+Roald Dahl
+Mark Twain
+Paul Thomas Mann
+The Spanish Tragedy or Hieronimo's Gone Mad Againe
+Virginia Woolf
+Tartuffe
+John Jemmy Legs Claggart
+August Wilson
+The Natural
+the Dao De Ching
+Apollyon
+Samuel Johnson
+Andrew "Ender" Wiggin
+September 1, 1939
+To The Lighthouse
+Franz Kafka
+One Flew Over the Cuckoo's Nest
+Ayn Rand or Alisa Zinov'yevna Rosenbaum
+Matthew Arnold
+Stephen Crane
+Eudora Welty
+William Golding
+Denmark
+Empedocles of Acragas
+The Aeneid
+Candide
+Hedda Gabler
+Civil Disobedience
+Jean-Paul Sartre
+Ozymandias
+Dead Souls or Mertvye dushi
+Edna St. Vincent Millay
+Georg Bchner
+David Copperfield
+Joseph Stalin
+Home Burial
+Beowulf
+Thirteen Ways of Looking at a Blackbird
+Julien Sorel
+Charles Maturin
+The Cherry Orchard
+A Retrieved Reformation
+Arrowsmith
+Christopher Marlowe
+Joseph Rudyard Kipling
+Bernard Malamud
+Samuel Barclay Beckett
+The Man with the Blue Guitar
+For Whom the Bell Tolls
+yellow
+"The Cask of Amontillado"
+Lord of the Flies
+Alexander Pope
+Georg Simmel
+Santiago Nasar
+When Lilacs Last in the Door-yard Bloom'd
+The Overcoat
+Thomas De Quincey
+In Search of Lost Time or Remembrance of Things Past or  la recherche du temps perdu
+William Cullen Bryant
+Guy de Maupassant
+Doris Lessing
+Shadows
+the albatross
+The Two Gentlemen of Verona
+Gustav von Aschenbach
+Emma Bovary
+Francois Rabelais
+Romeo Montague
+L'Allegro
+The Waste Land
+Death Comes for the Archbishop
+Grendel
+Flann O'Brian
+Francis Scott Key Fitzgerald
+Walden, or Life in the Woods
+Jose Marti y Perez
+Death Comes for the Archbishop
+Arthur Asher Miller
+Paul
+Maurice Bernard Sendak
+Frankenstein
+Inspector Javert
+Pride and Prejudice
+Twelfth Night, or What You Will
+Mikhail Bulgakov
+Sancho Panza
+Mario Vargas Llosa
+Gorgias
+Karl Popper
+Jack London
+Titus Maccius Plautus
+Crime and Punishment
+Theocritus
+Primo Michele Levi
+Amy Lawrence Lowell
+metastasis
+In the Penal Colony
+Faust
+The Bicycle Thief
+Stella
+Jorge Luis Borges
+The Book of Tea
+William Cullen Bryant
+Tom Jones
+The Good Earth
+The Lottery
+Much Ado About Nothing
+Great Expectations
+Crossing Brooklyn Ferry
+Louisa May Alcott
+The Love Song of J. Alfred Prufrock
+Henrik Ibsen
+Ivan Turgenev
+Gregor Samsa
+Edward Franklin Albee III
+The Glass Bead Game
+Chaireas and Callirhoe
+Anna Karenina
+A Streetcar Named Desire
+Rain
+Philip Roth
+David Herbert Lawrence
+Victor Frankenstein
+Henry James
+Mario Vargas Llosa
+William Butler Yeats
+Ole Rolvaag
+The Bone People
+Hilaire Belloc
+John Millington Synge
+Czes?aw Milosz
+detectives
+Wuthering Heights
+Voltaire
+A Woman of No Importance
+Thomas Mann
+The Tragedy of Macbeth
+The Republic
+Gothic literature
+Du Fu
+Francis Petrarch or Francesco Petrarch
+The House Of The Seven Gables
+Billy Budd, Sailor
+Boxer
+The Handmaid's Tale
+France
+E. Annie Proulx
+Spain
+Dylan Marlais Thomas
+Emily Dickinson
+Philip Milton Roth
+Essais or Essays
+Yasunari Kawabata
+To Kill a Mockingbird
+Tam O'Shanter
+Sherlock Holmes
+The School for Husbands
+Don DeLillo
+Thornton Wilder
+The Call of the Wild
+Shirley Jackson
+Francis Picabia
+Corinna's Going A-Maying
+Nausea
+Richard Brinsley Sheridan
+Richard Lovelace
+Christmas
+Harry Angstrom
+Stephen Dedalus
+Heimdallr
+lilacs
+The Waste Land
+Jerusalem
+Women Celebrating the Thesmophoria
+John Maxwell Coetzee
+Harold Flannigan Athol Fugard
+Howard's End
+Uncle Tom's Cabin
+Anthony Trollope
+Ralph Waldo Emerson
+Lolita
+Flannery O'Connor
+The Vicar of Wakefield
+Madame Bovary
+Silas Marner
+Aleksandr Solzhenitsyn
+John Cheever
+Federative Republic of Brazil
+Frankenstein
+Gabriel Garca Mrquez
+Alexander Pushkin
+Yasunari Kawabata
+Stendhal
+William Carlos Williams
+Hongloumong
+Isaac Bashevis Singer
+Dubliners
+Arthur Miller
+Tess Durbeyfield
+T.S. Eliot
+Gargantua
+Pablo Neruda
+Vidiadhar Surajprasad V.S. Naipaul
+Elizabeth Costello
+A Simple Heart
+Invisible Man
+James Fenimore Cooper
+Charles Brockden Brown
+Khalil Gibran
+Othello
+Sylvia Plath
+Absalom and Achitophel
+Publius Ovidius Naso
+A Streetcar Named Desire
+"Mateo Falcone"
+William Cuthbert Faulkner
+Samuel Richardson
+A Manual for Manuel
+Nathanael West
+The Sun Also Rises
+Cormac McCarthy
+Tobias Smollett
+Madame Bovary
+The Vanity of Human Wishes
+Bartleby, the Scrivener: A Story of Wall-street
+The Trial
+Tartuffe
+Okonkwo
+The Invention of Morel
+The Lair of the White Worm or The Garden of Evil
+Wilfred Owen
+Orestes
+Haruki Murakami
+Beloved
+Dover Beach
+The Moonstone
+Rodion Romanovich Raskolnikov
+Mario Vargas Llosa
+Carlos Fuentes Macias
+East of Eden
+Song of Myself
+Edward Albee
+Aristophanes
+Lord of the Flies
+The Name of the Rose
+Gargantua and Pantagruel
+Kauravas
+Phillis Wheatley
+Edward Taylor
+Terry Pratchett
+The Strong Breed
+Prix Goncourt
+The Amazing Adventures of Kavalier and Clay
+Franz Kafka
+James Mercer Langston Hughes
+Imagism
+Mary Flannery O'Connor
+The Catcher in the Rye
+Thomas Stearns Eliot
+The Origin of Table Manners
+Li Po
+Susan Sontag
+Vachel Lindsay
+Sinclair Lewis
+Anna Karenina
+Johan August Strindberg
+Wallace Stevens
+The Glass Menagerie
+If on a winter's night a traveler
+The Catcher in the Rye
+The Children's Crusade
+Clive Staples Lewis
+Fathers and Sons
+Woyzeck
+Phenomenology of Mind
+The House by the Medlar Tree
+Ezra Weston Loomis Pound
+John Dos Passos
+People's Republic of China
+Touchstone
+
+The Tin Drum
+Anne Bradstreet
+Ben Okri
+Carl Sandburg
+Thiassi
+Nadine Gordimer
+Stephen Dedalus
+The Red and the Black
+Richard Wright
+One Flew Over the Cuckoo's Nest
+The Fall
+Miguel de Cervantes Saavedra
+The Apology of Socrates
+Arthur Conan Doyle
+Confessions of a Mask
+E.M. Forster
+The New York School
+Seamus Heaney
+The Lady, or the Tiger?
+Gaius Valerius Catullus
+Henry Miller
+Leo Nikolayevich Tolstoy
+All Quiet on the Western Front
+Sir William Gerald Golding
+The Crime Against Kansas
+Rabindrath Tagore
+David Lodge
+Crossing Brooklyn Ferry
+Catch-22
+The Cherry Orchard
+Willa Cather
+The Days of His Grace or ''Hans ndes tid'
+The Lady's Dressing Room
+Skara Brae
+Infinite Jest
+Portuguese
+Edwin Arlington Robinson
+Captain Ahab
+Wallace Stevens
+Madame Bovary
+Edgar Allan Poe
+Quintus Horatius Flaccus
+Bertolt Brecht
+Poland
+Great Expectations
+The Makioka Sisters
+Juno and the Paycock
+A Valediction Forbidding Mourning
+RobertFrost
+Jules Verne
+David Copperfield
+Yasunari Kawabata
+Alexander Pope
+Philip Roth
+Thomas de Quincey
+Vergil
+"A Far Cry from Africa"
+The Piano Lesson
+The Magic Mountain
+The Apology
+Lieutenant Frederic Henry
+The Great Gatsby
+The Life of Lazarillo de Tormes and of His Fortunes and Adversities
+Nadine Gordimer
+Henry Wadsworth Longfellow
+Henry James
+Willa Sibert Cather
+Abraham Lincoln
+Pedro Calderon De La Barca
+Alan Paton
+New Orleans
+Countee Cullen
+Bus Stop
+Bussy d'Ambois
+Langston Hughes
+Howl
+Giovanni Boccaccio
+"Ozymandias"
+lawyer
+Charles Baudelaire
+From Here to Eternity
+Portrait of a Lady
+Long Day's Journey into glyph817ight
+Serenus Zeitbloom
+James Fenimore Cooper
+The Count of Monte Cristo or Le Comte de Monte Cristo
+Temple
+The Raven
+Dona Floripedes dos Guimaraes
+The Pearl
+Valmiki
+Samuel Beckett
+Samuel Beckett
+Aldous Huxley
+Marianne Moore
+The Awakening
+On Murder, Considered as One of the Fine Arts
+Maria von Trapp
+Langston Hughes
+Laurence Sterne
+Dodsworth
+To Kill a Mockingbird
+The Cherry Orchard
+Daniel Webster
+Rashomon
+Anna-Lou Annie Leibovitz
+George Orwell or Eric Arthur Blair
+Jerome David Salinger
+Moses E. Herzog
+Ray Luo
+Jane Austen
+Omeros
+Alan Stewart Paton
+Come Back , Little Sheba
+Oe Kenzaburo
+Hart Crane
+Betrayed by Rita Hayworth
+Edward Eastlin Cummings
+Katerina Minola
+Gabriela Mistral
+Edgar Rice Burroughs
+Philip Freneau
+Dr. Pangloss
+Cormac McCarthy
+Salman Rushdie
+Oliver Wendell Holmes, Sr.
+A Dance to the Music of Time
+"To His Coy Mistress"
+Henry Graham Greene
+Mumbo Jumbo
+Arms and the Man
+Toni Morrison
+The Interpretation of Cultures
+Our Town
+Snows of Kilimanjaro
+Washington Irving
+Confessio Amantis
+
+Ernest Miller Hemingway
+"The Sandman"
+Peyton Farquhar
+The Glass Menagerie
+Silas Marner
+William Butler Yeats
+George Orwell
+Decline and Fall
+John Dryden
+Sweden
+Jos de Sousa Saramago
+Robert Louis Stevenson
+Nikolai Vassilievich Gogol
+New Zealand
+Okonkwo
+The Jungle
+William Butler Yeats
+George Orwell
+Isak Christenze Dinesen
+Alfred Jules Ayer
+Star Trek
+Ragtime
+Notes Toward a Supreme Fiction
+Heinrich Heine
+Archibald MacLeish
+John Keats
+edward estlin cummings
+the Republic of Senegal
+Joseph Andrews
+Euripides
+Sherman Alexie
+John Irving
+Dante Gabriel Rossetti
+Death in Venice
+narrators
+The Arabian Nights' Entertainments
+The Oxbow
+Little Women
+going to the moon
+The Tragical History of Doctor Faustus
+Death of the Hired Man
+Slavoj Zizek
+Manuel Puig
+Emma
+A Walk on the Wild Side
+Thomas Gray
+The Mayor of Casterbridge
+person from Porlock
+It Came From Beneath the Sink!
+The Three Musketeers Accept Les Trois Mousquetaires
+Edgar Allan Poe
+Betty Friedan
+Stephen Crane
+Jorge Luis Borges
+Thunder Bay
+the Crito
+Margaret Sanger
+Adonais
+The Scarlet Letter
+Julien Sorel
+Le Morte D'Arthur
+bamboo
+A Farewell to Arms
+Samuel Johnson
+The Rape of the Lock
+Dune
+The House on Mango Street
+"The Yellow Wall-Paper"
+Li Po
+Gerard Manley Hopkins
+the minister
+Kazuo Ishiguro
+Oscar Fingal O'Flahertie Wills Wilde
+Doctor Faustus
+Gargantua and Pantagruel
+Titus Maccius Plautus
+Gargantua and Pantagruel or The Life of Gargantua and of Pantagruel or La vie de Gargantua et de Pantagruel
+Robert Frost
+Victor Hugo
+Saul Bellow
+Henry Wadsworth Longfellow
+Natsume Soseki
+Albert Camus
+Leigh Hunt
+The Unbearable Lightness of Being
+Robert Lowell
+glutamate
+Irwin Allen Ginsberg
+Truman Capote
+Leo Nikolayevich Tolstoy
+Nikolay Vasilyevich Gogol
+Cat's Cradle
+drowning
+Lolita
+Ray Douglas Bradbury
+The Trial
+Imogen
+The Necklace
+Moloch
+Richard III
+The Road to Serfdom
+Six Characters in Search of an Author
+Jeanette Winterson
+Elizabeth F. Loftus
+The Idiot
+Agamemnon
+The Master Builder
+Haddad or Ba'al
+Claude McKay
+secret
+Ralph Ellison
+Book of Genesis
+Jane Eyre: An Autobiography
+Dona Flor and Her Two Husbands
+Maurice Maeterlinck
+The Book of Martyrs
+Season of Migration to the North
+Italy
+Irwin Allen Ginsberg
+To His Coy Mistress
+David Copperfield
+sea
+Howards End
+Gerard Manley Hopkins
+State of Israel
+William Faulkner
+Caliban
+Shaka Zulu
+Walt Whitman
+Just War Theory
+Hermann Hesse
+Jun'ichiro Tanizaki
+Isabel Allende
+In Search of Lost Time
+A Doll's House
+Cities of Salt or Mudun al-milh
+Walt Whitman
+Santiago
+J.M. Coatzee
+Voltaire
+Julia Kristeva
+Ambrose Bierce
+Vladimir Vladimirovich Mayakovsky
+The Bostonians
+The Love Song of J. Alfred Prufrock
+Oedipus at Colonus
+Luis Vaz de Cames
+Lolita
+Jean Racine
+Matthew Arnold
+George Eliot
+Anna Karenina
+A White Heron
+Kingdom of Norway
+Archibald Macleish
+Arcadia
+Kurt Vonnegut, Jr.
+Jules Verne
+A Tale of Two Cities
+The Barber of Seville, or the Useless Precaution
+The Eumenides
+Christopher Marlowe
+Beowulf
+Questions of Travel
+Lupe Fiasco
+Antigone
+One Hundred Years of Solitude
+The Blacks: A Clown Show
+Stephen Crane
+Sarah Vowell
+Ken Elton Kesey
+William Butler Yeats
+The Charterhouse of Parma
+The Leopard or Il Gattopardo
+Tobacco Road
+O. Henry
+Port Royal des Champs
+Boris Pasternak
+Dr. Johann Georg Faustus
+Arthur Koestler
+Sons and Lovers
+Baba Yaga
+Prosper Merimee
+Colonel Aureliano Buenda
+Crito
+Yasunari Kawabata
+Ignatius J. Reilly
+J
+Cat on a Hot Tin Roof
+The Duino Elegies
+Johann Wolfgang von Goethe
+Song of the Nibelungs or Nibelunglied
+T.S. Garp
+The Labyrinth of Solitude or El Laberinto de la Soledad
+Light in August
+Nikolai Gumiliev
+Guillermo Cabrera Infante
+The Author to Her Book
+Wystan Hugh Auden
+Their Eyes Were Watching God
+August Wilson
+1984
+Ethan Frome
+Mishima Yukio
+James Joyce
+Washington Irving
+Langston Hughes
+Trout Fishing in America
+Thomas Mann
+Gunter Grass
+Jorge Luis Borges
+Buried Child
+Miguel de Cervantes Saavedra
+Carlos Fuentes Marcias
+Richard Cory
+The Autumn of the Patriarch
+"The Dead"
+The Maltese Falcon
+Sonnets from the Portuguese
+Theodore Roethke
+Angry young men
+Alyosha Karamazov
+The Unbearable Lightness of Being
+"The Charge of the Light Brigade"
+The Old Man and the Sea
+Never Let Me Go
+Athol Fugard
+Luigi Pirandello
+Yasunari Kawabata
+White Teeth
+Fidelio
+Paradiso
+Spain
+Jack Burden
+The Divine Comedy
+George Bernard Shaw
+Macbeth
+Constantine Petrou Cavafy
+Lady Windermere's Fan
+The Library of Babel or La Biblioteca de Babel
+Thousand Cranes
+Nikolay Gogol
+Chinua Achebe
+Henrik Johan Ibsen
+The Tragedy of Othello, The Moor of Venice
+Francis Scott Key Fitzgerald
+bridges
+Charles John Huffam Dickens
+Melville
+Rabindranath Tagore
+Gotthold Ephraim Lessing
+Waiting for Godot
+Heart of Darkness
+Petrarch
+Lewis Carroll
+The Pilgrim's Progress From This World to That Which is to Come
+American Pastoral
+Daisy Miller: A Study
+the Wife of Bath
+Guy de Maupassant
+The Children's Hour
+To the Lighthouse
+Isabel Allende Llona
+Joseph Rudyard Kipling
+William Howard Gass
+Rudyard Kipling
+Rudyard Kipling
+No One Writes to the Colonel
+Charles Lamb
+Federico Garcia Lorca
+The Whitsun Weddings
+Walt Whitman
+A Descent into the Maelstrom
+John Milton Cage, Jr.
+Irwin Allen Ginsberg
+Maya Angelou
+Voltaire
+Ethan Frome
+Cry, the Beloved Country
+A Raisin in the Sun
+Robert Browning
+William Butler Yeats
+Jorge Francisco Isidoro Luis Borges Acevedo
+Les Misrables
+The Great Gatsby
+The Elephant Vanishes
+Hiawatha
+Patrick White
+Stephen Crane
+Sherwood Anderson
+Zorba the Greek
+irony
+Sense and Sensibility
+Pablo Neruda
+To Autumn
+Dante's Inferno
+War and Peace
+Graham Greene
+Anton Chekhov
+Ivan Turgenev
+Absalom, Absalom!
+Nineteen Eighty-Four
+Kurt Vonnegut
+Dr. Zhivago
+Brideshead Revisited
+the sonnets of Gerard Manley Hopkins
+"The Waste Land"
+Abraham Lincoln
+Ivanhoe
+Ray Bradbury
+Dream a Little Dream of Me
+Publius Ovidius Naso
+The Bluest Eye
+Ralph Waldo Emerson
+Howl
+Malleus Maleficarum
+Absalom, Absalom
+Gunter Grass
+Virginia Woolf
+Herman Hesse
+Gao Xingjian
+Dracula
+Publius Vergilius Maro
+Aleksandr Pushkin
+Desolation Row
+Phillis Wheatley
+John Keats
+Henry James
+Jose Donoso Yez
+The Spire
+Travesties
+Daddy
+Henry James
+Orhan Pamuk
+The Trickster of Seville
+Julian Jaynes
+Lady Macbeth
+The March
+Alfred, Lord Tennyson
+The Alexandria Quartet
+A Walk on the Wild Side
+Lemminkinen
+Epimetheus
+Henrik Ibsen
+Publius Vergilius Maro
+Smith
+A Portrait of the Artist as a Young Man
+Looking for Zora
+Giovanni Boccaccio
+John Stuart Mill
+A Rebours
+The Dumbwaiter
+Stephen Crane
+golden
+Herman Melville
+The Purloined Letter
+Elizabeth Costello
+Madame Bovary
+the diary of Samuel Pepys
+Salmon Rushdie
+Henry Ren Albert Guy de Maupassant
+Rubyfruit Jungle
+Toni Morrison
+Porphyry
+Andre Gide
+Grendel
+Bus Stop
+A Farewell to Arms
+David Garrick
+Rubaiyat of Omar Khayyam
+The War of the End of the World
+Chinua Achebe
+Invisible Man
+Bread and Wine or Pane e vino
+Carlos Fuentes
+New Grub Street
+"Crossing Brooklyn Ferry"
+Sophocles
+Tartuffe
+Italo Calvino
+Algernon Swinburne
+Jose Marti
+Johnson
+Venice Preserv'd
+The Dover Bitch
+Mario Vargas Llosa
+Pablo Neruda
+Cry, The Beloved Country
+The Namesake
+William Howard Gass
+Leatherstocking Tales
+Anton Chekhov
+The Metamorphosis
+Snow-bound: A Winter Idyll
+China
+The Man With the Blue Guitar
+John Greenleaf Whittier
+"I Sing the Body Electric"
+Charles Pierre Baudelaire
+Giambattista Vico
+Heathcliff
+John Maxwell Coetzee
+Love in the Time of Cholera
+Don Quixote
+George Eliot
+Guy de Maupassant
+Gabriela Mistral
+To The Lighthouse
+Essay on Criticism
+The Confessions of Zeno
+Albert Camus
+Gulliver's Travels
+Daisy Miller
+She Stoops to Conquer
+The Call of the Wild
+Sefer ha-zohar
+Haruki Murakami
+Mary Flannery O'Connor
+Suzanna Arundhati Roy
+William Butler Yeats
+Isaac Bashevis Singer
+Sophocles
+James Russell Lowell
+money accept equivalents
+Pygmalion
+John Donne
+Henry Fielding
+country
+Lolita
+The Heart Is a Lonely Hunter
+Twenty Love Songs and a Song of Despair
+Boesman and Lena
+Aldous Huxley
+Dante Alighieri
+1984
+Johann Christoph Friedrich von Schiller
+William Blake
+The Epic of Sundiata
+Tender is the Night
+Japan
+St. Petersburg
+Ode on a Grecian Urn
+All Quiet on the Western Front
+Ambrose Bierce
+Washington Irving
+Morrigan
+Chinua Achebe
+Le Pre Goriot
+Sredni Vashtar
+John Milton
+Plotinus
+Toni Morrison
+Waverley
+"The Necklace"
+Cry, the Beloved Country
+Benjamin Franklin Norris
+dinosaurs
+Upon Appleton House
+Okonkwo
+The Pilgrims Progress from This World to That Which Is to Come
+Emily Dickinson
+The Libation Bearers
+The Catcher in the Rye
+A Streetcar Named Desire
+Romeo and Juliet
+The Diary of a Young Girl
+Eugne Ionesco
+Gertrude Stein
+hero
+Winifred George Sebald
+epics
+The Man That Corrupted Hadleyburg
+The Decameron
+Catch-22
+Exile and the Kingdom
+Dejection: An Ode
+A Shropshire Lad
+Japan
+Lyrical Ballads
+Madame Bovary
+Intercourse
+Mark Twain
+Robert Frost
+Moby Dick
+Pharsalia or De Bello Civili or On the Civil War before mentioned
+All the King's Men
+Harry Sinclair Lewis
+Mario Vargas Llosa
+Frost at Midnight
+Guy de Maupassant
+Sinclair Lewis
+Kenzaburo Oe
+Octavio Paz Lozano
+South Africa
+Wallenstein
+The Lottery
+Anna Karenina
+Jacques the Fatalist and his Master
+Juan Manuel Puig Delledonne
+People's Republic of China
+Rainer Maria Rilke
+William S. Burroughs
+Simone de Beauvoir
+Henrik Ibsen
+Our Man in Havana
+Madame Bovary
+Robert Frost
+Natsume Soseki
+The Celestial Railroad
+James Fenimore Cooper
+Saki
+The Story of the Stone
+Gerhart Hauptmann
+umlauts
+The Fall of the House of Usher
+Italo Calvino
+Allen Ginsberg
+The Catcher in the Rye
+Matthew Arnold
+Sir Gawain and the Green Knight
+The Celebrated Jumping Frog of Calaveras County
+Harry Rabbit Angstrom
+Orlando Furioso
+Rabindranath Tagore
+Oedipus
+Vidiadhar Surajprasad Naipaul
+Herman Melville
+The Love Song of J. Alfred Prufrock
+Sleipnir
+The Crying of Lot 49
+Wole Soyinka
+The Rubaiyat of Omar Khayyam
+Sylvia Plath
+Orestes
+Appointment in Samarra
+Endo Shusaku
+Something Wicked This Way Comes
+Thomas Henry Huxley
+A Sportsmans Sketches
+The Shahnameh Ferdowsi
+Julius
+Herbert George Wells
+Toward a Psychology of Being
+Vikram Seth
+Johann Cristoph Friedrich von Schiller
+Robert Frost
+Edward Albee
+Everything That Rises Must Converge
+The Awakening
+Coriolanus
+Maxim Gorky
+The Grandissimes
+Bertolt Brecht
+The Prince
+Elegy Written in a Country Churchyard
+Samuel Beckett
+Dead Souls or Mertvye Dushi
+Clifford Odets
+Susan Sontag
+The Great American Novel
+The Merchant of Venice
+Gargantua
+The Magic Mountain or Der Zauberberg
+Einstein on the Beach
+epic poem
+Sophocles
+Endgame
+Sexual Personae
+Vanity Fair
+Sula
+Mexico
+Gunter Grass
+Nana
+Arthur Schopenhauer
+Henry James
+Dorian Gray
+Paul Klee
+The Castle of Otranto
+George Orwell
+Umberto Eco
+The Awakening
+Pablo Neruda
+Martin Arrowsmith
+Brave New World
+John Bunyan
+One Hundred Years of Solitude or Cien aos de soledad
+Christopher Marlowe
+Charles Pierre Baudelaire
+Joe Orton
+Inferno
+Eugene Gladstone O'Neill
+Erich Maria Remarque
+Honor de Balzac
+Shirley Hardie Jackson
+Kebra Nagast or the Book of the Glory of Kings
+Anna Karenina
+Candide
+Jerusalem: The Emanation of the Giant Albion
+cat
+Juan Rulfo
+Mario Vargas Llosa
+Ran
+Katherine Mansfield Beauchamp Murry
+Tess of the d'Urbervilles
+The Dumb Waiter
+Zorba the Greek
+Molly Bloom's Soliloquy
+Notebook of
+Langston Hughes
+Nikolai Gogol
+The Human Comedy or La Comedie Humaine
+Catullus
+Christina Rossetti
+the Spanish Golden Age
+Edgar Allan Poe
+The Bell Jar
+Honore de Balzac
+Isabel Allende
+Les Miserables Accept The Miserable Ones
+Saul Bellow
+The Tragedy of the Duchess of Malfi
+George Bernard Shaw
+Jude the Obscure
+A Hero of our Time
+Walt Whitman
+Sometimes a Great Notion
+Rubaiyat of Omar Khayyam
+Aristophanes
+Georges Perec
+Jose Maria Eca de Queiroz
+Hymn to Aten or Akhenaten's Great Hymn or Great Hymn to the Sun before mentioned
+Samuel Taylor Coleridge
+Rudyard Kipling
+Victor Marie Hugo
+Russia
+Richard Wright
+The Marrow of Tradition
+Eugene Onegin
+John Keats
+Emily Dickinson
+The Life of Mr. Jonathan Wild the Great
+Uncle Tom's Cabin; or, Life Among the Lowly
+The Sociological Imagination
+The Time Machine
+God Bless You, Mr. Rosewater
+Stephen Vincent Bent
+Leo Nikolayevich Tolstoy
+Ode on a Grecian Urn
+William Wordsworth
+Ivanhoe
+William Cullen Bryant
+Stanley Louis Cavell
+Trilby
+Langston Hughes
+Giselle
+The Importance of Being Earnest
+Ben Jonson
+Titus Andronicus
+Nathaniel Hawthorne
+Henry Fielding
+History Will Absolve Me
+Victor Hugo
+Krishna
+Pablo Neruda
+John Millington Synge
+Little Eyolf
+The Master and Margarita
+To a Skylark
+Henrik Ibsen
+Amelia
+Paradise Lost
+Marcel Proust
+Rossetti
+Saul Bellow
+Pollice Verso or With Turned Thumb
+The Winters Tale
+Gunter Grass
+Murder on the Orient Express
+Emma
+All Quiet on the Western Front
+Thomas Pynchon
+Ya?ar Kemal
+Akutagawa Ryunosuke
+Tiresias
+Tuonela
+Edward Estlin Cummings
+Junichiro Tanizaki
+Cry, the Beloved Country
+Margaret Eleanor Atwood
+slave narratives
+Wuthering Heights
+Jack London
+Alfred Lord Tennyson
+Francis Scott Key Fitzgerald
+Nastasya Filipovna
+Death and the King's Horseman
+Jonathan Swift
+David Herbert Lawrence
+Banjo Paterson
+Fyodor MIkhailovich Dostoyevsky
+Virginia Woolf
+Petrarch
+Benito Prez Galds
+John Hoyer Updike
+Gabriel Garca Marquez
+Poor Folk
+Daniel Webster
+Jack Kerouac
+The Cloven Viscount
+El Aleph
+Anne Bradstreet
+Aristophanes
+John Steinbeck
+One Hundred Years of Solitude
+The Unbearable Lightness of Being
+cavalier
+Middlemarch: A Study of Provincial Life
+The Water Margin
+Hester Prynne
+Uncle Tom
+Moliere
+Ode to the West Wind
+Roland Barthes
+John Webster
+Creedence Clearwater Revival
+The Sound and the Fury
+Thomas Gray
+Our Town
+ahimsa
+Jane Eyre
+John Greenleaf Whittier
+Animal Farm
+The Decameron Tales
+Tender Is the Night
+Johann Wolfgang von Goethe
+Ry?nosuke Akutagawa
+France
+The Metamorphosis
+Juno and the Paycock
+The Revenger's Tragedy
+Italy
+Isak Dinesen or Karen Blixen
+Kubla Khan
+Mikhail Pushkin
+Growth of the Soil
+Mark Twain
+Arcadia
+The Jungle
+Joseph Rudyard Kipling
+Oronooko, or The Royal Slave: A True History
+Aleksandr Isayevich Solzhenitsyn
+Zaire
+Rebecca
+Republic of Chile
+Jerome David Salinger
+A Clockwork Orange
+Death of a Salesman
+Raymond Chandler
+Marcus Valerius Martialis
+Henrik Ibsen
+Eugene Gladstone O'Neill
+The Handmaids Tale
+Clarel
+George Orwell
+Luigi Pirandello
+Eugenio Montale
+Salman Rushdie
+The Handmaid's Tale
+James Augustine Aloysius Joyce
+George Orwell or Eric Blair
+The Tin Drum
+Pindar
+giants
+Kazuo Ishiguro
+James Fenimore Cooper
+Dulce Et Decorum Est
+David Herbert Richards Lawrence
+Anne Bradstreet
+William Bradford
+John Greenleaf Whittier
+Walt Whitman
+Nathaniel Hawthorne
+All Quiet On The Western Front
+Leaves of Grass
+Flannery O'Connor
+Rob Roy
+Margaret Atwood
+Thomas Pynchon
+Richard Lovelace
+Slaughterhouse Five: Or, The Children's Crusade, a Duty-Dance with Death
+Frankenstein; or, the Modern Prometheus
+Molire
+Derek Walcott
+A Farewell to Arms
+The Edible Woman
+Clarissa
+bridges
+
+Christopher Marlowe
+The Country of the Blind
+A Modest Proposal For Preventing The Children of Poor People in Ireland From Being
+"Ode to the West Wind"
+Macbeth
+Nadine Gordimer
+One Hundred Years of Solitude
+Ralph Waldo Ellison
+Charlotte Anna Perkins Gilman
+Joseph Conrad
+John Suckling
+grass
+Kenneth Kesey
+O Pioneers!
+Oliver Wendell Holmes Sr.
+peacocks
+Ousmane Sembne
+George Eliot
+Graham Greene
+Pride and Prejudice
+Catch-22
+Volpone
+One Hundred Years of Solitude
+Aleksandr Pushkin
+Vietnam War
+A & P
+The Life and Opinions of Tristram Shandy, Gentleman
+People's Republic of China
+Kurt Vonnegut Jr.
+Ironweed
+Jean-Paul Sartre
+John Milton
+David Mamet
+One Hundred Years of Solitude
+The Seagull or Chayka
+Cry, the Beloved Country
+Eugene O'Neill
+Wystan Hugh Auden
+Romance of the Three Kingdoms
+The Devil's Dictionary
+George Gordon, Lord Byron
+Thomas Sterns Eliot
+Wole Soyinka
+A Doll's House
+William Blake
+Orhan Pamuk
+Benjamin "Ben" Jonson
+Kate Chopin
+J.B.
+Fyodor Dostoevsky
+Alexander Solzhenitsyn
+Ghosts
+O. Henry
+sonnets
+Publius Ovidius Naso
+The Charterhouse of Parma
+The Peony Pavilion or Mudan ting
+Oliver Goldsmith
+Jorge Luis Borges
+If on a Winter's Night a Traveller
+Les Fleurs du Mal
+The Three Sisters
+pity this busy monster,manunkind
+O Captain! My Captain!
+"Ode to a Nightingale"
+Wuthering Heights
+Eugene Gladstone O'Neill
+Robert Herrick
+Herbert George Wells
+Gunter Grass
+Italy
+metaphysical poets
+Carl Sandburg
+Nectar in a Sieve
+cars
+Matsuo Basho
+Alfred, Lord Tennyson
+Simone de Beauvoir
+Edgar Allen Poe
+Akutagawa Ryunosuke
+Chinua Achebe
+Crime and Punishment
+Hydriotaphia, Urn Burial
+One Hundred Years of Solitude
+Daniel Defoe
+Aristophanes
+A Worn Path
+Prometheus Unbound
+Robert Browning
+Sir Philip Sidney
+All My Sons
+Lysistrata
+Walt Whitman
+Waiting for Lefty
+Dylan Thomas
+The Princess of Clves
+Juvenal
+Chile
+Wuthering Heights
+Victor Frankenstein
+The Autobiography of an Ex-Colored Man
+Dulce et Decorum Est
+Nathaniel Hawthorne
+Madame Bovary
+Invisible Man
+William Somerset Maugham
+The Prelude; or, Growth of a Poet's Mind
+Tom Wolfe
+Dylan Marlais Thomas
+Kawabata Yasunari
+The Octopus
+Cat on a Hot Tin Roof
+Nadine Gordimer
+The Blind Assassin
+White Noise
+John Donne
+Atala
+New Orleans
+James Baldwin
+Lord of the Flies
+Australia
+St. Teresa of Avila or of Jesus
+Francis Bret Harte
+haiku
+The Rocking-Horse Winner
+Eugene Ionesco
+Brobdingnag
+The Great Gatsby
+The Diary of a Young Girl
+The Wreck of the Deutschland
+Michael Chabon
+J'accuse
+Louisa May Alcott
+The House of the Seven Gables
+Emily Jane Bront
+The Importance of Being Earnest
+Phyllis Wheatley
+Mishima Yukio
+Jack London
+Romeo and Juliet
+The Gospel of John or the Gospel According to John
+Utopia
+Lord of the Flies
+Frankenstein; or, The Modern Prometheus
+The Red and the Black
+The Seagull
+Kurt Vonnegut
+Subotai
+Gottfried Keller
+"The Open Window"
+Billiards at Half Past Nine
+Much Ado About Nothing
+Anna Karenina
+Four Quartets
+Metamorphoses
+Daffodils
+"Elegy Written in a Country Churchyard"
+The Iceman Cometh
+The Bell Jar
+The Three Musketeers
+To His Coy Mistress
+After the Fall
+Ambrose Gwinett Bierce
+Ezra Weston Loomis Pound
+The Jungle
+Betrayal
+Aristophanes
+Native Son
+Lola Montez
+Tennessee Williams
+Winesburg, Ohio
+The Sign of the Four
+Silas Marner: The Weaver of Raveloe
+Johan August Strindberg
+Commonwealth of Australia
+A Doll's House
+Thyrsis
+Through the Looking Glass
+Kaddish
+The Scarlet Letter
+Harold Pinter
+Marcus Valerius Martialis
+Decline and Fall
+Terence
+Go Down, Moses
+Tender Is the Night
+The Importance of Being Earnest
+Henrik Ibsen
+Pilgrim's Progress
+The Pearl
+The Comedy of Errors
+Beowulf
+Outlaws of the Marsh or Water Margin or All Men Are Brothers or Shu?h? Zhun
+The Miser
+Angels in America: A Gay Fantasia on National Themes
+Seamus Heaney
+Gabriel Garcia Marquez
+Richard Brinsley Sheridan
+Their Eyes Were Watching God
+Jean Racine
+Elegy Written in a Country Churchyard
+Tom
+Wuthering Heights
+Waiting for the Barbarians
+The Song of Roland
+James Arthur Baldwin
+Who's Afraid of Virginia Woolf?
+The Interpretation of Cultures
+Heinrich Boll
+Things Fall Apart
+The Taming of the Shrew
+Albert Camus
+Edward Rochester
+Ng?g? wa Thiong'o
+Ali Baba
+Auto-da-F
+The Hunchback of Notre-Dame
+Leatherstocking Tales
+Charlotte Bront
+George Bernard Shaw
+A Passage to India
+Sinbad the Sailor
+Pride and Prejudice
+mayor
+Samuel Taylor Coleridge
+A Bend in the River
+Native Son
+All's Well That Ends Well
+Joaquim Maria Machado de Assis
+Forsyte
+Langston Hughes
+On the Road
+Orlando Furioso
+The Mayor of Casterbridge
+World War I
+Hopkins
+French
+The Sorrows of Young Werther
+Candida
+Edna St. Vincent Millay
+Kurt Vonnegut
+Daniel Defoe
+Miss Julie
+Mahmoud Darwish
+John Milton
+Livy or Titus Livius
+William Gerald Golding
+Tartuffe
+Wallace Stevens
+Miguel Angel Asturias Rosales
+Timon of Athens
+Catch-22
+Labors of the Months
+Guillaume Apollinaire
+Confessions of an English Opium Eater
+The Necklace
+magical realism
+William Faulkner
+Kalidasa
+As I Lay Dying
+La Ta Julia y el Escribidor or Aunt Julia and the Scriptwriter
+Rappacini's Daughter
+Breakfast of Champions
+Bernard Malamud
+The Tin Drum
+Absalom, Absalom!
+Ralph Waldo Emerson
+One Hundred Years of Solitude
+The Gold Bug
+American Pastoral
+Ian Smith
+Mark Twain
+"La Belle Dame Sans Merci"
+A Long Way from Chicago
+R.U.R.
+Sinclair Lewis
+The Age of Innocence
+Pale Horse, Pale Rider
+Silas Marner, Weaver of Raveloe
+The Mayor of Casterbridge
+Wuthering Heights
+Jean-Paul Sartre
+Paris
+Joseph Conrad Accept Jsef Teodor Konrad Nalecz Korzeniowski
+Miss Havisham
+Astrid Lindgren
+Aldous Huxley
+Serbian
+Saul Bellow
+Bertolt Brecht
+Oliver Goldsmith
+Of Mice and Men
+Wilfred Edward Salter Owen
+Eilert Lovborgs manuscript
+Great Expectations
+Therese Raquin
+Edwin Arlington Robinson
+Royall Tyler
+Little Women
+David Mamet
+China
+Things Fall Apart
+Oscar and Lucinda
+Carl Sandburg
+A Fable
+The Autobiography of Benjamin Franklin
+Sarah Ruhl
+Voltaire
+The Tell-Tale Heart
+Anderson
+Herman Hesse
+Ernest Miller Hemingway
+George Orwell
+Ulalume
+Notre Dame de Paris
+Ebenezer Scrooge
+Stephen Crane
+Yasunari Kawabata
+Joseph Conrad
+Thornton Wilder
+The Decameron
+"The Charge of the Light Brigade"
+Anton Pavlovich Chekhov
+"A Good Man is Hard to Find"
+James Augustine Aloysius Joyce
+om
+I Am a Cat
+Edgar Allen Poe
+The Handmaid's Tale
+Pablo Neruda or Neftali Ricardo Reyes Basoalto
+Oscar Fingal O'Flahertie Wills Wilde
+Eugene O'Neill
+George Bernard Shaw
+Cry, the Beloved Country
+Paul Valry
+Marcel Proust
+Siddhartha
+the preface to Lyrical Ballads
+Bokonon
+South Africa
+"A Rose for Emily"
+Felix Lope de Vega y Carpio
+Bartleby, the Scrivener: A Story of Wall Street
+Ben Jonson
+Robertson Davies
+The Eichendorff Liederkreis
+Jos Maria de Ea de Queiroz
+Lysistrata
+Marianne Moore
+August Wilson
+Henry Wadsworth Longfellow
+Jerusalem Delivered
+Rainier Maria Rilke
+Atticus Finch
+Naguib Mahfouz
+Lady Chatterley's Lover
+Republic of South Africa
+Decolonizing the Mind
+The Tin Drum
+Sense and Sensibility
+Tobias George Smollett
+Ada , or Ardor: A Family Chronicle
+The Way of All Flesh
+To Kill a Mockingbird
+epistolary novel
+Samuel Butler
+To His Coy Mistress
+Steppenwolf
+Pygmalion
+The Sorrows of Young Werther
+Toni Morrison
+Robert Louis Stevenson
+Samuel Taylor Coleridge
+e. e. cummings
+Edward Casaubon
+The Old Gringo
+All the King's Men
+Imre Kertsz
+Don Quixote
+Hamlet
+knights
+Wuthering Heights
+Evelina: Or, The History of a Young Lady's Entrance into the World
+Willa Cather
+Washington Irving
+Tom Wolfe
+Spain or Espaa
+Oklahoma!
+A Clockwork Orange
+Arabic
+Sinclair Lewis
+Aleksandr Isayevich Solzhenitsyn
+Dover Beach
+Richard Brinsley Sheridan
+The Great Gatsby
+Greece
+Culhwch
+McTeague
+A Streetcar Named Desire
+Portugal
+George Bernard Shaw
+The Rime of the Ancient Mariner
+Their Eyes Were Watching God
+Rubn Daro
+Brave New World
+Teresa
+Nadine Gordimer
+Death and the Maiden
+The Eve of Saint Agnes
+La Cucaracha
+Aureng-Zebe, or The Great Mogul
+A Wrinkle in Time
+Moliere
+Turnus
+Sherlock Holmes
+The Red-Headed League
+The Weary Blues
+William Somerset Maugham
+Barn Burning
+Eugene Ionesco
+Thomas Shadwell
+Sigrid Undset
+Evelyn Waugh
+Albert Camus
+John Donne
+Andre Gide
+Albert Chinualumogu Chinua Achebe
+the Narcissus
+Midnight's Children
+Sons and Lovers
+Brave New World
+Jack Kerouac
+Jean Valjean
+Guy de Maupassant
+James Augustine Aloysius Joyce
+Uncle Tom
+The Open Boat
+The Contrast
+Ivan Sergeyevich Turgenev
+Dutchman
+Memories of My Melancholy Whores or Memoria de Mis Putas Tristes
+Ken Kesey
+A Raisin in the Sun
+Emily Dickinson
+Katherine Ann Porter
+Alexander Pushkin
+Wuthering Heights
+John Millington Synge
+A Good Man is Hard to Find
+A Clean Well Lighted Place
+Song of Myself
+Poland
+Ezra Weston Loomis Pound
+"Lines Composed a Few Miles Above Tintern Abbey"
+Novalis
+The Night of the Iguana
+Francois Mauriac
+Oe Kenzaburo
+Jane Jacobs
+Ambrose Gwinnett Bierce
+Oscar Wilde
+Lady Chatterleys Lover
+The Acharnians
+Meursault
+A Personal Matter
+Edward Estlin Cummings
+Owen Meany
+The Foundation Pit
+The Scarlet Letter
+Charles Dickens
+Georges Perec
+Umayyad Dynasty
+La Chanson de Roland
+Carbon Dioxide or CO2
+Toni Morrison
+Invisible Man
+Eugene Luther Gore Vidal
+The Hive
+Walking Around
+metaphysical
+Les Fleurs du Mal
+Virginia Woolf
+Decline and Fall
+The Murder of Roger Ackroyd
+Invisible Man
+Cleopatra
+Aldous Leonard Huxley
+Richard Dick Diver
+Pedagogical Sketchbook
+The Song of Roland
+The Spectator
+Stphane Mallarm
+The Tin Drum
+Interzone
+Naming and Necessity
+Carlo Gozzi
+Robert Browning
+The Luck of Roaring Camp
+Gustave Flaubert
+Petrarch
+Kingdom of Spain
+Thanatopsis
+Fyodor Mikhaylovich Dostoyevsky
+Rudyard Kipling
+Harold Pinter
+New Orleans
+The Pilgrim's Progress from This World to That Which Is to Come
+Dover Beach
+Aeolus
+Dario Fo
+Stockholm Bloodbath or Stockholm Massacre
+James Augustine Aloysius Joyce
+The Scarlet Letter
+Jerome David Salinger
+Roland
+Carl Sandburg
+Norwegian Wood
+Henry Wadsworth Longfellow
+Sinclair Lewis
+Fences
+The Importance of Being Earnest
+George Eliot or Marian Evans or Mary Ann Evans
+Gao Xingjian
+Afternoon of a Faun
+St. Francis of Assisi
+Wallace Stevens
+Sidonie-Gabrielle Colette
+The Ark Sakura
+The Great Gatsby
+Ivan Turgenev
+A Fine Balance
+Judge Holden
+Emily Bront
+Empire Falls
+Mansfield Park
+Oliver Goldsmith
+The Weavers
+Gabriel Jos de la Concordia Garca Mrquez
+Invisible Man
+Phdre
+Romeo and Juliet
+morality play
+David Copperfield
+John Brown's Body
+Oblomov
+The Stranger
+Du Fu
+Major Barbara
+goblins
+Jose Rizal
+Italo Calvino
+The Adventures of Huckleberry Finn
+War and Peace
+The Parliament of Fowls
+Lytton Strachey
+Kenzaburo Oe
+Tender is the Night
+Anna Karenina
+John Dos Passos
+canon
+Lemuel Gulliver
+All Quiet on the Western Front or Im Westen nichts Neues
+Wallace Stevens
+The Short Happy Life of Francis Macomber
+One Day in the Life of Ivan Denisovich
+Harry Sinclair Lewis
+Africa
+Battle of the Metaurus River
+Alexander Dumas
+The Shoemaker's Holiday: A Pleasant Comedy of the Gentle Craft
+The Rise of Silas Lapham
+The Lady of Shalott
+Andr Brink
+Bret Harte
+Zoo Story
+Thomas Pynchon
+"Crossing Brooklyn Ferry"
+Magnetars
+Edward Estlin Cummings
+Wuthering Heights
+Langston Hughes
+Childe Harold's Pilgrimage
+The Great God Brown
+James Augustine Aloysius Joyce
+Emile Zola
+Mark Twain
+The Charge of the Light Brigade
+Laurence Sterne
+Robert Lee Frost
+Lulu
+Love in the Time of Cholera
+The Wasps
+Brideshead Revisited
+in medias res
+flu drugs
+William Cullen Bryant
+The Egoist
+Mormon
+Toni Morrison Accept Chloe Anthony Wofford
+Sylvia Plath
+La Belle Dame Sans Merci
+Spain
+death
+Herodotus of Halicarnassus
+"The Rime of the Ancient Mariner"
+Don Quixote de la Mancha
+"The Cremation of Sam McGee"
+Emma
+Saul Bellow
+Henrik Johan Ibsen
+Ralph Ellison
+fruit
+The Road to Mecca
+Pablo Neruda
+R. Daneel Olivaw
+Thomas Mann
+Robert Lee Frost
+Frankenstein or, The Modern Prometheus
+Northanger Abbey
+Aleksandr Solzhenitsyn
+Fyodor Mikhaylovich Dostoevsky
+Sylvia Plath
+John Maxwell J. M. Coetzee
+"Thanatopsis"
+The Satanic Verses
+The Satanic Verses
+Who's Afraid of Virginia Woolf?
+The Color Purple
+Jane Eyre
+William Makepeace Thackeray
+Washington Irving
+Sons and Lovers
+Roberto Bolao valos
+August Strindberg
+Laura
+Gabriela, Clove, and Cinnamon
+Death of a Naturalist
+Argentina
+To Kill a Mockingbird
+The Golden Bough: A Study in Magic and Religion
+Nathaniel Hawthorne
+Federico Garcia Lorca
+Chile
+The Castle of Otranto
+Irving Allen Ginsburg
+O. Henry
+Wuthering Heights
+Sophie's World
+Andr Brink
+Emile Zola
+Paul Thomas Mann
+The Changeling
+Mark Twain
+Claude McKay
+Gimpel the Fool
+The Rime of the Ancient Mariner
+Being Transgendered or equivalents that implies a figure who underwent a sex change
+A House for Mr. Biswas
+Rainer Maria Rilke
+Samuel Taylor Coleridge
+quus
+The Second Coming
+The Little Prince
+The Way of the World
+Willa Cather
+Tom Jones
+Ozymandias
+Dona Flor and Her Two Husbands
+Don Quixote de la Mancha
+Childe Harold's Pilgrimage: A Romaunt
+Fathers and Sons
+Filippo Tommaso Marinetti
+The New York Times
+The Elements of Style
+Vladimir Nabokov
+The Great Gatsby
+The Blessed Damozel
+The Betrothed
+The Tale of Genji
+Emile Francois Zola
+Sir Lancelot du Lac
+Molire
+Disgrace
+The Playboy of the Western World
+Der Steppenwolf
+The Count of Monte Cristo
+Hopscotch
+The Weavers
+Gnter Grass
+Derek Alton Walcott
+John Maxwell Coetzee
+Notes from Underground
+Thomas Mann
+the Forsytes
+Babbitt
+Oscar Fingal O'Flahertie Wills Wilde
+Macondo
+A Hazard of New Fortunes
+The Pit: A Story of Chicago
+Ebenezer Scrooge
+Christopher Marlowe
+John Barth
+George Eliot
+Miss Julie
+Ajax
+The Love Song of J. Alfred Prufrock
+Les Miserables
+Sinclair Lewis
+
+William Somerset Maugham
+Francois Rabelais
+Nature
+Leo Tolstoy
+Cry, the Beloved Country
+Robert Burns
+Alexandre Dumas
+Jorge Luis Borges
+The Lower Depths or Na dne
+To A Mouse
+Flannery O'Connor
+Henry Wadsworth Longfellow
+diary
+Julio Cortzar
+Their Eyes Were Watching God
+A Grain of Wheat
+The Luck of Roaring Camp
+Dante Alighieri
+Moliere
+The Invention of Morel
+The Fountainhead
+Kingdom of Sweden
+Winfried Georg Sebald
+Sir Henry Maximilian Beerbohm
+Ben Jonson
+forgery or word forms; some of the clues are about art forgery or other specific forms so accept modifiers like that
+Spanish
+Dylan Thomas
+Ken Kesey
+The Prophet
+O. Henry
+Punjabi
+Don Quixote
+a window
+Dice
+Eudora Welty
+The Canterbury Tales
+Seymour Glass
+The Quiet American
+Toni Morrison
+The Confessions
+Hungary
+Portugal
+Blood Meridian
+The World as Will and Idea or The World as Will and Representation or Die Welt als Wille und Vorstellung
+The Night of the Iguana
+World War I
+My Last Duchess
+Tristan Tzara
+George Orwell
+Holden Caulfield
+St. Petersburg
+Robert Herrick
+social
+horse
+William T. Vollmann
+If This Is A Man
+Ignatius J. Reilly
+The Celestial Omnibus
+Robert Burns
+The Crucible
+John Dillinger
+Christina Rossetti
+Akinwande Oluwole Soyinka
+Captain Ahab
+Moby-Dick; or, the Whale
+Il Penseroso
+Harold Pinter
+Lysistrata
+Mrs. Clarissa Dalloway
+Finland
+Albert Camus
+Nikolai Vasilievich Gogol
+Athanasius of Alexandria
+Peter Carey
+Nigeria
+D.H. Lawrence
+Dover Beach
+Percy Bysshe Shelley
+The House on Mango Street
+Channel Firing
+Chinua Achebe
+Gustave Flaubert
+the sonnets of John Milton
+Patrick White
+"Sonnet--To Science"
+Alexander Pope
+Oscar and Lucinda
+Edward Morgan Forster
+Ralph Waldo Emerson
+Henry Wadsworth Longfellow
+Nathaniel Hawthorne
+Ernst Theodor Wilhelm Amadeus Hoffman
+Wallace Stevens
+Samuel Johnson
+E
+Lorenzo Valla
+One Day in the Life of Ivan Denisovich
+The Tempest
+Death of the Hired Man
+The Adding Machine
+Wystan Hugh Auden
+Ryu Murakami
+George Herbert
+2666
+Things Fall Apart
+The Fall
+Carlos Fuentes
+Yasunari Kawabata
+"Tintern Abbey"
+O. Henry
+Candide
+Long Day's Journey Into Night
+For Whom the Bell Tolls
+Eugene Ionesco
+To His Excellency, George Washington
+Emma
+The English Mail Coach
+Umberto Eco
+Madame Bovary
+Orishas
+The Most Lamentable Comedy, and the Most Cruel Death, of Pyramus and Thisbe
+Invitation to a Beheading
+Hamlet
+Henryk Adam Aleksander Pius Sienkiewicz
+Nevsky Prospect
+Crossing the Bar
+John Ernst Steinbeck Jr.
+Quasimodo
+"Musee Des Beaux Arts"
+Brave New World
+John Anthony Burgess Wilson
+Edward Estlin
+The Alchemist
+Japan
+62: A Model Kit
+Babbitt
+Casey at the Bat
+The Little Foxes
+Barcelona
+Alfred Jarry
+George Gordon, Lord Byron
+Kenzaburo Oe
+Stephen Vincent Benet
+David Herbert Richards Lawrence
+Dr. Zhivago
+The French Lieutenant's Woman
+William Wordsworth
+James Augustine Aloysius Joyce
+Aldous Leonard Huxley
+Spanish
+The Magnificent Ambersons
+Ode to a Nightingale
+The Tragedy of Hamlet, Prince of Denmark
+The Stranger or L'Etranger
+Robert Lee Frost
+The Bell Jar
+Roland Barthes
+Gabriela Mistral
+Apologia pro vita sua
+Tender is the Night
+Outlaws of the Marsh
+Death in Venice
+Zora Neale Hurston
+Gitanjali
+Imogen
+The Satyricon
+Johan August Strindberg
+Bartleby, the Scrivener: A Story of Wall Street
+Ethan Frome
+Nathaniel Hawthorne
+The Principles of Psychology
+Rosencrantz and Guildenstern Are Dead
+Allen Ginsberg
+Sinclair Lewis
+Ferit Orhan Pamuk
+Harriet Beecher Stowe
+Roald Dahl
+John Keats
+Robert Browning
+Sir Gawain and the Green Knight
+Mansfield Park
+Tawfiq al-Hakim
+William Wycherley
+Main Street
+Sir Nol Peirce Coward
+Emma Lazarus
+The Grapes of Wrath
+Brekekekex koax koax!
+Haruki Murakami
+Gaius Valerius Catullus
+Mario Vargas Llosa
+Jonathan Franzen
+The Master Builder
+glyph817orwegian Wood
+Jos de Sousa Saramago
+Egypt
+Catullus
+Miguel ngel Asturias Rosales
+Charlotte Perkins Gilman
+Ben Okri
+Yu Hua
+The Pilgrim's Progress From This World to That Which Is to Come
+Italy
+Cousin Bette
+RNA splicing
+Tender is the Night
+Yasunari Kawabata
+The Idiot
+George Eliot or Mary Ann Evans
+Edward Franklin Albee III
+Isabelle Allende Llona
+Gabriel Garca-Mrquez
+Darkness at Noon
+Samuel Taylor Coleridge
+Richard III
+The Crying of Lot 49
+Os Lusiadas
+The Fall of the House of Usher
+Beowulf
+Candide, or Optimism
+"The Lottery"
+Chimamanda Ngozi Adichie
+John Donne
+The Children of the Night
+Tartuffe
+Crime and Punishment
+Victor Hugo
+Doctor Zhivago
+City Lights
+Bartleby the Scrivener
+the Spanish Golden Age
+Johann Christian Friedrich Hlderlin
+Jean Toomer
+Yevgeny Ivanovich Zamyatin
+The Case for Comrade Tulayev
+John Hoyer Updike
+Mourning Becomes Electra
+spin-orbit coupling
+Walter Whitman
+the witches from Macbeth
+The Frogs
+Mark Twain
+Carlos Fuentes
+O. Henry
+Stanley Kubrick
+The Man of Mode
+Beowulf
+Old Creole Days
+Theodore Dreiser
+Pickwick Papers
+Tennessee Williams
+The Fire Next Time
+The Misanthrope
+Scoop
+Dante Gabriel Rossetti
+The Life of Gargantua and Pantagruel
+Emily Dickinson
+William Shakespeare
+The Adventures of Huckleberry Finn
+Sir Walter Scott
+The Pirates of Penzance or Slave to Duty
+A Handful of Dust
+The Awakening
+Johann Wolfgang von Goethe
+The Grapes of Wrath
+Kurt Vonnegut
+Cormac McCarthy
+Alhambra
+Valentin Louis Georges Eugne Marcel Proust
+John Steinbeck
+The Naked Lunch
+Alfred, Lord Tennyson
+J.B.
+Matsuo Basho
+Henry Wadsworth Longfellow
+Robert Browning
+David Copperfield
+Thornton Niven Wilder
+The Darkling Thrush
+nonfiction novels
+Ghosts
+Isabel Allende
+Mr. Edward Rochester
+The Knight's Tale
+Matthew Arnold
+Emily Dickinson
+Volpone ; Or, the Fox
+Albert Camus
+The Optimist's Daughter
+Crome Yellow
+James Agee
+Loves Labours Lost
+Oscar
+Francis Scott Key Fitzgerald
+Roland
+The Fable of the Bees
+Erich Maria Remarque
+Mrs. Dalloway
+The Mysteries of Udolpho
+Invisible Man
+Sidonie-Gabrielle Colette
+John Fowles
+"Self-Reliance"
+Jester
+The Unbearable Lightness of Being
+Meursault
+Upton Beall Sinclair
+John Milton
+Yukio Mishima
+Umberto Eco
+Lev/Leo Nikolayevich Tolstoy
+Thomas Mann
+William Shakespeare
+Paradise Lost
+On the Road
+The House of Bernarda Alba
+St. Simeon Stylites
+Nausea
+Middletown
+Arthur Yvor Winters
+Europa
+Death and the King's Horseman
+John Updike
+Yasunari Kawabata
+Ivan Alekseyevich Bunin
+Blood Wedding
+Percy Bysshe Shelley
+Oscar Wilde
+Amy Tan
+Octavio Paz
+Franz Kafka
+The Frogs
+Nadine Gordimer
+The Masque of the Red Death
+Thornton Niven Wilder
+Christopher Isherwood
+Gustave Flaubert
+The Changing Light at Sandover
+Twenty-Thousand Leagues Under the Sea
+Aeschylus
+Mario Vargas Llosa
+Child of God
+Eudora Welty
+A Midsummer Nights Dream
+The Woman in White
+Cry, the Beloved Country
+The Village Blacksmith
+Novalis
+The Ring and the Book
+Works and Days or Erga kai Hemerai or Opera et Dies
+Prize Stock
+The Aeneid
+Harold Pinter
+Moby Dick, or, The Whale
+Saul Bellow
+Henry Wadsworth Longfellow
+David Alan Mamet
+sutras
+Fyodor Mikhaylovich Dostoyevsky
+Paul Laurence Dunbar
+Moby-Dick
+Gertrude Stein
+The Third Policeman
+John Milton
+Finnegans Wake
+Seven Against Thebes
+Titus Livy
+Catch-22
+Charlotte Bronte
+Pelham Grenville Wodehouse
+Gullivers Travels
+Martn Fierro
+The Adventures of Huckleberry Finn
+Cleopatra VII Philopator
+The Possessed
+Newton Booth Tarkington
+John Hoyer Updike
+Robert Oxton Bolt
+Aristophanes
+satires
+Oliver Goldsmith
+Crime and Punishment
+Wuthering Heights
+Edward Fairfax Rochester
+The Most Dangerous Game
+Giovanni Boccaccio
+Horace
+The Last of the Mohicans
+Daniel Defoe
+Quentin Compson
+Ivan Sergeyevich Turgenev
+Guy de Maupassant
+Franz Kafka
+Mother Courage and Her Children
+Either/Or
+slaves
+Yukio Mishima
+Alexander Sergeyevich Pushkin
+Of Love and Other Demons or Del Amor y Otros Demonios
+O. Henry
+Evelyn Waugh
+The Awakening
+Nathaniel Hawthorne
+After Many a Summer Dies the Swan
+Henry David Thoreau
+Nick Adams
+Ko Un
+Baba Yaga
+The Erasers
+Christina Rossetti
+William Wordsworth
+songs
+William Blake
+Oscar Fingal O'Flahertie Wills Wilde
+Gabriel Garcia Marquez
+sonnets
+sonnets by Shakespeare
+Dame Daphne du Maurier, Lady Browning
+Aime Cesaire
+Amos Oz
+Satyricon
+George Bernard Shaw
+Harold Pinter
+Twenty Love Poems and a Song of Despair
+Alejo Carpentier
+All Quiet on the Western Front
+The Immoralist
+The Bluest Eye
+Hedda Gabler
+Dante's Inferno
+Matsuo Basho
+Wise Blood
+A Portrait of the Artist as a Young Man
+The Great Gatsby
+August Wilson
+Holden Caulfield
+James Mercer Langston Hughes
+"The Rime of the Ancient Mariner"
+Romance of the 3 Kingdoms or sngu y?ny
+Scout Finch
+Henry Sidgwick
+William Golding
+Persian
+Thomas Hardy
+Right you are
+Yasunari Kawabata
+Brave glyph817ew World
+The Rose Tattoo
+"Ozymandias"
+Rodion Romanovitch Raskolnikov
+Robert Louis Stevenson
+Clive Staples Lewis
+Hilda Doolittle
+the Redcrosse Knight
+Ode to a Nightingale
+Robert Lee Frost
+Jay Gatsby's house
+Spoon River Anthology
+The Love Song of J Alfred Prufrock
+Haruki Murakami
+Love in the Time of Cholera
+Samuel Beckett
+One Day in the Life of Ivan Denisovich or Odin den Ivana Denisovicha
+John Maxwell Coetzee
+Daniel Defoe
+Christopher Marlowe
+Tennessee Williams
+China
+"The Murders in the Rue Morgue"
+Lady Chatterley's Lover
+Good-bye to All That
+Night
+Manuel Puig
+Persian Language or Parsi
+Edward Morgan Forster
+Novalis
+Romance of the Three Kingdoms
+John Dos Passos
+journalism
+In Memoriam
+Petrarch
+The Hamlet
+Pygmalion
+"The Birthmark"
+Moby-Dick or The Whale
+The Day of the Locust
+A Tale of Possessors Self-Dispossessed
+Titus Andronicus
+Ebenezer Scrooge
+The Tin Drum
+Switzerland
+The History of Tom Jones, a Foundling
+The Stranger
+V. S. Naipaul
+Macbeth
+David Herbert Lawrence
+Wuthering Heights
+Young Goodman Brown
+Pather Panchali
+The Natural
+Oskar Matzerath
+The Autumn of the Patriarch
+John Gardner
+Bel Ami
+John Milton
+Death of a Salesman
+madrigals
+Chicago
+If
+Republic of Turkey
+Ford
+Gnter Grass
+Cry, the Beloved Country
+Theodore Roethke
+Ernest Miller Hemingway
+Kakfa on the Shore
+Mary Stuart or Maria Stuart
+Vanity Fair
+Ivanhoe
+Jack London
+Zuleika Dobson
+Holden Caulfield
+Sir Walter Scott
+The Interpreter of Maladies
+Faust
+John Maxwell Coetzee
+Francis Bret Harte
+Lost in Translation
+The House of Mirth
+Seascape
+William Golding
+Publius Vergilius Maro
+Robert Browning
+Rubaiyat of Omar Khayyam
+Valentin Louis Georges Eugne Marcel Proust
+The Birthday Party
+Robert Browning
+Ivo Andric
+The Taming of the Shrew
+Lillian Hellman
+The Old Gringo
+Antigone
+Nathaniel Hawthorne
+Samuel Pickwick, Esquire
+Rappaccini's Daughter
+Occitan or Provenal
+John Milton
+Their Eyes Were Watching God
+Hermann Hesse
+Herbert George Wells
+Christopher Marlowe
+The Red Wheelbarrow
+The Adventures of Augie March
+Siddhartha
+The Beaux' Stratagem
+Sherwood Anderson
+Anton Chekhov
+Woe from Wit
+swimming
+The Kreutzer Sonata
+Rip Van Winkle
+Edwin Arlington Robinson
+"Master Harold"...And The Boys
+Old Spice
+Alan Paton
+Slaughterhouse-Five, or The Children's Crusade: A Duty-Dance with Death
+William Cullen Bryant
+William Golding
+Jane Eyre
+Edward Albee
+Gustave Flaubert
+Dylan Thomas
+Job
+Aristophanes
+Convergence of the Twain
+Henry Graham Greene
+Miguel Angel Asturias
+Infants of the Spring
+Nervous Conditions
+Ulysses
+Joachim du Bellay
+Who's Afraid of Virginia Woolf?
+Edna Ferber
+Norman Kingsley Mailer
+The Bell Jar
+Gabriel Garca Marquez
+Uncle Vanya
+Franz Kafka
+the Scriptwriter
+Hans Christian Andersen
+The Ambassadors
+Derek Walcott
+Cassius Dio
+Cycloid
+Wole Soyinka
+William Blake
+Blow-up"
+Brideshead Revisited
+Percy Bysshe Shelley
+William Wordsworth
+A Bar at the Folies-Bergere
+Catch-22
+The Loneliness of the Long Distance Runner
+The Sun Also Rises
+Thomas Pynchon
+Hungary
+Bells
+Jean de la Fontaine
+King Lear
+Twenty Love Poems and a Song of Despair
+Chinua Achebe
+The Well of Loneliness
+Soul Mountain
+Claudius
+Die Lustige Witwe
+Kamala Markandaya
+Elizabeth Gaskell
+Isak Dinesen or Karen Blixen
+Robinson Crusoe
+Oration on the Dignity of Man or On the Dignity of Man
+John Keats
+Looking Backward: 2000-1887
+house
+"An Occurrence at Owl Creek Bridge"
+"The Charge of the Light Brigade"
+Delta Wedding
+Dr. Frankenstein's monster
+"The Overcoat"
+The Yellow Wallpaper
+Alan Ayckbourn
+J. D. Salinger
+The Obscene Bird of Night or El obsceno pjaro de la noche
+Diving into the Wreck
+William Faulkner
+The Temple
+The Iceman Cometh
+The Ingenious Gentleman Don Quixote de la Mancha
+Don DeLillo
+The God of Small Things
+A Streetcar Named Desire
+William Porter or O. Henry
+The Confessions of Saint Augustine
+Sappho
+The Canterbury Tales
+True History of the Kelly Gang
+The Jew of Malta
+"On First Looking into Chapman's Homer"
+The Baron in the Trees
+Thomas Nashe
+Norway
+The Ring and the Book
+The Strange Case of Dr. Jekyll and Mr. Hyde
+Mississippi
+Don Quixote
+Nathaniel Hawthorne
+The Crying of Lot 49
+Eugene O'Neill
+Johann Wolfgang von Goethe
+Mathew Arnold
+Wis?awa Szymborska
+Gerard Manley Hopkins
+Aeneas
+Quentin Compson III
+Love in the Time of Cholera
+The Italian
+Edward Franklin Albee III
+Erich Maria Remarque
+seven
+We
+Billiards at Half-Past Nine
+Floating Point Numbers
+Pride and Prejudice
+Andre Gide
+Sweden
+Wole Soyinka
+Erewhon
+Tom Jones
+Samuel Taylor Coleridge
+Sherwood Anderson
+Flannery OConnor
+Victor Marie Hugo
+All Quiet on the Western Front
+The Blue Hotel
+Gargantua
+Cat on a Hot Tin Roof
+Jules Verne
+Middlemarch: A Study of Provincial Life
+Main Street
+Timon of Athens
+Humbert Humbert
+Washington Irving
+A Rose For Emily
+E. M. Forster
+The Love Song of J. Alfred Prufrock
+Marcel Proust
+Kazuo Ishiguro
+Hopscotch
+Disgrace
+Phillip Roth
+The Grapes of Wrath
+Gabriel Jos Garca Mrquez
+Joseph K
+"Snow-Bound: A Winter Idyl"
+Pindar
+Carlos Fuentes
+Battle Royal
+Pierre Menard
+The Brothers Karamazov
+Robert Burns
+The Tyger
+Adam Bede
+"Lycidas"
+Nikolai Vasilievitch Gogol
+The Canterbury Tales
+Death of a Salesman
+Matthew Arnold
+Steppenwolf <MA>
+Dream of the Red Chamber
+The Call of the Wild
+Oedipus
+Karen Blixen or Isaak Dinesin
+Brunhilde
+The Name of the Rose
+Isak Dinesen
+Umberto Eco
+Robert Louis Stevenson
+Oliver Twist
+Mending Wall
+William Shakespeare
+The Interpretation of Dreams
+Yasunari Kawabata
+The Most Dangerous Game
+The School for Scandal
+Marcus Brutus
+Wilfred of Ivanhoe
+Katherine O'Flaherty Kate Chopin
+Derek Walcott
+Ryunosuke Akutagawa
+Lionel Trilling
+The Blue Mosque
+Great Expectations
+Imre Kertsz
+Caliban
+The Life of Gargantua and of Pantagruel
+Leo Lev Nikolayevich Tolstoy
+Sense and Sensibility
+The Mayor of Casterbridge
+John Donne
+Ben Jonson
+Kurt Vonnegut
+A Hunger Artist
+J. Alfred Prufrock
+Vicente Aleixandre
+Gunter Wilhelm Grass
+Les Misrables
+Chinese
+David Mamet
+The Rime of the Ancient Mariner
+Kingdom of Denmark
+The Enchantress of Florence
+The Libation-Bearers or Choephori
+Karel Capek
+The Sun Stone or Piedra de sol
+Giovannis Room
+Truman Capote
+The Song of Maldoror
+Doctor Zhivago
+Foucault's Pendulum
+William Carlos Williams
+Langston Hughes
+The Grandissimes: A Story of Creole Life
+Hadrian or Adrian
+Lady Macbeth of Mtsensk
+Hedda Gabler
+An Occurrence at Owl Creek Bridge
+Virginia Woolf
+The Count of Monte Cristo
+Aeschylus
+Tom Stoppard
+Cry, the Beloved Country
+Beowulf
+Pablo Neruda
+Eugene Ionesco
+Katsushika Hokusai
+An Enemy of the People
+Avery Enterprises
+Akinwande Oluwole "Wole" Soyinka
+The Flea
+Oedipus Rex
+One Thousand and One Nights
+In Search of Lost Time
+Franois Rabelais
+The Palm Wine Drinkard or The Palm Wine Drunkard
+An American Tragedy
+Harriet Beecher Stowe
+Theme for English B
+John Cheever
+Hedda Gabler
+Australia
+Sonnets from the Portuguese
+The Importance of Being Earnest
+Things Fall Apart
+Harry "Rabbit" Angstrom
+Jorge Luis Borges
+Yukio Mishima
+Robert Browning
+Anna Karenina
+Charles
+Jos Saramago
+Petals of Blood
+The Mikado; or, the Town of Titipu
+Gabriel Jose Garcia Marquez
+Henry James
+Luigi Pirandello
+If on a Winters Night a Traveler
+Franz Kafka
+Dylan Marlais Thomas
+Mexico
+Lord George Gordon Byron, 6th Baron Byron
+Mark Twain
+As You Like It
+Elizabeth Bishop
+No Exit
+deus ex machina
+Lord Jim
+Quasimodo
+Gabriel Garcia Marquez
+Oscar Wilde
+John Cheever
+Nikos Kazantzakis
+"The River Merchant's Wife: A Letter"
+Yiddish
+The Mayor of Casterbridge
+Portuguese
+Tobias George Smollett
+Amis
+Anna Karenina
+Rodion Romanovich Raskolnikov
+The Beats
+Mario Vargas Llosa
+Derek Walcott
+Equus
+American Gods
+Savien Cyrano de Bergerac
+Essay on Criticism
+Sir Kay
+Jack Kerouac
+Pere Goriot
+Richard Brinsley Sheridan
+The Importance of Being Earnest: A Trivial Comedy for Serious People
+Homer
+Sean O'Casey
+Delmore Schwartz
+The Dagda
+Vanity Fair: A Novel Without a Hero
+Lazarillo de Tormes
+Il Penseroso
+The Heights of Macchu Picchu
+Ode to a glyph1197ightingale
+Charles Baudelaire
+Roland
+Aphra Behn
+Leo Nikolayevich Tolstoy
+The Heart of Midlothian
+Anatole France
+Don Juan
+She Stoops to Conquer
+War and Peace
+The Canterbury Tales
+Alan Stewart Paton
+Thomas Mann
+I Know Why the Caged Bird Sings
+Lord of the Flies
+Lines Composed a Few Miles Above Tintern Abbey, On Revisiting the Banks of the Wye During a Tour. July 12, 1798.
+Arthur Conan Doyle
+Midnight's Children
+Marcel Proust
+Robert Frost
+Abraham Lincoln
+Victor-Marie Hugo
+Uncle Tom's Cabin
+Helen Hunt Jackson
+The Frogs
+The Battle of the Books
+The Eve of St. Agnes
+Edgar Allan Poe
+The Second Coming
+The Panther
+John Greenleaf Whittier
+James George Frazer
+Medea
+Paul Celan
+The Autobiography of Malcom X
+Sherlock Holmes
+Patrick White
+Black Lamb and Grey Falcon
+Philip Sidney
+Adeline Virginia Stephen Woolf
+Marcel Proust
+John Dos Passos
+Carson McCullers
+Tis Pity She's a Whore
+Pinkerton Detective Agency or Pinkertons or Pinkerton Detectives or Men or Operatives
+The Magic Flute
+George Orwell
+Cormac McCarthy
+The Gulag Archipelago
+Percy Bysshe Shelley
+Feste the jester
+Edmund Spenser
+The Lady of Shalott
+Catullus
+The Forest of Arden
+Tess of the D'Urbervilles
+The Decameron: Prencipe Galeotto
+Ray Douglas Bradbury
+Pablo Neruda
+Henry Fielding
+Ivan Sergeyevich Turgenev
+The Rime of the Ancient Mariner
+Virginia Woolf
+Ariel
+conservatives
+Madame Emma Bovary
+Brothers Grimm
+Yasunari Kawabata
+Vikram Seth
+Arthur Rimbaud
+Pablo Neruda
+Philip Milton Roth
+Truman Capote
+Jean-Paul Sartre
+Parmenides SK/MA
+Robert Browning
+Gerard Manley Hopkins
+Consolation of Philosophy or Consolatio Philosophiae
+Stephen Crane
+Toni Morrison
+The Garcia Family
+Robert Frost
+Benito Cereno
+Chikamatsu Monzaemon
+William Faulkner
+Authors created by Jorge Luis Borges
+Guy de Maupassant
+Claes Oldenburg
+The Mysteries of Udolpho
+Jonathan Swift
+Ramona Geraldine Quimby
+The Charterhouse of Parma
+"Harrison Bergeron"
+Maxim Gorky
+Euripides
+Mrs. Warren's Profession
+Philosophy and the Mirror of Nature
+The Metamorphosis
+Japan
+Sir Tom Stoppard
+Nathaniel Hawthorne
+Graham Greene
+Nadine Gordimer
+Silas Marner; The Weaver of Raveloe
+Waiting for Godot
+Mexico
+golden
+dictionaries
+The Trial
+Madame Bovary
+"The Hollow Men"
+The Ethics of Ambiguity
+Michael Chabon
+The Crucible
+Henry James
+Herman Hesse
+Snow
+Joseph Heller
+The Handmaid's Tale
+No.44, The Mysterious Stranger
+Walter Scott
+Franois Villon
+Heinrich Heine
+The School for Husbands
+The Idiot
+Kawabata Yasunari
+Madame Bovary
+Sigrid Undset
+Irwin Allen Ginsberg
+Flowering Judas
+Black Beauty
+Platero y Yo
+Willa Cather
+Frankenstein: or, The Modern Prometheus
+Donald Barthelme
+The Red and the Black
+Catch-22
+Gargantua
+George Gordon, 6th Baron Byron
+Jorge Luis Borges
+Charlotte Perkins Gilman
+Jean-Paul Sartre
+Virginia Woolf
+The Children of Paradise
+William Blake
+Effi Briest
+Ray Douglas Bradbury
+Anthony Burgess
+July's People
+Oscar Fingal O'Flahertie Wills Wilde
+Leo Tolstoy
+All My Sons
+Wole Soyinka
+Vaclav Havel
+Carson McCullers
+Pablo Neruda
+The Golden Notebook
+Heinrich Theodor Bll
+The Spoon River Anthology
+The Open Boat
+Samuel Butler
+Main Street
+Joseph Conrad Korzeniowski
+Uncle Vanya
+Empire
+Beatrice Portinari
+Johann Wolfgang von Goethe
+Glengarry Glen Ross
+Looking Backward, 2000-1887
+Negative Capability
+William Butler Yeats
+The Sorrows of Young Werther
+Anton Chekov
+Manuel Puig
+Nadine Gordimer
+Thomas Mann
+To a Skylark
+Olaudah Equiano or Gustavus Vassa
+The Sun Also Rises
+Ode to a Nightingale
+The Crucible
+Meghaduta
+The Consolation of Philosophy or Consolatio Philosophiae
+Madame Bovary
+As I Lay Dying
+Beloved
+King Lear
+The Pit and the Pendulum
+Prize Stock
+Herman Hesse
+The Satanic Verses
+Nikos Kazantzakis
+Victor Hugo
+mentally disabled male children in the works of Kenzaburo Oe
+The Stranger
+The Second Coming
+A Confederacy of Dunces
+Ahab
+If on a winter's night a traveler
+Jenufa or Jej pastorkyna
+District of Columbia Trilogy
+Jorge Luis Borges
+Robert Browning
+John Donne
+Thornton Niven Wilder
+Roman Elegies or Erotica Romana or Romsiche Elegien
+The Three Cornered World
+Why I Live at the P.O.
+David Balfour
+Robin Goodfellow
+The Elements of Style
+John Robinson Jeffers
+The History of Tom Jones, A Foundling
+Great Expectations
+Graham Greene
+Ruddigore
+Herzog
+A Connecticut Yankee in King Arthurs Court
+The Luck of Roaring Camp
+Wide Sargasso Sea
+Albert Camus
+Against the Day
+The Duino Elegies
+War and Peace
+Kobo Abe or Kimifusa Abe
+The Tin Drum
+Kurt Vonnegut Jr.
+The Bridge
+Les Fleurs du Mal
+Abel Sanchez: A Story of Passion
+The Robbers
+Oliver Wendell Holmes
+Oscar Wilde
+William Makepeace Thackeray
+Romeo Montague
+Alice Walker
+Pasiphae
+Honor de Balzac
+Nick Carraway
+Hands
+Lorraine Hansberry
+Edward Albee
+The Great Gatsby
+Stephen T. Crane
+Sherlock Holmes
+Sophocles
+Othello, the Moor of Venice
+James Ingram Merrill
+Kalidasa
+Goblin Market
+The Decameron
+"Thyrsis"
+Francis Scott Key Fitzgerald
+The Dry Salvages
+The Red and the Black or Le Rouge et le Noir
+The Magic Mountain
+The Imaginary Invalid
+aside
+Egypt
+Stephen Vincent Benet
+Death of a Salesman
+The Master and Margarita
+Joseph Conrad or Teodor Josef Korzienowski
+Wystan Hugh Auden
+Jorge Leal Amado de Faria
+Czech Republic
+Jean-Louis "Jack" Kerouac
+Thomas Hardy
+Matsuo Basho
+the Harlem Renaissance
+Alfred Edward Housman
+Hesiod
+Curzio Malaparte
+Edgar Allan Poe
+Arthur Miller
+Thomas Hardy
+the Green Knight
+Stephen Crane
+Sylvia Plath
+sonnets
+Thomas Hardy
+Ulysses
+Toni Morrison
+Oliver Twist
+The Wild Swans at Coole
+Beowulf
+Thomas Carlyle
+As I Lay Dying
+Victor Hugo
+Tennessee Williams
+Nature
+Patriotic Gore
+The Cherry Orchard
+Orlando Furioso
+Carlos Fuentes Macias
+Polonius
+Atticus Finch
+The Count of Monte Cristo or Le Comte de Monte Cristo
+Frederick Douglass
+Edgar Allan Poe
+Mishima Yukio
+Uncle Tom's Cabin
+Robert Penn Warren
+Felix Krull
+Aristophanes
+Maus, Vol. I: My Father Bleeds History and Vol. II: And Here My Troubles Began
+The Arabian Nights' Entertainments
+Ambrose Gwinnett Bierce
+Julio Cortazar
+Anna Fierling
+Christopher Marlowe
+Athol Harold Lannigan Fugard
+The Red Badge of Courage
+The Heart is a Lonely Hunter
+Romanticism
+Walt Whitman
+The Old Man and the Sea
+Sula
+Harriet Beecher Stowe
+James Ngugi Wa Thiong'o
+David Copperfield
+Daniel Defoe
+The Tale of Genji or Genji Monogatari
+Diving Into The Wreck
+David Herbert
+Albert Schweitzer
+The Unvanquished
+Much Ado About Nothing
+A Farewell to Arms
+Derek Walcott
+Basque
+Thomas Mann
+realism
+Romance of the Three Kingdoms
+Johan August Strindberg
+"The Bear"
+One Hundred Years of Solitude or Cien Aos de Soledad
+Australia
+Eudora Welty
+July's People
+David Copperfield
+Leon Battista Alberti
+Franz Kafka
+Wuthering Heights
+The Monk
+Italo Calvino
+The Remains of the Day
+The Toilers of the Sea
+Tln , Uqbar , Orbis Tertius
+Sherlock Holmes
+"Benito Cereno"
+Abel Sanchez
+Anna Karenina
+The Bald Soprano
+Breath, Eyes, Memory
+Mrs. Dalloway
+hell
+Italo Calvino
+Flann O'Brien
+John Milton
+China
+"Ulysses"
+Chikamatsu Monzaemon
+Robinson Crusoe
+Death of a Salesman
+Portnoy's Complaint
+Nadine Gordimer
+Fathers and Sons
+Molire
+The Spanish Tragedy, or Hieronimo is Mad Again
+La Gioconda
+A Midsummer Night's Dream
+Eugene Ionesco
+John Milton
+The Crucible
+Aristophanes
+Umberto Eco
+Chester Himes
+Vladimir Nabokov
+White Fang
+"The Tyger"
+Charles Baudelaire
+An American Tragedy
+The Master and Margarita
+Doris Lessing
+Acre
+Henrik Ibsen
+Babbit
+Barack Obama
+The Renaissance: Studies in Art and Poetry
+Twelfth Night
+One Hundred Years of Solitude
+A Connecticut Yankee in King Arthur's Court
+Lady Gregory
+John Donne
+Chinua Achebe
+two hybrid assay
+Sylvia Plath
+Willie Stark
+Tom Jones
+John Dewey
+Aldous Leonard Huxley
+The Decameron
+Sir Ahmed Salman Rushdie
+for colored girls who have considered suicide/when the rainbow is enuf
+August Wilson
+A Doll's House
+Yasunari Kawabata
+Joseph Rudyard Kipling
+Othello, the Moor of Venice
+John Claggart
+Botchan
+John Steinbeck
+Toni Morrison
+Spoon River Anthology
+John Ford
+Kongis Harvest
+July's People
+Queequeg
+Daniel Defoe
+the Decameron
+Twenty Love Poems and a Song of Despair
+Robert Frost
+Alexandre Dumas, pre
+Mary Renault
+The Tragedy of Macbeth
+The Tale of Genji
+Sir Philip Sidney
+Jimmie Blacksmith
+The House of Bernarda Alba
+Satyricon
+Sir V
+Australia
+Atta Troll
+Argos or Argus
+Sir Ahmed Salman Rushdie
+The Red Badge of Courage
+Songs of Innocence and Experience
+The Pot of Gold
+David Copperfield
+Publius Virgilius Maro
+The Life and Opinions of Tristram Shandy
+Chronicle of a Death Foretold or Cronica de una muerte anunciada
+Mark Twain
+Tartuffe
+Herman Melville
+Timon of Athens
+Hollywood
+Oulipo
+The Kentucky Derby is Decadent and Depraved
+Tobacco Road
+Jorge Luis Borges
+Elizabeth Barrett Browning
+Huckleberry Finn
+The Strange Case of Dr. Jekyll and Mr. Hyde
+A Dolls House
+Oliver Cromwell
+Anton Chekhov
+Real Irish Republican Army
+Jules et Jim or Jules and Jim
+The Ambassadors
+My Life had stooda Loaded Gun
+Black Boy
+Pablo Neruda
+Daisy Miller
+Christina Rossetti
+Federico Garcia Lorca
+William Carlos Williams
+R.U.R.
+Alice Ann Munro
+Penelope
+iambs
+Ralph Ellison
+The Purloined Letter
+Wallace Stevens
+The Glass Bead Game
+The Book of Common Prayer and Administration of the Sacraments and other Rites and Ceremonies of the Church according to the use of the Church of England together with the Psalter or Psalms of David pointed as they are to be sung or said in churches and the form and manner of making, ordaining, and consecrating of bishops, priests, and deacons.
+Charles Lamb
+Don Quixote
+Tom Stoppard
+writing Don Quixote
+Emily Elizabeth Dickinson
+Stephen Crane
+Alice Walker
+Walker Percy
+The Admirable Crichton
+Venice
+Jude the Obscure
+Things Fall Apart
+Joy Kogawa
+The Magic Theater
+Chikamatsu Monzaemon
+Matthew Arnold
+Tobias Smollett
+Satanic Verses
+Delta Wedding
+Spoon River Anthology
+Ian McEwan
+Sappho of Lesbos
+Henry Wadsworth Longfellow
+Upton Sinclair
+The Playboy of the Western World
+John Dryden
+On the Concept of History or Theses on the Philosophy of History
+Emma Lazarus
+Their Eyes Were Watching God
+Fathers and Sons
+William Gerald Golding
+The Imaginary Invalid or the Hypochondriac or le Malade Imaginaire
+free will
+Gabriela Mistral
+John Simmons Barth
+The Protagoras
+The Outcasts of Poker Flat
+Gabriela Mistral
+Albert Camus
+Pablo Neruda
+HOMO or highest occupied molecular orbital
+The Siege of Krishnapur
+The Satanic Verses
+Maggie
+King Lear
+The Frogs or Batrachoi
+Philippine-American War
+Endgame or Fin de partie
+Jose Marti
+Winesburg, Ohio
+Charles Baudelaire
+Kristin Lavransdatter
+ABC of Reading
+The Four Horsemen of the Apocalypse
+The Old Man and the Sea
+The Octopus
+Johann Wolfgang von Goethe
+Saturnian Poems
+Talos
+James Graham Ballard
+Albert Camus
+essay
+William S. Burroughs
+Madame Bovary
+"The Lottery"
+Imperium in Imperio
+Thomas Keneally
+Christina Rossetti
+The Fall of the House of Usher
+Volpone
+The Color Purple
+The Wife of Bath's Tale
+Kristin Lavransdatter
+Mario Vargas Llosa
+The Canterbury Tales
+Kimball O'Hara
+Desiree's Baby
+Jack London
+The Posthumous Memoirs of Bras Cubas
+Wuthering Heights
+Mary Shelley
+Bartleby, the Scrivener: A Story of Wall Street
+having the words "love" and "hate" tattooed on one's knuckles
+The Tell Tale Heart
+mesons
+An Enemy of the People or En folkefiende
+Anna Karenina
+The House of Fame
+Edward II
+The Enchantress of Florence
+Ligeia
+The Tragical History of Doctor Faustus
+Ethan Frome
+Federal Republic of Nigeria
+Julia
+William Wordsworth
+The Anxiety of Influence
+Gabriel Garcia Marquez
+Flatland
+Spanish Language
+Bharati Mukherjee
+Arthur Miller
+Billy Bathgate
+The Metamorphosis
+Alejo Carpentier
+Chronicle of a Death Foretold
+Sir Walter Scott
+Mark Twain
+Philip Larkin
+Robert Frost
+The Awakening
+The Interpreter of Maladies
+Sister Carrie
+Charles Baudelaire
+Ben Jonson
+Providence
+Dover Beach
+Henry James
+The White Tiger
+Wole Soyinka
+"Boule de Suif"
+The Sheep Well
+The Robbers
+Federico Garca Lorca
+Vaclav Havel
+The Crime of Sylvester Bonnard
+Joseph Conrad
+The Beaux Stratagem
+Titus Livy
+A House for Mr. Biswas
+Naguib Mahfouz
+Aim Fernand David Csaire
+Anne Frank
+Stephen Crane
+Rubaiyat of Omar Khayyam
+Aristophanes
+William Gerald Golding
+The World According to Garp
+Gustave Flaubert
+Wang Wei
+The Jungle Book
+haiku
+The Sign in Sidney Brustein's Window
+Aethiopica
+Carl Sandburg
+Horace
+The Sisters
+James Baldwin
+James Joyce
+King Lear
+Catch-22
+Elizabeth Bishop
+Maya Angelou
+Frost at Midnight
+The Kite Runner
+James Thurber
+Atalanta in Calydon
+Sonnets by John Keats
+Harold Pinter
+William Morris
+The Ordeal of Richard Feverel
+Spoon River Anthology
+Madame Bovary
+Nathaniel Hawthorne
+The Brothers Karamazov
+"Sunday Morning"
+William Dean Howells
+A Farewell to Arms
+The Time Machine
+Yasunari Kawabata
+Jorge Luis Borges
+The Palm-Wine Drinkard
+William Butler Yeats
+Edward Morgan Forster
+Tender is the Night
+Ballad of Reading Gaol
+William Wordsworth
+Papageno
+Jorge Luis Borges
+Niobe
+Jose Saramago
+Beloved
+Madame Bovary
+How to Do Things With Words
+Philip Milton Roth
+Mikhail Lermontov
+Kazuo Ishiguro
+O. Henry
+Death in Venice
+Dream of the Red Chamber
+Lord Jim
+Aleksandr Sergetevich Pushkin
+Ben Okri
+Crime and Punishment
+Washington Irving
+Ode to the West Wind
+Robert Lee Frost
+Mother Courage and her Children or Mutter Courage und ihre Kinder
+Emily Dickinson
+Ivanhoe
+Jimmy Corrigan, the Smartest Kid on Earth
+Faust
+The Life of Gargantua and Pantagruel
+The Catcher in the Rye
+a dream deferred
+Disgrace
+Samuel Beckett
+Great Expectations
+e.e. cummings
+Daisy Buchanan
+Jane Eyre
+Sir Walter Scott
+Rasipuram Krishnaswami. Narayan
+Who's Afraid of Virginia Woolf?
+Henry James
+The Old Curiosity Shop
+The Piazza Tales
+William Blake
+Kurt Vonnegut Junior
+The Last Temptation of Christ
+yellow
+Robert Lee Frost
+No Exit
+Ezra Pound
+Maccabees
+The Sound and the Fury
+Ivan Turgenev
+Tamil
+Nathaniel Hawthorne
+Anna Karenina
+The Bell Jar
+Satan or the Devil
+Marie Antoinette
+Absalom, Absalom!
+The Tragedy of Julius Caesar
+Parmenides
+Oedipus
+Edgar Allan Poe
+Henry Wadsworth Longfellow
+Erskine Caldwell
+Kurt Vonnegut
+Arthur Miller
+Washington Irving
+James Baldwin
+Robert Browning
+The Interpreter of Maladies
+Henrik Ibsen
+I, Claudius
+Thomas Stearns Eliot
+Where Are You Going, Where Have You Been?
+the Tolstoy family
+William Wordsworth
+Henrik Ibsen
+My Name is Red
+The Things They Carried
+Fyodor Mikhailovich Dostoyevsky
+Oedipus
+Invisible Man
+bathing
+My ntonia
+Kubla Khan
+Alexandria, Egypt
+golden
+Voltaire
+David Alan Mamet
+Emily Dickinson
+"Elegy Written in a Country Churchyard"
+Atlas Shrugged
+Alexander Pope
+Alexandre Dumas, pre
+India
+Aeneas
+John Steinbeck
+Lord of the Flies
+Philip Michael Ondaatje
+Crime and Punishment
+Sir Michael Kemp Tippett
+Nineteen Eighty-Four
+Doctor Aziz
+Cunegonde
+The Three Musketeers
+Romeo Montague
+Lord Jim
+the first Duino Elegy
+Fujin BA
+All for Love; or the World Well Lost
+John Hoyer Updike
+East of Eden
+Edward Kamau Brathwaite
+The Fateful Adventures of the Good
+Vanity Fair
+Irving Langmuir
+Italian
+William Blake
+the Ramayana
+The Murders in the Rue Morgue
+The Glass Bead Game
+Joaquim Maria Machado de Assis
+Truman Capote
+The Confessions of Nat Turner
+Henry James
+Francis Scott Key Fitzgerald
+Jane Eyre
+Moby Dick
+August Wilson
+William Butler Yeats
+The Weary Blues
+the Kalevala
+Northanger Abbey
+Massachusetts
+Great Expectations
+If on a Winter's Night a Traveler
+Peter Weiss
+Angels in America
+roman  clef
+The Tin Drum
+Apologia Pro Vita Sua
+The House of the Seven Gables
+The Quiet American
+Carson McCullers
+The Cherry Orchard
+David Mamet
+Italian
+Pygmalion: A Romance in Five Acts
+Anton Chekhov
+Flannery O'Connor
+Robert Lee Frost
+Il Penseroso
+Alexander Sergeyevich Pushkin
+Sir Gawain and the Green Knight
+"The Necklace"
+the Sandman
+Hans Arp
+Henri-Ren-Albert-Guy de Maupassant
+Dr. Heinrich Faust
+Riders to the Sea
+Moby-Dick
+Philomela
+house cats
+Horace
+Good Country People
+Philip Morin Freneau
+Babylon Revisited
+Crane
+Dom Casmurro
+The Satanic Verses
+Henry Adams
+Prince Hamlet
+William Faulkner
+Albert Camus
+Idiots Delight
+Li Bai or Li Po or Li Bo
+The History of Tom Jones, a Foundling
+Adeline Virginia Woolf
+Thomas Hardy
+The Octopus: A Story of California
+Eloi
+Colorado Rivers
+The Tale of Genji
+Meleager
+The Notebooks of Malte Laurids Brigge or Die Aufzeichnungen des Malte Laurids Brigge
+"The Waste Land"
+zombies
+Saul Bellow or really Saul Bello
+Childe Roland to the Dark Tower Came
+"Ulysses"
+Australia
+autobiography
+Tom Stoppard
+Robert Frost
+Carson McCullers
+August Strindberg
+George Orwell
+The Chambered Nautilus
+The Tin Drum
+Brazilian Muslims
+The Iron Heel
+John Osborne
+Anne Bradstreet
+Martin Amis
+Jose Marti
+Laughable Loves
+The Book of Laughter and Forgetting
+Romance of the Three Kingdoms
+Karl Georg Bchner
+Jennie Gerhardt
+Julio Cortzar
+Derek Walcott
+Isak Dinesen
+William Makepeace Thackeray
+Kurt Vonnegut Jr.
+George Bernard Shaw
+The Idiot
+Franz Kafka
+The Frogs
+Boleslaw Prus or Alexander Glowacki
+Greek
+An Ethiopian Romance
+Phyllis Wheatley
+Thomas Pynchon
+Carlos Fuentes
+John Maxwell Coetzee
+essay
+Don Quixote
+flowers
+Arthur Koestler
+Ernest Hemingway
+Wuthering Heights
+Emma
+Snow Country
+Alexander Sergeyevich Pushkin
+Isabel Allende Llona
+Ng?g? wa Thiong'o
+The Dumb Waiter
+The Rise of Silas Lapham
+Federico Garcia Lorca
+2 + 2 = 5
+Madame Emma Bovary
+Count Leo Nikoleyivich Tolstoy
+Rhinoceros
+Gothic literature
+The Taming of the Shrew
+To His Coy Mistress
+Akutagawa Ryunosuke
+A Worn Path
+The Great Gatsby
+Poland <YC>
+China
+Samuel Taylor Coleridge
+Jerusalem Delivered
+Ode on the Death of a Favourite Cat Drowned in a Tub of Goldfishes
+Arthur Rimbaud
+Athol Fugard
+John Michael Coetzee
+Cassius
+And Quiet Flows the Don
+tragedy
+The Turn of the Screw
+Vladimir Vladimirovich Nabokov
+Wuthering Heights
+Greece
+John Ernst Steinbeck
+Hart Crane
+The Dumb Waiter
+Frost at Midnight
+Ode on a Grecian Urn
+A Connecticut Yankee in King Arthur's Court
+Walter "Walt" Whitman
+Grand Theft Auto: Vice City
+The Seagull
+Hedda Gabler
+Blind Willow, Sleeping Woman
+Light in August
+Luigi Pirandello
+Ode: Intimations of Immortality From Recollections of Early Childhood
+Kenzaburo Oe
+Madame Bovary
+The Stranger
+The Real Thing
+Pygmalion
+Tennessee Williams
+Irwin Allen Ginsberg
+Rumi
+Animal Farm
+The Cherry Orchard
+Jane Austen
+One Thousand and One Nights
+The Custom of the Country
+Herman Melville
+Clarice Lispector
+Edgar Allen Poe
+Alfred, Lord Tennyson
+The Tartuffe, or the Impostor
+Les Miserables
+The Tin Drum
+Vidiadhar Surajprasad Naipaul
+Alexander Pope
+Albert Camus
+The Double-Dealer
+Richard Cory
+Interpreter of Maladies
+The Woman in the Dunes
+Venusberg
+Robert Louis Stevenson
+Huckleberry Finn
+The Blood Knot
+Rob Roy
+Saul Bellow
+The Marriage of Heaven and Hell
+Marianne Moore
+"Notes On Camp"
+Deptford Trilogy
+Our Town
+Vanity Fair
+The Uses of Enchantment
+Aristophanes
+The Clouds
+Edmund Spenser
+Le Cid
+August Wilson
+Extremely Loud and Incredibly Close
+Yasunari Kawabata
+The Changeling
+Noh drama
+Essay on Man
+France
+Evelyn Waugh
+Nosferatu, A Symphony of Horror
+Pelham Grenville Wodehouse
+Romeo Montague
+John Greenleaf Whittier
+John Henry, Cardinal Newman
+"Kubla Khan"
+Italo Calvino
+Madame Bovary
+Thomas Ruggles Pynchon, Jr.
+The Crying of Lot 49
+Heartbreak Tango or Boquitas Pintadas
+William Makepeace Thackeray
+David Foster Wallace
+Geoffrey Chaucer
+preacher
+Ray Bradbury
+Ernest James Gaines
+The Song of Roland
+Victor-Marie Connard Hugo
+Nadine Gordimer
+Arabian Nights
+Rainer Maria Rilke
+Charles Wright Mills
+The Peony Pavillion
+Emile Zola
+Oedipus Rex
+Long Day's Journey Into Night
+The Lost Honor of Katharina Blum or How Violence Can Develop and Where it Can Lead
+The Shadow of a Gunman
+Timothy McSweeney's Quarterly Concern
+love
+Madame Bovary
+Joseph
+Tender is the Night
+Margaret Eleanor Atwood
+The Three Sisters
+Madame Bovary
+Federico Garcia Lorca
+The Bridal Canopy or Hakhnasat Kallah
+Robert Louis Stevenson
+Italy
+Oliver Twist
+A Death in the Family
+Sylvia Plath
+Eugene Onegin
+Pamela: or Virtue Rewarded
+Rhinoceros
+The Cask of Amontillado
+A Handful of Dust
+Either/Or or Enten-Eller
+Karel Capek
+triangle
+McTeague
+Robert Frost
+English
+A Personal Matter
+Samuel Johnson
+Heathcliffe
+Heinrich Theodor Boll
+Areopagitica
+R.U.R.
+Mark Twain
+Mills
+Segismundo
+William Graham Sumner
+Dylan Thomas
+Julio Cortazar
+Victor Hugo
+Zembla
+William Shakespeare's sonnets
+The Merry Wives of Windsor
+Walden Two
+A Room of One's Own
+Anton Pavlovich Chekhov
+The Great Gatsby
+Harry Rabbit Angstrom
+Nathaniel Hawthorne
+Sylvia Plath
+Heartbreak House
+Andrew Marvell
+The Old Man and the Sea
+The Duino Elegies
+Arthur Dent
+Milan Kundera
+Rudyard Kipling
+Charles Bukowski
+Rudyard Kipling
+Brave New World
+Miles Gloriosus
+The Idiot
+The Jungle
+Emily Dickinson
+Jos de Sousa Saramago
+The Way of All Flesh
+Hedda Gabbler
+Saga of Burnt Njal
+Triumph of the Will
+Gwendolyn Brooks
+Milan Kundera
+Edmund Spenser
+Tom Stoppard
+Thomas Pynchon
+O. Henry
+Gabriela, Clove, and Cinnamon
+Sir Arthur Conan Doyle
+The Name of the Rose
+Hard Times
+O Captain! My Captain!
+the witches from Macbeth
+Italy
+The Tenth Muse, Lately Sprung Up in America
+I Sing the Body Electric
+Czech Republic
+Yasunari Kawabata
+Walden
+Antigone
+The Fall of the House of Usher
+Emily Dickinson
+Stella DuBois Kowalski
+Raymond Carver
+Salmon of Knowledge
+Pablo Neruda
+Vidiadhar Surajprasad Naipaul
+Rudyard Kipling
+Love and Death in the American Novel
+John Keats
+George Orwell
+The Ingenious Hidalgo Don Quixote of La Mancha
+Virgil
+Franz Kafka
+Samuel Butler
+John Keats
+Grendel
+Republic of Senegal
+An American Tragedy
+Toni Morrison
+William Byrd
+Objectivism
+Alan Paton
+du Maurier
+Friday
+The Castle of Otranto
+James Augustine Aloysius Joyce
+As You Like It, Or What You Will
+Rosencrantz and Guildenstern Are Dead
+The Return of the Native
+If on a Winters Night a Traveler
+Bertolt Brecht
+Mishima Yukio
+Greece or
+Aldous Leonard Huxley
+Henry James
+Death Comes for the Archbishop
+Walter Whitman
+Crime and Punishment
+Honore de Balzac
+Emile Zola
+The Vicar of Wakefield
+The Glass Menagerie
+The Tale of Genji
+When Lilacs Last in the Dooryard Bloom'd
+Dog Years
+Man Ray
+Langston Hughes
+William Blake
+Mexico
+Kazuo Ishiguro
+One Hundred Years of Solitude
+Annus Mirabilis
+The Old Man and the Sea
+Of Human Bondage
+The Lion and the Jewel
+Robert Frost
+"The Garden"
+Charlotte Perkins Gilman
+Atlas Shrugged
+Song of Myself
+King Gesar
+DenisDiderot
+The Grapes of Wrath
+Thucydides
+Truman Capote
+Dante's Inferno
+Bernard Malamud
+Mark Twain
+Jean Racine
+The Confederate States of America
+Joseph Conrad
+One Flew Over the Cuckoo's Nest
+Albert Camus
+Wallace Stevens
+At Melville's Tomb
+Eleazar
+Thomas Hardy
+Everything That Rises Must Converge
+Zazie in the Metro
+Arthur Miller
+The Temple of the Golden Pavilion
+Ozymandias
+A Farewell to Arms
+Song of Myself
+Thomas Stearns Eliot
+Akinwande Oluwole Soyinka
+Ray Bradbury
+The Autobiography of Alice B. Toklas
+Yasunari Kawabata
+Umberto Eco
+Peter Carey
+Indonesia
+The Cherry Orchard
+"To His Coy Mistress"
+Heathcliff
+Candide
+Octavio Paz
+Henrik Johan Ibsen
+Joel Chandler Harris
+The Argonautica
+The Prince
+Samuel Taylor Coleridge
+Mikhail Afanasyevich Bulgakov
+Madame Bovary
+St. Crispins Day Speech
+Canto General
+An Enemy of the People
+Euripides
+Christopher Marlowe
+Junichiro Tanizaki
+William Motter Inge
+Athens
+Lolita
+The Waste Land
+Joseph Conrad
+Edward Morgan "E. M." Forster
+The Lottery
+Nathaniel Hawthorne
+Silas Marner
+Kenzaburo Oe
+Jack London
+Flowering Judas
+The Master Builder
+Du Fu
+Brave New World
+The Narrow Road to the Interior
+Thornton Niven Wilder
+Robert Burns
+orishas
+Yukio Mishima or Kimitake Hiraoka
+Charterhouse of Parma
+Ezra Pound
+Book of Songs
+King Gesar
+The Years
+Henry Miller
+The Mill on the Floss
+The Knights
+Invisible Man
+Emily Dickinson
+Slaughterhouse-Five, or The Children's Crusade: A Duty-Dance with Death
+Doris Lessing
+Albert Chinualumogu Achebe
+Antonia Shimerda Cuzak
+Candide
+Sinclair Lewis
+The Prophet
+Kurt Vonnegut, Jr.
+Cat on a Hot Tin Roof
+Jeffrey Eugenides
+Allen Tate
+Sif
+sonnet
+The Awakening
+Luigi Pirandello
+The Handmaid's Tale
+Percy Bysshe Shelley
+Irwin Allen Ginsberg
+Invisible Man
+John Steinbeck
+Arthur Conan Doyle
+du Maurier family
+Salman Rushdie
+William James
+Nadine Gordimer
+Oliver Wendell Holmes, Sr.
+the parable of the man before the law or vor dem Gesetz
+The Pilgrims Progress from This World to That Which is to Come
+Jack London
+Carson McCullers or Lula Carson Smith
+Christopher Okigbo
+Nick Adams
+Gravity's Rainbow
+Women in Love
+The Age of Innocence
+George Chapman
+William Ernest Henley
+Patricia Peppermint Patty Reinhardt
+A Room of One's Own
+Ezra Weston Loomis Pound
+Emmanuel Levinas
+Emile Francois Zola
+A Personal Matter
+Raskolnikov's dreams
+Honore de Balzac
+Paris
+Samson
+Aristophanes
+Chicago
+a Jewish cemetery
+William Somerset Maugham
+Sense and Sensibility
+The Natural
+The Grouch
+The Rose Tattoo
+Gabriel Garcia Marquez
+The Canterbury Tales
+Parade's End
+The Tempest
+Bronte Family
+The Overcoat
+Andrew Marvell
+swords
+Crime and Punishment
+Sophocles
+Hebdomeros
+Mark Twain
+Mikhail Lermontov
+Sophie Portnoy
+A Midsummer Night's Dream
+Federico Garca Lorca
+Robert Frost
+Athol Fugard
+The Bell Jar
+Raymond Chandler
+Truman Capote
+The Wild Duck
+Arthashastra
+PC
+La Bayadere
+El Ingenioso Hildalgo Don Quixote de La Mancha
+Jimmy Porter
+R.K. Narayan
+Commonwealth of Australia
+Ivan Sergeyevich Turgenev
+Republic of Kenya
+The White Devil
+Robert Lowell
+Henry James
+Brideshead Revisited
+Edith Wharton
+Heart of Darkness
+Sylvia Plath
+Arthur Adamov
+Charlotte Perkins Gilman
+Argentina
+Herman Hesse
+Ivan Sergeyevich Turgenev
+The Hunchback of Notre Dame
+Sir Walter Scott
+The Knights or Hippeis
+Truman Capote
+Eugene Onegin
+All My Sons
+The Brothers Karamazov
+The Tin Drum
+Ray Bradbury
+Nathaniel Hawthorne
+Alexander Dumas, pere
+Eveline
+Mario Vargas Llosa
+"The Sea and the Mirror: A Commentary on Shakespeare's The Tempest"
+Robert and Elizabeth Barrett Browning
+Alex DeLarge
+The Death of Artemio Cruz
+Maxim Gorky
+Gerhart Hauptmann
+Emily Elizabeth Dickinson
+Prince Lyov Nikolayevich Myshkin
+Langston Hughes
+Aeschylus
+Kiss of the Spider Woman
+The "Wasteland"
+Anthony Adverse
+Jorge Amado
+Death of a Salesman
+Percy Bysshe Shelley
+Ivan Turgenev
+Kurt Vonnegut, Jr.
+Rappacini's Daughter
+Greece
+The Bald Soprano
+Philip Morin Freneau
+William Butler Yeats
+The Temple of the Golden Pavilion
+Oedipus
+Brave New World
+Herman Melville
+The Nose
+Baudolino
+Joseph Rudyard Kipling
+Lara
+The Last Question
+Jorge Amado
+A Good Man is Hard to Find
+Sophocles
+Henri Ren Albert Guy de Maupassant
+Salman Rushdie
+Jorge Luis Borges
+James Fenimore Cooper
+Wystan Hugh Auden
+California
+Howl
+Edward Estlin Cummings
+August, Osage County
+Sonnets from the Portugese
+Pale Fire
+Guy Montag
+Petrarch
+Hermann Hesse
+One Flew Over the Cuckoos Nest
+Kubla Khan
+Ivan Turgenev
+The Turn of the Screw
+Doktor Faustus
+Jorge Luis Borges
+Alexandre Dumas pere
+Ray Bradbury
+Picnic
+Nathaniel Hawthorne
+Emily Dickinson
+Felix Holt, the Radical
+Percy Bysshe Shelley
+Sherwood Anderson
+Blanche DuBois
+The Second Coming
+Harry Rabbit Angstrom
+Fyodor Mikhaylovich Dostoyevsky
+Gwendolyn Brooks
+The Great Gatsby
+Kawabata Yasunari
+Robert Lowell
+The Pearl
+The Lottery
+A.S. Byatt
+Cymbeline
+Sinclair Lewis
+Holden Caulfield
+James Joyce
+Berlin Alexanderplatz
+Isis Unveiled
+The Sleeping Beauty
+Sir Ahmed Salman Rushdie
+the dissents of Antonin Scalia
+A Raisin in the Sun
+The Tower
+Jean Valjean
+Benjamin Franklin Norris, Jr.
+Thornton Niven Wilder
+James Baldwin
+Love in the Time of Cholera
+Sinclair Lewis
+Joseph Andrews
+The Rise of Silas Lapham
+Publius Papinius Statius
+Langston Hughes
+Oliver Twist
+Spain
+James Fenimore Cooper
+Bertolt Brecht
+Harry Rabbit Angstrom
+The Great Gatsby
+the General Prologue to the Canterbury Tales
+The Libation Bearers
+Epic of Gilgamesh
+The Confessions
+D. H. Lawrence
+The Tempest
+Katherine Mansfield Murry
+Dame Muriel Spark
+satire
+Jerome David Salinger
+Stephen Decatur
+The Canterbury Tales
+Honor de Balzac
+Inferno
+What is the Third Estate?
+Fear and Loathing in Las Vegas: A Savage Journey Into the Heart of the American Dream
+A Tale of Two Cities
+Milan Kundera
+Jean-Paul Sartre
+biographies of Muhammad
+Copenhagen
+August Strindberg
+the Confessing Church
+Samuel Beckett
+Thomas Gray
+Nathaniel Hawthorne
+Ben Jonson
+Argentina
+troubadours
+MASTER HAROLD and the boys
+Alphonse Daudet
+No Exit
+The Inferno
+Candide or Optimism
+Naguib Mahfouz
+Invisible Man
+Chinua Achebe
+The Great Gatsby
+villanelle
+Robert Burns
+Little, Big: or, The Fairies' Parliament
+Desire Under the Elms
+The War of the End of the World or La guerra del fin del mundo
+A Dream Play
+O. Henry
+The Importance of Being Earnest
+Donald Barthelme
+Gabriela Mistral
+Sula
+Never Let Me Go
+Lucky Jim
+Franz Kafka
+Dao De Jing
+Jim Burden
+The Snows of Kilimanjaro
+Willa Cather
+Brown
+Joseph Conrad
+Bertolt Brecht
+Samuel Beckett
+R.U.R.
+Mordecai Richler
+Louis-Ferdinand I'm totally a Nazi, guys Celine or Louis-Ferdinand Destouches
+Herman Melville
+Clive Staples Lewis
+H.G. Wells
+Luke
+Dante Gabriel Rossetti
+R.U.R.
+Henrik Ibsen
+Tirso de Molina
+The Mysteries of Udolpho
+Glass
+Death in Venice
+Irwin Allen Ginsberg
+Edgar
+Entropy
+Language Poetry
+King Lear
+Walker
+The Ballad of Reading Gaol
+After Many a Summer Dies the Swan
+Cyrano de Bergerac
+As I Lay Dying
+The Scarlet Letter
+A Connecticut Yankee in King Arthur's Court
+Fanny Price
+The Libation Bearers
+Brother Jero
+The Road Not Taken
+Ode to the West Wind
+Republic of India
+sonnet
+Steppenwolf
+In Memoriam A.H.H.
+Italo Calvino
+Kurt Vonnegut, Jr.
+The Expedition of Humphrey Clinker
+Ode to a Nightingale
+Stendhal
+Ambrose Bierce
+vowel harmony
+Medea
+Quo Vadis: A Narrative of the Time of Nero
+Karel Capek
+Epictetus
+Mikhail Yuryevich Lermontov
+The Skin of Our Teeth
+Catherine Maria Sedgwick
+Marcel Proust
+Astrophil and Stella
+People's Republic of China
+Sherwood Anderson
+Heinrich Heine
+Crime and Punishment
+The Decameron: Prencipe Galeotto
+William Godwin
+The Old Man and the Sea
+Cry, the Beloved Country
+Rudyard Kipling
+the Rubaiyat
+Le Cid
+"The Rape of the Lock"
+Grendel
+The Ballad of Peckham Rye
+Haruki Murakami
+Japan
+Spoon River Anthology
+Miguel de Cervantes Saavedra
+Uncle Toms Cabin
+Gao Xingjian
+Their Eyes Were Watching God
+The Story of the Stone
+To Althea, From Prison
+Tom Jones
+The Marble Faun
+The Bronze Horseman: A Petersburg Tale
+Kate Chopin
+Alexander Pushkin
+The Love Song of J. Alfred Prufrock
+Nick Carraway
+Brideshead
+Japan
+The Woman in White
+Knut Hamsun
+The Bluest Eye
+August Strindberg
+The Heights of Macchu Picchu
+Romance of the Three Kingdoms
+Eugene Ionesco
+The Decay of the Angel
+Yukio Mishima
+The Great Gatsby
+Hans Castorp
+Amerika
+An American Tragedy
+The Tale of Genji
+The Devil and Daniel Webster
+On the Road
+"Dover Beach"
+James Thurber
+Metamorphoses
+Far From the Madding Crowd
+William Wordsworth
+Johann Wolfgang von Goethe
+Fyodor Mikhaylovich Dostoyevsky
+Max Horkheimer and Theodor Adorno
+Emma
+The Blind Assassin
+Reasons and Persons
+Stephen Crane
+tragedy
+Luigi Pirandello
+Twenty Love Poems and a Song of Despair
+Madame Bovary
+The Republic
+the Arab Republic of Egypt
+Gwendolyn Brooks
+How to Make Our Ideas Clear
+Les Fleurs du Mal
+Ryunosuke Akutagawa
+Carl Sandburg
+Classical Latin
+Euripedes
+Gao Xingjian
+Hermann Hesse
+W
+The Lottery
+"The Charge of the Light Brigade"
+Edwin Arlington Robinson
+Vineland
+Jerome K. Jerome
+Gerard Manley Hopkins
+The Libation Bearers
+Jean-Paul Sartre
+red
+Dante Alighieri
+Philip Larkin
+Blindness
+Luigi Pirandello
+The Adventures of Huckleberry Finn
+Things Fall Apart
+Jean Rhys
+The Prophet
+August Wilson
+Silence
+The Conformist
+"The Interlopers "
+the sea
+Cry, the Beloved Country
+Langston Hughes
+The Trial or
+Adonas: An Elegy on the Death of John Keats
+Hinton Rowan Helper
+Thomas Stearns Eliot
+Evelyn Waugh
+James Augustine Aloysius Joyce
+Margaret Eleanor Atwood
+Raymond Thornton Chandler
+Stephen Vincent Benet
+dogs
+The Underdogs
+Louis MacNeice
+Howl
+Miss Jane Pittman
+When Lilacs Last in the Door-yard Bloom'd
+Gabriel Jos de la Concordia Garca Mrquez
+The Road Not Taken
+first Duino Elegy
+Midnight's Children
+Carlos Fuentes
+N. Scott Momaday
+Nicholas Nickleby
+O. Henry
+Lawrence Ferlinghetti
+The Bald Soprano or La Cantatrice chauve
+Herman Melville
+William Carlos Williams
+Cannery Row
+Lysistrata
+Carlos Fuentes
+A Room with a View
+Mrs. Dalloway
+Soames Forsyte
+Sanskrit
+Arthur Koestler
+The Moons of Jupiter
+The Sound of the Mountain
+New Historicism
+Japanese
+Chaim
+Othello; or The Moor of Venice
+The Idiot
+Guns n' Roses
+Alfred Lord Tennyson
+Battle of Dien Bien Phu
+Pharsalia or Bellum Civile or The Civil War
+Easter 1916
+The Masque of the Red Death
+Apostles' Creed
+L'Allegro
+Beowulf
+Herbert George Wells
+Derek Walcott
+Utopia
+Our Town
+John Milton
+"Pale Fire"
+The Great Gatsby
+Women in Love
+Ulysses
+Anton Chekhov
+The Devil's Dictionary
+The assassination of Thomas  Becket
+The Battles of Coxinga
+The Brothers Karamazov
+Hiroshima
+Allen Ginsberg
+Midnight's Children
+Jack Kerouac
+Robert Southey
+One Hundred Years of Solitude
+The Brothers Karamazov
+Langston Hughes
+the assassination of Abraham Lincoln
+Conversation in the Cathedral
+Luigi Pirandello
+Hart Crane
+Diary of a Madman
+Jose Mart
+Edward Morgan Forster
+Eugene O'Neill
+Elmer Rice
+George Orwell
+August Wilson
+Penn Central Transportation Company
+Joseph Conrad
+Alessandro Manzoni
+Tis Pity She's a Whore
+Charles John Huffam Dickens
+Samuel Beckett
+Rubn Daro
+Mandragola
+Luigi Pirandello
+Journey to the West
+Ismail Kadare
+Oliver Twist
+William Carlos Williams
+Jerusalem Delivered
+Ising model
+Terra Nostra
+Samuel Beckett
+The Rime of the Ancient Mariner
+Edith Wharton
+The Bridge on the Drina or Mehmed Pasa Sokolovic Bridge, prompt on Visegrad until said
+The Crucible
+Macduff
+The Divine Comedy
+Saki
+"The Whiteness of the Whale "
+sonnets
+A Midsummer Night's Dream
+Lucky Jim
+Frost at Midnight
+Aristophanes <YC>
+Sinclair Lewis
+"The Raven"
+Jorge Luis Borges
+Black Boy
+Ezra Pound
+The Optimist's Daughter
+Gustave Flaubert
+Frankenstein, or The Modern Prometheus
+One Hundred Years of Solitude
+Jean Genet
+Richard Avedon
+William Wilkie Collins
+Angle of Repose
+The Silent Cry
+Our Town
+The Suppliant Women or The Suppliants or Hiketides
+Satan
+William Cuthbert Faulkner
+Virginia Woolf
+Haruki Murakami
+Nathaniel Hawthorne
+Leo Tolstoy
+Kim
+Charles Lamb
+Chronicle of a Death Foretold or
+Edith Wharton
+A Good Man is Hard to Find
+Much Ado About Nothing
+The Importance of Being Earnest
+One Hundred Years of Solitude
+Percy Bysshe Shelley
+Kiss of the Spider Woman
+Gabriela Mistral or Lucilla Godoy Alcayaga
+Anton Pavlovich Chekhov
+Mourning Becomes Electra
+Shirley Jackson
+Hermann Hesse
+William Gilmore Simms
+Harold Mitch Mitchell
+Franz Werfel
+Friedrich Schiller
+"The Love Song of J. Alfred Prufrock"
+outlaw motorcycle gangs
+George Farquhar
+Robert Penn Warren
+The Red and the Black
+Zoo Story
+Italo Calvino
+Charade
+Rupert Brooke
+The Naked Lunch
+Thornton Niven Wilder
+Jorge Luis Borges
+Twenty Love Poems and a Song of Despair
+Holden Caulfield
+Andre Gide
+vampires
+Gnter Grass
+Czech language
+sonnets
+World War II
+The Famished Road
+Sam Shepard
+Jonathan Swift
+Aim Csaire
+Kate Chopin
+William Butler Yeats
+James Baldwin
+The Return of the Native
+Mexico Accept United Mexican States
+Luigi Pirandello
+Sozaboy : A Novel in Rotten English
+Gerard Manley Hopkins
+The Tin Drum
+Seamus Heaney
+Platero y Yo
+Jimmie Blacksmith
+Friedrich Schiller
+Joseph Conrad
+David Foster Wallace
+Chicago
+Ahmed Salman Rushdie
+The Picture of Dorian Gray
+Poor laws
+Mark Twain
+The Waste Land
+Philipp Melanchthon
+John Roderigo Dos Passos
+Naguib Mahfouz
+New Orleans
+Sylvia Plath
+Things Fall Apart
+The Three Musketeers
+R. K. Narayan
+Song of Solomon
+Lolita
+Rameaus Nephew
+William Joseph Kennedy
+People's Republic of China
+Jean Paul Sartre
+On the Law of War and Peace or On the Laws of War and Peace or The Law of War and Peace or De Jure Belli ac Pacis
+The Moonstone
+"Against Interpetation"
+Lucrezia Borgia
+Nikos Kazantzakis
+Pelham Grenville Wodehouse
+Joseph Campbell
+True West
+Shields WD, SK
+My Antonia
+The Prince and the Pauper
+Everything That Rises Must Converge
+Ethan Frome
+bad faith or mauvais foi
+Edwin Arlington Robinson
+Wallace Stevens
+Holden Caulfield
+Thomas Wolfe
+Fathers and Sons
+Absalom, Absalom!
+Sean OCasey
+Herman Melville
+Breakfast at Tiffany's
+Gabriel Jose de la Concordia Garcia Marquez
+An Essay on Man
+Edwin Arlington Robinson
+Eugene O'Neill
+Ulysses
+Theodore Herman Albert Dreiser
+One Day in the Life of Ivan Denisovich
+Stephen Crane
+Gao Xingjian
+Margaret Eleanor Atwood
+Anatole France or Anatole Thibault
+Kenzaburo Oe
+The Master Builder
+Gulliver's Travels
+In the Penal Colony
+Auto-da-Fe
+Karel Capek
+Time of Your Life
+Joe Turner's Come and Gone
+The Eumenides
+The Pillow Book or Makura no Soshi
+Frankenstein; or, the Modern Prometheus
+Comus
+The Gift of the Magi
+Gaius Valerius Catullus
+Edward Franklin Albee III
+The Circle of Chalk
+Paradise Lost
+Oliver Wolf Sacks, MD
+Shirley Jackson
+Carlos Fuentes
+Geoffrey Chaucer
+John Keats
+Uncle Tom's Cabin
+The Bostonians
+Thomas Gray
+William Butler Yeats
+The Sorrows of Young Werther
+On the Road
+Roald Dahl
+Orhan Pamuk
+Sylvia Plath
+Pierre Corneille
+Spoon River Anthology
+Aim Csaire
+Tom Jones
+"Kubla Khan; or, A Vision in a Dream: A Fragment"
+Decameron
+Albert Camus
+Some Prefer Nettles or Tade Kuu Mushi
+The Satanic Verses
+The Man of Mode
+Don Quixote de La Mancha
+The City in the Sea
+The Ambassadors
+Leo Tolstoy
+Joseph Conrad
+"The Earthquake in Chile"
+The Physicists or Der Physiker
+Middlemarch: A Study of Provincial Life
+The Little Prince or Le Petit Prince
+Paris
+Aristophanes
+James Augustine Aloysius Joyce
+Ambrose Bierce
+Edwin Arlington Robinson
+Alexandre Dumas, pere
+Rainer Marie Rilke
+The Tell-Tale Heart
+Malcolm Gladwell
+Peter Shaffer
+House of Leaves
+Manuel Puig
+Publius Vergilius Maro
+The Merchant of Venice
+The Wild Duck
+aeolian harps
+The Sot-Weed Factor
+Joseph Heller
+Edwin Arlington Robinson
+Dr. John H. Watson
+Les Miserables
+Herbert Spencer
+Lorraine Hansberry
+Gotthold Ephraim Lessing
+Edward Estlin Cummings
+William Butler Yeats
+Samuel Johnson
+Tobias Smollett
+The Arabian Nights' Entertainments
+Khwajeh amsu d-Din Mu?ammad Hafez-e hirazi
+Ambroise-Paul-Toussaint-Jules Valry
+Vidiadhar Surajprasad Naipaul
+The Frogs
+Washington Irving
+Ebenezer Scrooge
+Gwendolyn Brooks
+An Occurrence at Owl Creek Bridge
+Faust
+Sinclair Lewis
+Gao Xingjian
+Prospero
+Guy de Maupassant
+Don Delillo
+Clarissa
+Robert Frost
+e.e cummings
+Gerard Manley Hopkins
+Nadine Gordimer
+sestina
+Hermann Hesse
+Evelyn Waugh
+Tom Jones
+On First Looking into Chapman's Homer
+Tomas
+Walker Percy
+cherry
+Cry, the Beloved Country
+Tom Wolfe
+Jean Valjean
+Great Expectations
+Leo Nikolayevich Tolstoy
+The Merchants Tale
+rhyme
+George Gordon Byron or
+The Deptford Trilogy
+Umberto Eco
+The Castle or Das Schlo
+Goblin Market
+Robert Penn Warren
+Mikhail Lermontov
+To Kill A Mockingbird
+Archibald Macleish
+Henry IV
+The Book of Daniel
+Uncle Tom's Children
+The Canterbury Tales
+Ry?nosuke Akutagawa
+Chikamatsu Monzaemon
+Sor Juana Ines de la Cruz
+The Cherry Orchard
+Publius Vergilius Maro
+Anne Dudley Bradstreet
+Anton Pavlovich Chekhov
+O. Henry
+The Marble Faun
+The Sun Also Rises
+Wayne Shorter
+Karamazov
+Midnight's Children
+Le Misanthrope
+Yogi Berra
+Tom Wingfield
+The Hunchback of Notre Dame
+Sinners in the Hands of an Angry God
+Richard III
+sagas
+Francois Truffaut
+Martin Fierro
+Spatial Anti-Aliasing
+Julien Sorel
+William Cullen Bryant
+Waiting for Godot
+Don Quixote
+An Enemy of the People
+Alfred, Lord Tennyson
+The Clown
+Les Fleurs du Mal
+Antarctica
+The Color Purple
+Blithe Spirit
+Anna Karenina
+Moby Dick
+Emile Zola
+Ironweed
+Charles Pierre Baudelaire
+Vanity Fair
+Woman in the Dunes
+Things Fall Apart
+Sir Walter Scott
+nicknames of Shaquille O'Neal
+Azul...
+
+King Lear
+William Blake
+Robert Graves
+Artemis
+The Changing Light at Sandover
+Republic of Guatemala
+James Fennimore Cooper
+The Luck of Roaring Camp
+The Mysteries of Udolpho
+Rupert Brooke
+Amiri Baraka
+The Tale of Genji
+Jean-Paul Sartre
+Compson family
+Luigi Pirandello
+Ode to the West Wind
+The Red and the Black
+Alex Haley
+Thomas Mann
+Twelfth Night, or What You Will
+Pride and Prejudice
+Jos Protasio Rizal Mercado y Alonso Realonda
+the Proci
+Slaughterhouse - 5, or the Children's Crusade: A Duty Dance With Death
+Arthur Miller
+Japan
+Hermann Hesse
+Emile Zola
+Brown
+A White Heron
+Philip Larkin
+John Millington Synge
+She Stoops to Conquer
+The Razor's Edge
+Stendhal
+John Keats
+William Somerset Maugham
+Abraham Lincoln
+Pensees
+Far from the Madding Crowd
+Wystan Hugh Auden
+Henrik Johan Ibsen
+Johann Wolfgang von Goethe
+A Room of One's Own
+Iceland
+William James
+Kafka on the Shore
+Don Rickles
+William Carlos Williams
+The Tin Drum
+The Trial
+Holden Caulfield
+Henryk Sienkiewicz
+1001 Arabian Nights
+Stphane Mallarm
+Spanish
+The Tin Drum
+Demian
+Philip Roth
+Alexander Solzhenitsyn
+Vile Bodies
+War and Peace
+China
+nouns
+The Hunter Gracchus
+Yukio Mishima
+Thomas Stearns Eliot
+Lucy Poems
+Ernest Miller Hemingway
+Hermann Hesse
+Hubbard model
+Puck
+Lotte in Weimar : The Beloved Returns
+Rubaiyat of Omar Khayym
+Gentlemen Prefer Blondes
+Eudora Welty
+Walden, or Life in the Woods
+John Steinbeck
+Karel Capek
+Pride and Prejudice
+Anna Akhmatova or Anna Andreyevna Gorenko
+The Dead
+Carlos Fuentes
+Wuthering Heights
+Chile
+To His Coy Mistress
+Tess of the D'Urbervilles
+William Cullen Bryant
+Sredni Vashtar
+John Greenleaf Whittier
+George Bernard Shaw
+Mansfield Park
+Aunt Julia and the Scriptwriter
+The Master and Margarita
+Homage to Catalonia
+The Flea
+Hesiod
+Seamus Heaney
+Ebenezer Scrooge
+McTeague
+Nigeria
+Lillith
+Jorge Francisco Isidoro Luis Borges Acevedo
+Sylvia Plath
+Edgar Allan Poe
+Of Human Bondage
+Bertolt Brecht
+Ryunosuke Akutagawa
+Much Ado About Nothing
+The Lion and the Jewel
+Fences
+Carlos Fuentes
+Samuel Taylor Coleridge
+Kenilworth
+John Milton
+Silent Spring
+Primo Levi
+Johann Wolfgang von Goethe
+Andrea del Sarto
+Milan Kundera
+Anna Karenina
+Bernard Malamud
+The Tale of Genji
+sonnet sequence
+Gabriel Garcia Marquez
+George Bernard Shaw
+A Raisin in the Sun
+Republic of Poland
+Arthur Miller
+A Chaste Maid in Cheapside
+Yasunari Kawabata
+The Grapes of Wrath
+North American Indian
+Bertolt Brecht
+The Naked and the Dead
+Orhan Pamuk
+The Dog Beneath the Skin: or Where is Francis?
+Anna Christie
+The Bald Soprano
+Eugene Ionesco
+Julia Kristeva
+A Portrait of the Artist as a Young Man
+Pearl Comfort Sydenstricker Buck
+The Gift of the Magi
+Saki
+Rashi
+C. Auguste Dupin
+Edward Estlin Cummings
+Alexander Nevsky cantata
+Snow Country
+Harold Athol Lanigan Fugard
+Susan Sontag
+Washington Square
+Li Po
+A Tale of Two Cities
+Dario Fo
+Hermann Hesse
+Joseph Conrad
+Kurt Vonnegut, Jr.
+Alexander Sergeyevich Pushkin
+Jonathan Swift
+Herman Melville
+Hamlet
+Robert Emmet Sherwood
+Kong Yiji
+Howards End
+Notes from the Underground
+The Wild Ass's Skin or The Peau de Chagrin or The Magic Skin
+Johann Wolfgang von Goethe
+Oryx and Crake
+Rudyard Kipling
+Federico Garcia Lorca
+Lysistrata
+"Ode to a Nightingale"
+1984
+Book of Job
+The Ambassdors
+Kobo Abe
+Vidiadhar Surajprasad Naipaul
+Roberto Bolao
+blue
+Siddhartha
+Sylvia Plath
+Percy Bysshe Shelley
+Twelfth Night, or What You Will
+Noel Coward
+Light in August
+Penguin Island or L'Ile des Pingouins
+The Portrait of a Lady
+The Courtship of Miles Standish
+The Tempest
+Sweeney Among the Nightingales
+The Seagull
+Jennie Gerhardt
+Robert Herrick
+The Road
+Romeo and Juliet
+William of Baskerville
+Edmund Spenser
+The Man of Mode
+Kurt Vonnegut Junior
+Rupert Brooke
+Fathers and Sons
+Cry, the Beloved Country
+A Song of Despair
+Saturday Night and Sunday Morning
+John Maxwell Coetzee
+Ben Jonson
+A Clockwork Orange
+Rubaiyat of Omar Khayyam
+Australia <YC>
+Gerhart Hauptmann
+John Milton
+E
+Stendhal
+Emma
+Guy de Maupassant
+Howl
+A Tale of Two Cities
+Convergence of the Twain
+The Personal History, Adventures, Experience and Observation of David Copperfield the
+"Ozymandias"
+Cancer Ward
+atomists SK
+The Jew of Malta
+The Stranger
+Iago
+Edward Franklin Albee III
+Anton Chekhov
+My Antonia
+Uncle Tom's Cabin
+Edmund Spenser
+The Spanish Tragedy
+Isaac Babel
+Henry Wadsworth Longfellow
+The Charterhouse of Parma
+The Murders in the Rue Morgue
+Catch-22
+Gooseberries
+English language
+Anna Karenina
+'Tis Pity She's a Whore
+pianos
+The Waste Land
+Derek Walcott
+Ethan Frome
+Silent Spring
+Jean Rhys
+Henry Wadsworth Longfellow
+William Shakespeare's Sonnets
+Katherine Anne Porter
+Rabindranath Tagore
+Saint-John Perse
+The Mystery of the Yellow Room
+All Quiet on the Western Front
+Just World Effect
+Northanger Abbey
+Andrew Marvell
+Du Fu
+To His Coy Mistress
+"The Secret Life of Walter Mitty"
+Eugne Ionesco
+The Love Song of J. Alfred Prufrock
+Aleksandr Solzhenitsyn
+The Lusiads
+My Antonia
+The Children's Hour
+Fyodor Mikhaylovich Dostoyevsky
+Speak, Memory
+The Bald Soprano
+Rudyard Kipling
+Paul Laurence Dunbar
+Japan
+David Herbert Lawrence
+The Confidence-Man
+The Recognition of Shakuntala
+A Confederacy of Dunces
+William Wordsworth
+The Winter's Tale
+Long Day's Journey into Night
+The Merry Wives of Windsor
+Wole Soyinka
+The Decameron: Prencipe Galeotto
+Alan Sillitoe
+Natty Bumpo accept either name
+Oscar Fingal O'Flahertie Wills Wilde
+Dorian Gray
+Oe Kenzaburo
+Robert Louis Balfour Stevenson
+Book of Judges
+Walt Whitman
+Harold Hart Crane
+Call it Sleep
+Gnter Wilhelm Grass
+William Saroyan
+Their Eyes Were Watching God
+Marcel Proust
+The Tin Drum
+Universal House of Justice
+C Chulainn
+Victory Over the Sun
+The Corrections
+Gravitys Rainbow
+short stories by F. Scott Fitzgerald
+Genji
+Mrs. Clarissa Dalloway
+Mark Twain
+Ernest Hemingway
+The Critic as Artist
+The Flowers of Evil
+Christopher Marlowe
+Max Frisch
+The Tragedy of Pudd'nhead Wilson
+William Congreve
+The Tin Drum
+Dr. Zhivago
+Natsume Soseki
+The Crying of Lot 49
+To a Skylark
+fables
+"The Legend of Sleepy Hollow"
+The Adventures of Augie March
+Jack Kerouac
+Hans Christian Andersen
+Francis Scott Key Fitzgerald
+Theodore Dreiser
+The Golden Ass
+Hikaru Genji
+Brave New World
+Pierre Corneille
+Wuthering Heights
+Desire Under the Elms
+John Donne
+Aeschylus
+The Tin Drum
+Chinua Achebe
+Look Homeward, Angel
+The Lives of Others
+haiku
+Pincher Martin
+Wole Soyinka
+Spoon River Anthology
+James Mercer Langston Hughes
+Shakespeare's Sonnets
+Erich Marie Remarque
+Li Po or Li Bo or Li Bai or Ri Haku
+Anna Karenina
+the Cairo Trilogy
+Beloved
+John Edward Masefield
+Aunt Julia and the Scriptwriter
+The Tale of the Bamboo Cutter
+Pictures from Brueghel and Other Poems
+Sean O'Casey
+John Keats
+Far from the Madding Crowd
+The Waking
+King Lear
+Wilhelm Meister
+Grard de Nerval
+Johann Wolfgang von Goethe
+Heinrich Heine
+Matsuo Basho
+Akinwande Oluwole Wole Soyinka
+Naguib Mahfouz
+The Spanish Tragedy
+Tom Sawyer
+Mansfield Park
+Pride and Prejudice
+a nose
+Alan Paton
+Fences
+Johan August Strindberg
+A Death in the Family
+Ayn Rand
+Politics and the English Language
+Vaclav Havel
+John Maxwell Coetzee
+Publius Ovidius Naso
+The Birds
+Harold Pinter
+Algernon Charles Swinburne
+Sweden
+Alfred, Lord Tennyson
+Petersburg
+Tam o' Shanter
+Ralph Waldo Ellison
+Leo Tolstoy
+The Odessa Tales
+For Whom the Bell Tolls
+The Stranger
+Miss Julie
+Stephen Crane
+The Death of Artemio Cruz
+Six Characters in Search of an Author
+Mark Twain or Samuel Langhorne Clemens
+The Crucible
+Orhan Pamuk
+A Rose for Emily
+La Vita Nuova
+Lady Windermere's Fan
+John Milton
+Zeami Motokiyo
+Beowulf
+Anna Karenina
+Octavio Paz
+e.e. cummings
+To Althea, From Prison
+Aeschylus
+Nanook of the North
+The Road to Serfdom
+Kafka on the Shore
+Joan of Arc
+Fyodor Mikhaylovich Dostoyevsky
+The Kraken
+Allen Ginsberg
+stream of consciousness
+The Glass Bead Game
+Gregor Samsa
+Quincas Borba
+Soldiers
+The History of Tom Jones, a Foundling
+Edward Franklin Albee III
+A Streetcar Named Desire
+The Good Soldier : A Tale of Passion
+Nikolai Vassilievich Gogol
+Upton Sinclair
+Neil Simon
+Science and Health with Key to the Scriptures
+Songs of Experience
+The Quiet American
+Faust
+To Kill A Mockingbird
+The Portrait of a Lady
+Science and Health with Key to the Scriptures
+The Knight from Olmedo or El Caballero de Olmedo or
+The Dumbwaiter
+Paul Bumer
+Arrowsmith
+Qfwfq
+The Negro Speaks of Rivers
+John Anthony Burgess Wilson
+Simon
+Shirley Jackson
+The Things They Carried
+Seven Against Thebes
+The Three Musketeers
+Nikolai Leskov
+The English Patient
+Novelas Ejemplares
+The Birthday Party
+The Trial
+Japan
+The Grouch or Old Cantankerous or Dyskolos
+Ornette Coleman
+Aristophanes
+La Bonne Chanson
+The Master of Go
+Kalevala or Poems from the Kaleva District or similar
+Mrs. Dalloway
+The Cloud Messenger
+Naguib Mahfouz
+Constantine Petrou Cavafy
+Come Back, Little Sheba
+Vladimir Vladimirovich Mayakovsky
+The Road
+Athol Fugard
+An American Tragedy
+If on a Winter's Night a Traveler
+E.T.A Hoffman
+Sir Vidiahar Surajprasad
+Fasti
+Sir Edward William Elgar
+"The Miller's Tale"
+To Kill A Mockingbird
+Chrtien de Troyes
+Alexander Pope
+What We Talk About When We Talk About Love
+orange
+Invisible Man
+Jorge Luis Borges
+Sense and Sensibility
+Anthills of the Savannah
+Terence
+The Lottery
+The Battle Hymn of the Republic
+Leo Nikolayevich Tolstoy
+Fanny and Alexander
+Eugene Ionesco
+Yasunari Kawabata
+Rafael Leonidas Trujillo
+Francis Scott Key Fitzgerald
+The House of Bernarda Alba or La Casa de Bernarda Alba
+Man and Superman
+Hermann Hesse
+The Bronze Horseman or Medni Vsadnik
+Roland
+Thomas Ruggles Pynchon
+Thomas Stearns Eliot
+"The Lottery"
+Strange Fruit
+Federal Republic of Nigeria
+Death in Venice
+Invisible Man
+Murder on the Orient Express
+Andrew Marvell
+De Profundis
+The Invisible Man
+Walter "Walt" Whitman
+Henrik Johan Ibsen
+Cry, the Beloved Country
+Sophocles
+Denis Diderot
+The Golden Temple
+Wilfred Owen
+Samuel Butler
+Thomas Hardy
+The Human Comedy
+Seascape
+Alexander Pushkin
+To Kill A Mockingbird
+Oroonoko: Or the Royal Slave, A True History
+Chile
+Franz Kafka
+Upton Sinclair
+Julys People
+Denis Johnson
+Ralph Waldo Emerson
+On The Jewish Question
+Dylan Thomas
+A. R. Ammons
+Perkin Warbeck
+William Blake
+the Kalevala
+Karel Capek
+Soul Mountain
+My Antonia
+Thirteen Ways Of Looking At A Blackbird
+Guy de Maupassant
+Vile Bodies
+"Can the Subaltern Speak?"
+Tale of the Heike or Heike Monogatari
+Azul
+Rudin
+The Lotos Eaters
+allegory
+Brave New World
+Boniface
+Sarah Orne Jewett
+Akinwande Oluwole Soyinka
+Nadine Gordimer
+Samuel Taylor Coleridge
+Gunter Grass
+The Bald Soprano
+"Lines Composed a Few Miles Above Tintern Abbey on Revisiting the banks of the River Wye During a Tour. July 13, 1798."
+Gaius Valerius Catullus
+David Mamet
+Isabel Allende Llona
+Mark Twain
+Holden Morissey Caulfield
+"The Second Coming"
+Robert Pinksy
+Paul Celan
+The Family of Pascual Duarte or La Familia de Pascual Duarte
+William Somerset Maugham
+Zorba the Greek
+Franz Kafka
+The Good Soldier
+Twenty Love Poems and a Song of Despair
+Argentina
+"The Outcasts of Poker Flat"
+Desiree's Baby
+Marianne Moore
+The Knight in the Panther's Skin
+Geoffrey Chaucer
+Lawrence George Durrell
+William Blake
+Titus Andronicus
+The Tell-Tale Heart
+Catch-22
+Francisco Vasquez de Coronado
+Appointment in Samarra
+Lynne Cheney
+Cavalier Poets
+Chicago
+El Cid
+The Luncheon on the Grass
+Astrophel and Stella
+Pablo Neruda
+F. Scott Fitzgerald
+epistolary
+Anton Pavlovich Chekhov
+Why I Live at the P.O.
+The Carnal Prayer Mat
+Georg Wilhelm Friedrich Hegel
+The Cairo Trilogy
+Anna Karenina
+Andrew Marvell
+The Cherry Orchard
+Geoffrey Chaucer
+Alice Munro
+Pearl
+Don Quixote de la Mancha
+Arthur Schnitzler
+Ophelia
+The Mayor of Casterbridge
+The Taming of the Shrew
+Washington Irving
+Thebaid
+Blithe Spirit
+Wuthering Heights
+Muriel Spark
+James Mercer Langston Hughes
+China
+One Hundred Years of Solitude or Cien aos de soledad
+John Steinbeck
+Miguel de Unamuno y Jugo
+Orhan Pamuk
+William Butler Yeats
+Eugne Ionesco
+Jack Kerouac
+August Wilson
+A Raisin in the Sun
+Rudyard Kipling
+Aaron's Rod
+Jitney
+Mark Helprin
+Dover Beach
+Fahrenheit 451
+Ernest Miller Hemingway
+Oliver Goldsmith
+Les Fleurs du Mal
+White Teeth
+William Dean Howells
+Medea
+Edward Albee
+Rosencrantz and Guildenstern Are Dead
+Miguel de Unamuno
+Tennessee Williams
+John Greenleaf Whittier
+Timaeus
+Carlo Emilio Gadda
+School for Scandal
+Graham Greene
+William Dean Howells
+Sophocles
+russalka
+My Last Duchess
+Seamus Heaney
+The Red and the Black
+"Out of the Cradle Endlessly Rocking"
+The Master and Margartia
+Flannery OConnor
+Madame Bovary
+Samuel Taylor Coleridge
+Giants in the Earth: A Saga of the Prairie or I de dage
+Mark Twain
+Henry James
+Nadine Gordimer
+William Blake
+"The Necklace"
+Eliezer Elie Wiesel
+Chronicle of a Death Foretold
+Thomas Ruggles Pynchon, Jr.
+Khalil Gibran
+Voltaire
+Brideshead Revisited
+The Sound and the Fury
+The Inspector-General
+Edward Estlin Cummings
+Thornton Niven Wilder
+Anna Bolena
+translate In Search of Lost Time
+Edgar Allan Poe
+One Hundred Years of Solitude
+Rudyard Kipling
+Against the Day
+Henry Wadsworth Longfellow
+Daddy
+Dracula
+Doris Lessing
+One Hundred Years of Solitude
+Edward Kamau Braithwaite
+Artemio Cruz
+William Butler Yeats
+Who's Afraid of Virginia Woolf?
+Alexander Pushkin
+Washington Irving
+beat literature
+Thomas Hardy
+Octavio Paz
+The Masques of Ben Jonson
+Hugh Selwyn Mauberley
+Mrs. Clarissa Dalloway
+Rudyard Kipling
+The Great Gatsby
+The Scarlet Letter
+The Kalevala
+Neo-Realism
+Ambrose Bierce
+Battle of the Milvian Bridge
+A Connecticut Yankee In King Arthur's Court
+The Bacchae
+Bertolt Brecht
+autobiography
+Wieland, or The Transformation: An American Tale
+Volpone
+teacher
+Romeo Montague
+Vathek
+The Secret Agent
+Elmer Gantry
+Quo Vadis
+Harriet Beecher Stowe
+Catch-22
+George Etherege
+Henrik Ibsen
+Hermann Hesse
+snow
+The Golden Bough
+Silence
+Go Tell It on the Mountain
+Samuel Beckett
+Italo Calvino
+Jean-Paul Charles Aymard Sartre
+Jonathan Swift
+Thomas Ruggles Pynchon, Jr.
+The Subjection of Women
+Joseph Addison and Richard Steele
+Dr. Yuri Zhivago
+Prometheus
+Paul Thomas Mann
+The Moon and Sixpence
+Henry Wadsworth Longfellow
+Pablo Neruda
+The Awakening
+Julio Cortzar
+windmills
+Wuthering Heights
+Molire
+One Thousand and One Nights
+Norman Mailer
+"A Good Man is Hard to Find"
+Thomas Merton
+Roots: The Saga of an American Family
+William Carlos Williams
+Sinclair Lewis
+Kim
+The Bluest Eye
+Herman Melville
+August Strindberg
+Lolita
+Once Were Warriors
+Pablo Neruda
+Bertolt Brecht
+White Jacket
+Robert Frost
+Woyzeck
+Russian Federation
+Miguel Asturias
+Victor Hugo
+John Donne
+The Tin Drum
+Shirley Jackson
+Wuthering Heights
+Eudora Welty
+Aristophanes
+Thomas Kennerly "Tom" Wolfe, Jr.
+A Passage to India
+William Shakespeare
+Margaret Fuller
+Emily Dickinson
+Richard Wright
+Dante's Inferno
+Isabel Allende
+Samuel Beckett
+The Castle
+Oscar Fingal O'Flaherty Wills Wilde
+Giacomo Leopardi
+Vladimir Vladimirovich Nabokov
+Haldor Laxness
+The Beautiful and Damned
+China
+Albert Camus
+Thornton Wilder
+The Bicycle Thief
+Wuthering Heights
+China
+Orlando Furioso
+Rainer Maria Rilke
+Fall of the House of Usher
+"The Hollow Men"
+Eudora Welty
+Go Down, Moses
+"The Lady of Shallott"
+Nigeria
+The Rime of the Ancient Mariner
+Philip
+Libra
+The Power and the Glory
+Patrick White
+the Redcrosse Knight
+A Raisin in the Sun
+James Hilton
+The Threepenny Opera
+Iago
+Ode. Intimations of Immortality from Recollections of Early Childhood
+Yasunari Kawabata
+Tennessee Williams
+Yellow Kid
+Elegy Written in a Country Churchyard
+"Musee des Beaux-Arts"
+All the King's Men
+The Odyssey
+William Hazlitt
+Wuthering Heights
+Henry Graham Greene
+Alice Pleasance Liddell
+Willa Sibert Cather
+Johann Christoph Friedrich von Schiller
+Malcolm Lowry
+Percy Bysshe Shelley
+Inferno
+Volpone
+Against the Grain
+Kenzaburo Oe
+Pilgrim at Tinker Creek
+Haruki Murakami
+The Prince
+Aethiopica
+Crito
+Cossacks or Kazakhi
+Ulysses
+Louisa May Alcott
+A Clockwork Orange
+Gilgamesh
+Eumenides or Eryines or Furies or the Kindly Ones
+Heartbreak House
+Iago
+Doubt: A Parable
+To the Lighthouse
+Thomas Mann
+A Tale of Two Cities
+Pygmalion
+Bless Me, Ultima
+California
+The House of Bernarda Alba
+A Handful of Dust
+rotifera or rotifers
+Carlos Fuentes
+The Red Room
+Things Fall Apart
+Paradise Lost
+Towards a New Architecture
+Ignatius J. Reilly
+Henry Brooks Adams
+A View from the Bridge
+Les Fleurs du Mal
+Marian Halcombe
+Moliere
+Don Quixote de la Mancha
+Madame Bovary
+Commonwealth of Australia
+Ethan Frome
+Cuba
+The Tyrone family
+Washington Square
+Nana
+Journey to the West or X?yuj
+A Streetcar Named Desire
+Yukio Mishima
+Infinite Jest
+Pride and Prejudice
+Karel Capek
+A Passage to India
+The Bartered Bride or Prodan nev?sta
+The Joy Luck Club
+Nikolai Gogol
+yellow
+Ralph Waldo Emerson
+Jean-Louis "Jack" Kerouac
+The Bacchae
+As I Lay Dying
+Popol Vuh
+Alfred, Lord Tennyson
+A Delicate Balance
+Matsuo Basho
+The Four Million
+The Count of Monte Cristo
+Brave New World
+Wole Soyinka
+Babi Yar
+Easter, 1916
+Chester Bomar Himes
+Helen of Troy
+"Notes Toward a Supreme Fiction"
+Summa Theologica
+Good Morning , Midnight
+Thomas Hardy
+China
+A Sentimental Journey Through France and Italy
+Song of Roland
+The Temple of the Golden Pavilion
+The Name of the Rose or Il Nome della Rosa
+"Miniver Cheevy"
+I Heard a Fly Buzz When I Died
+Frankenstein, or The Modern Prometheus
+"The Lady with the Dog"
+Samuel Johnson
+Gulliver
+Anne Dudley Bradstreet
+The Heights of Macchu Picchu
+Arthur Miller
+Romeo and Juliet
+Tennessee Williams
+Naguib Mahfouz
+The Human Comedy
+Isabel Allende Llona
+Graham Greene
+John Simmons Barth
+Master Harold...and the Boys
+The Tenant of Wildfell Hall
+King Lear
+Pride and Prejudice
+William Carlos Williams
+Q
+August Wilson
+Eugene Onegin or Yevgeny Onegin
+Oliver Goldsmith
+Leaves of Grass
+Much Ado About Nothing
+Wystan Hugh Auden
+Arthur Miller
+Republic of Poland
+The Ingenious Hidalgo Don Quixote of La Mancha
+The Bride Comes to Yellow Sky
+Dulce Et Decorum Est
+Fernando Arrabal
+Chinua Achebe
+The Jungle
+Gaius Valerius Catullus
+Bertholdt Brecht
+Christopher Fry
+Ernst Theodor Wilhelm Hoffmann
+The Awakening
+Gullivers Travels
+Robert Browning
+Bret Harte
+Arthur Asher Miller
+Lord Byron
+The Song of Roland
+Amis
+The Red and the Black
+John Gower
+Rabindranath Tagore
+Twenty Love Poems and A Song of Despair or Veinte poemas de amor y una cancin desesperada
+John Dryden
+Cheerleading
+Allen Ginsberg
+Arthur Miller
+George Bernard Shaw
+Les Miserables
+Saul Bellow
+The Catcher in the Rye
+The House on Mango Street
+Fyodor Dostoyevsky
+Poland
+Arjuna
+South Africa
+Wole Soyinka
+The Life and Times of Michael K
+John Donne
+Carson McCullers
+Arthur Miller
+Stephen Crane
+Harry Harlow
+Giovanni Boccaccio
+"Chicago"
+The Waves
+The Caretaker
+Berthold Brecht
+Snow
+"The American Scholar "
+The Cherry Orchard
+Boris Pasternak
+Tilbury Town
+Lapis Lazuli
+The Sandman
+King Lear
+Howl
+Lolita
+Thomas Gray
+Jal?l ad-D?n Mu?ammad R?m? or Mowl?n?
+Life of Galileo
+Home to Harlem
+Count Alexei Vronsky
+Oliver Wendell Holmes, Sr.
+Vanity Fair
+The Bell Jar
+Virginia Woolf
+Plutarch
+Spoon River Anthology
+Tom Stoppard
+Zadig, or Fate
+Candide; or, Optimism
+A Room with a View
+Baltasar and Blimunda
+C. Auguste Dupin
+Sir Walter Scott
+Prince Igor or Knyaz' Igor'
+Jhumpa Lahiri
+Dante Alighieri
+Molloy
+Night
+James Agee
+Sir Walter Scott
+Vanity Fair
+John Dryden
+A House for Mr. Biswas
+Ahmed Salman Rushdie
+Milan Kundera
+The Old Man and the Sea
+An Ideal Husband
+Love in the Time of Cholera or El amor en los tiempos del clera
+Doctor Zhivago
+The Tempest
+O. Henry
+Alfred Lord Tennyson
+Dante Gabriel Rossetti
+Aldous Huxley
+Ferdydurke
+Albert Camus
+Robertson Davies
+Robert Browning
+The Great Gatsby
+Samuel Clemens
+The Cask of Amontillado
+William Blake
+Virginia Woolf
+Maxim Gorky
+The Emperor of Ice Cream
+A Tale of Two Cities
+The Color Purple
+Yevgeny Zamyatin
+Rossum's Universal Robots
+The Hunchback of Notre Dame
+Johann Ulrich Voss
+A Farewell to Arms
+Carson McCullers
+Jane Eyre
+Virginia Woolf
+Tom Jones
+R.U.R.
+James Fenimore Cooper
+Karel Capek
+Thomas de Quincey
+Bruno Latour
+Anna Karenina
+Because I Could Not Stop for Death
+Bhima
+Bjrnstjerne Bjrnson
+Frank Capra
+The Emperor of Ice Cream
+Ulysses
+The Prime of Miss Jean Brodie
+Johann Wolfgang von Goethe
+Canada
+The Idiot
+The Prince
+Neil Simon
+Cyrano de Bergerac
+Hedda Gabler
+The Tin Drum
+William Golding
+Rabindranath Tagore
+Wolfe
+George Orwell
+A Good Man is Hard to Find
+Washington Irving
+Publius Ovidius Naso
+Alfred Edward Housman
+binary jets
+Jesus Christ
+brown
+Francis Scott Key Fitzgerald
+Wystan Hugh Auden
+Ernest Hemingway
+Katherine Mansfield
+Kenzaburo Oe
+Wallace Stevens
+Edward Estlin Cummings
+Crossing Brooklyn Ferry
+Alfred, Lord Tennyson
+Frankenstein; or, The Modern Prometheus
+Wilfred Owen
+Sophocles
+fables
+Jos de Sousa Saramago
+Henrik Johan Ibsen
+Matthew Marnold Arnold
+Nineteen Eighty-Four
+Publius Ovidius Naso
+Kurt Vonnegut Jr.
+Carl Sandburg
+Alexander Pushkin
+Arrowsmith
+Euhemerus of Messene
+Ulysses
+Virginia Woolf
+John Keats
+Middlemarch: A Study in Provincial Life
+Fenimore Cooper's Literary Offenses
+Ruben Dario
+dwarf
+Richard Purdy Wilbur
+The Taming of the Shrew
+Macbeth
+The Stolen White Elephant
+The Shipyard or El astillero
+Frankenstein
+dative case
+Joads
+Buried Child
+Jamaica
+Atticus Finch
+The Last of the Mohicans
+elegy
+Serbian
+Eugene Ionesco
+Delta Wedding
+The Song of the Lark
+Josephy Brodsky
+Animal Farm: A Fairy Story
+Christopher Marlowe
+The Name of the Rose
+The Beaver Coat or Der Biberpelz
+Rainer Maria Rilke
+Interpreter of Maladies
+"The Beast in the Jungle"
+B. Traven
+A Modest Proposal For Preventing The Children of Poor People in Ireland From Being
+Horace or Quintus Horatius Flaccus
+George Washington Cable
+The Moon is a Harsh Mistress
+Love in the Time of Cholera
+Inherit the Wind
+Evangeline
+Pierre Corneille
+Things Fall Apart
+Gulliver's Travels
+"Rip Van Winkle"
+Siegfried Sassoon
+Emma
+Journey to the West
+Horace
+Tithonus
+The Call of Cthulhu
+Of Mice and Men
+Oliver Goldsmith
+In Memoriam A.H.H., Obiit. MDCCCXXXIII
+Isaac Bashevis Singer
+The Lusiads
+John Keats
+Eugene Ionesco
+The Birds
+"Ode to the West Wind"
+One Hundred Years of Solitude
+Sophocles
+Ithaca
+Betrayed by Rita Hayworth
+Pygmalion: A Romance in Five Acts
+Noel Coward
+Nathaniel Hawthorne
+Lord of the Flies
+On the Road
+Alfred Edward Housman
+death
+The History of Tom Jones, a Foundling
+Death of a Salesman
+Song of Roland or Chanson de Roland
+Gorgias
+Do Not Go Gentle Into That Good Night
+Daniel Defoe
+The Satanic Verses
+Aleksandr Solzhenitsyn
+Infinite Jest
+Anne Bradstreet
+Giovanni Verga
+Night
+John Shade
+Uncle Vanya or Dyadya Vanya
+Honore de Balzac
+Oblomov
+Jane Eyre
+Pride and Prejudice

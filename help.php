@@ -179,6 +179,7 @@ $qbc = new QBCoref();
 		padding-top: 0pt;
 		text-align: left;
 		padding-bottom: 0pt
+
 	}
 	
 	.c16 {
@@ -374,6 +375,47 @@ $qbc = new QBCoref();
 					coreference, then don&rsquo;t mark it. &nbsp;Only mark coreferences
 					that you&rsquo;re relatively sure of.</span>
 			</p>
+			<p class="c2">
+				<span class="c0">What about appositives? &nbsp;Does it matter when they are set off by commas?</span>
+			</p>
+			<p class="c2">
+				<span>They both refer to the same person, but they are different ways of referring to the person.  
+					So you should mark both of them. For example, if you see The Thought-Criminal Winston, then you would highlight 
+					&ldquo;The Thought-Criminal&rdquo; and &ldquo;Winston&rdquo; individually referring to the same entity.</span>
+			</p>
+			<p class="c2">
+				<span class="c0">Do you really want us to highlight prepositions? &nbsp;What about the case &ldquo;name this novel about Emma&rdquo;?  
+				Wouldn&rsquo;t it make sense as &ldquo;name it about her&rdquo;?</span>
+			</p>
+			<p class="c2">
+				<span>Because of technical syntax reasons, we want all of the prepositional phrase to be marked. 
+					So you should mark all of the reference, starting with &ldquo;this novel&rdquo; until the end of the prepositional phrase.
+					So you should mark all of &ldquo;this novel about Emma&rdquo;. This will generate some long phrases, so you will often have
+					to use nested annotations to mark things within the prepositional phrase.<br>
+					If you&rsquo;re interested in the technical explanation, the reason that we want this is that automatic parsers 
+					consider prepositional phrases to be &ldquo;under&rdquo; the nouns that they modify, so we want to capture the entire phrase.</span>
+			</p>
+			<p class="c2">
+				<span class="c0">How should we handle &ldquo;titular&rdquo; references?</span>
+			</p>
+			<p class="c2">
+				<span>Use your best judgement. This is really tricky. <br>
+                                  You should definitely mark titular references when there&rsquo;s no ambiguity.
+                                  For example, &ldquo;Delta Wedding&rdquo; and &ldquo;titular event&rdquo; should definitely be marked as being a coreference.<br>
+				      However, please don&rsquo;t mark coreference when it&rsquo;s only a &ldquo;titular&rdquo; part of the title.  
+				      For instance, if the answer were &ldquo;Tinker, Tailor, Solider, Spy&rdquo;, and there was a reference to &ldquo;one titular character&rdquo;, 
+                                  you should <b>NOT</b> mark that as a reference to the title. This is something we would like to support in the future, but we do not support it yet.</span>
+			</p>
+			<p class="c2">
+				<span class="c0">This question is terrible! Why is it even here?</span>
+			</p>
+			<p class="c2">
+				<span>First, if you don&rsquo;t like a question for any reason, please just skip it.
+					We&rsquo;d rather you stay happy than for you to hold your nose and annotate a crappy question.<br> Second, there is a method to our madness.
+					When we collected data about player ability, it was on this set of questions. We will want to compare our new algorithms on these same data.<br>
+					That said, we&rsquo;re working on adding more questions to the database from QBDB.  </span>
+			</p>
+
 			<p class="c2">
 				<span class="c0">What&rsquo;s the leaderboard? &nbsp;How can I be
 					eligible for a prize?</span>

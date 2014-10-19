@@ -297,7 +297,7 @@ class QBCoref
 											) s
 											".$condition."
 											GROUP BY qid
-											HAVING count(author) > 0 and count(author) <= 5");
+											HAVING count(author) > 0 and count(author) <= 4");
 		if (empty($possible_questions)) {
 			$excluded_questions = $this->db->GetCol("SELECT qid
 											FROM (
@@ -306,12 +306,12 @@ class QBCoref
 											) s
 											".$condition."
 											GROUP BY qid
-											HAVING count(author) > 5");
+											HAVING count(author) > 4");
 			$possible_questions = $this->db->GetCol("SELECT qid FROM `questions`
 													WHERE qid NOT IN (". implode(',',$excluded_questions) .")
 													".$condition_and);
 			if (empty($possible_questions)) {
-				// If this is still empty, start going through questions with more than 5 authors
+				// If this is still empty, start going through questions with more than 4 authors 
 				$possible_questions = $this->db->GetCol("SELECT qid FROM `questions`".$condition);
 				if (empty($possible_questions)) {
 					// If this is STILL empty, they did every question
@@ -405,7 +405,7 @@ class QBCoref
 		$counter = 0;
 		$handle = fopen("../data/answers.txt", "r");
 		if ($handle) {
-			$qid = 1;
+			$qid = 14553;
 			while (($line = fgets($handle)) !== false) {
 				$answer = $this->db->qstr($line);
 				$this->db->Execute("INSERT INTO answers (`qid`,`answer`) VALUES (".$qid.",".$answer.")");

@@ -2,7 +2,7 @@
 var tag_counter = 0;
 var tags = new Object();
 tags.length = 0;
-var history = new Array();
+var qbhistory = new Array();
 var accuracy_shown = 0;
 var charsToTrim = [",","."," "];
 
@@ -73,7 +73,7 @@ function changeLastTag(type) {
 		return;
 	
 	// Remove previous tag
-	var tag = history.pop(); // removes from history
+	var tag = qbhistory.pop(); // removes from history
 	var annotation = tags[tag]['description'];
 	var pos = tags[tag]['pos'];
 	var old_type = tags[tag]['type'];
@@ -101,7 +101,7 @@ function changeLastTag(type) {
 	tags.length++;
 	
 	// add to history
-	history.push(tag_id);
+	qbhistory.push(tag_id);
 	
 	toggleClearButton();
 	
@@ -146,7 +146,7 @@ function createNewTag(type) {
 	tags.length++;
 
 	// add to history
-	history.push(tag_id);
+	qbhistory.push(tag_id);
 
 	// deselect text
 	$(question_id).blur();
@@ -173,7 +173,7 @@ function createExistingTag(tag_id, annotation, pos, type) {
 	tags[tag_id]['correct'] = 0;
 	tags.length++;
 
-	history.push(tag_id);
+	qbhistory.push(tag_id);
 	tag_counter++;
 	
 	toggleClearButton()
@@ -208,8 +208,8 @@ function getAccuracy(tag_id, annotation, pos) {
 
 function calcTotalAccuracy() {
 	var num_correct = 0;
-	for (var i=0; i< history.length; i++) {
-		var tag_id = history[i];
+	for (var i=0; i< qbhistory.length; i++) {
+		var tag_id = qbhistory[i];
 		if (tags[tag_id]['correct'] == 1) {
 			num_correct++;
 		}	
@@ -253,7 +253,7 @@ function getLastTagNum() {
 	if (tags.length == 0)
 		return;
 
-	var last_tag = history[history.length - 1];
+	var last_tag = qbhistory[qbhistory.length - 1];
 	return last_tag;
 }
 
@@ -262,7 +262,7 @@ function undoLastTag() {
 	if (tags.length == 0)
 		return;
 
-	var tag = history.pop(); // removes from history
+	var tag = qbhistory.pop(); // removes from qbhistory
 	$('#anno' + tag + ',#tag' + tag).remove();
 	var type = tags[tag]['type'];
 	if ($('#group'+type+'-results').is(':empty')) {
@@ -291,7 +291,7 @@ function deleteTag(tag, ignore_save) {
 	}
 	delete tags[tag]; // remove from tags array
 	tags.length--;
-	history.splice(history.indexOf(tag), 1); // removes from history
+	qbhistory.splice(qbhistory.indexOf(tag), 1); // removes from history
 	
 	toggleClearButton();
 	
@@ -307,9 +307,9 @@ function deleteTag(tag, ignore_save) {
 function clearAll() {
 	var r = confirm("Are you sure you want to remove all coreferences? You will NOT be able to undo this action.");
 	if (r == true) {
-		var i = history.length;
-		while(history.length > 0) {
-		    tag = history[i-1];
+		var i = qbhistory.length;
+		while(qbhistory.length > 0) {
+		    tag = qbhistory[i-1];
 		    deleteTag(tag,true);
 		    i--;
 		}
