@@ -96,8 +96,21 @@ if ($qbc->isUsingOldIEBrowser()) {
     	<div class="row">
 			<div class="col-md-9">
 				<div class="row row1">
-					<h4>Question #<?php print $qid; ?> <span id="saved-state">Saved...</span></h4>
-					<textarea id="question" readonly="readonly" ><?php print $question; ?>
+                    <?php
+                    if ($qbc->isAdmin()) {
+                        $theme['modal']['modal_id'] = 'question-stats';
+                    ?>
+                        <div class="question-stats pull-right">
+                            <a href="#" data-toggle="modal" data-target="#<?php print $theme['modal']['modal_id']; ?>"><span class="glyphicon glyphicon-stats"></span> Statistics</a>
+                        </div>
+                        <?php
+                            $theme['modal']['title'] = 'Question #' . $qid . ' Statistics';
+                            $theme['modal']['body'] = $qbc->getQuestionStatistics($qid);
+                            include_once 'views/modal.php';
+                        ?>
+                    <?php } ?>
+                    <h4>Question #<?php print $qid; ?> <span id="saved-state">Saved...</span></h4>
+                    <textarea id="question" readonly="readonly" ><?php print $question; ?>
 					</textarea>
 				</div>
 				<div class="row">

@@ -48,6 +48,16 @@ body {
 	font-weight: bold;
 }
 
+.question-stats {
+    margin: 10px 60px 0 0px;
+    line-height: 1.1;
+
+}
+
+.question-stats a:hover {
+    text-decoration: none;
+}
+
 #points {
 	font-weight: bold;
 }

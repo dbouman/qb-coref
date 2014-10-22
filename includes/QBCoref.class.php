@@ -262,6 +262,33 @@ class QBCoref
 	
 		return 0;
 	}
+
+    public function getQuestionStatistics($qid) {
+        $results = $this->db->Execute("SELECT author, count(cid) as num_annotations
+            FROM coreferences
+            WHERE qid = '".$qid."'
+            GROUP BY author
+            ORDER BY author");
+
+        $output = '<table class="table table-striped">';
+        $output .= '<thead><th>Username</th><th># of Annotations</th></thead>';
+
+        if ($results->RowCount() > 0) {
+            foreach($results as $row) {
+                $output .= '<tr>';
+                $output .= '<td>' . $row['author'] . '</td>';
+                $output .= '<td>' . $row['num_annotations'] . '</td>';
+                $output .= '</tr>';
+            }
+        }
+        else {
+            $output .= '<tr><td colspan="2">No users have annotated this question.</td></tr>';
+        }
+
+        $output .= '</table>';
+
+        return $output;
+    }
 	
 	public function getQuestion($qid) {
 		$question = "";
