@@ -307,6 +307,22 @@ class QBCoref
 	
 		return $answer;
 	}
+
+    public function getOrderedQuestion() {
+        $uid = $this->getUserID();
+        $old_questions = $this->db->GetCol("SELECT `qid` FROM user_history WHERE uid = '$uid'");
+
+        $query = "SELECT qid FROM `question_order` ";
+        $query .= "WHERE qid NOT IN (". implode(',',$old_questions) .") ";
+        $query .= "ORDER BY weight";
+        $qid = $this->db->GetOne($query);
+        if (empty($qid)) {
+            // If this is empty it means every question has been completed
+            return PHP_INT_MAX;
+        }
+
+        return $qid;
+    }
 	
 	public function getRandomQuestion() {
 		$uid = $this->getUserID();
@@ -356,8 +372,8 @@ class QBCoref
 			$pos = $this->db->GetOne("SELECT `position` FROM user_history WHERE uid = '$uid' and qid = '$qid'");
 			$next_qid = $this->db->GetOne("SELECT `qid` FROM user_history WHERE uid = '$uid' and `position` = '". ($pos+1)."'");
 			if (empty($next_qid)) {
-				// Get random question
-				$next_qid = $this->getRandomQuestion();
+				// Get next question
+				$next_qid = $this->getOrderedQuestion();
 				$this->updateHistory($next_qid, ($pos+1));
 			}
 		}
@@ -395,7 +411,7 @@ class QBCoref
 			$qid = $last_qid;
 		}
 		else {
-			$qid = $this->getRandomQuestion();
+			$qid = $this->getOrderedQuestion();
 			$this->updateHistory($qid, 1);
 			$this->first_login = true;
 		}
